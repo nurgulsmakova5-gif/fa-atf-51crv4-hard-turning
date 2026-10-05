@@ -1,0 +1,19 @@
+rank,model,model_family,mean_NRMSE,mean_NRMSE_CI_low,mean_NRMSE_CI_high,mean_inference_ms_per_sample,latency_measurement_status
+1,FA-ATF,Proposed,0.3772893280268549,0.2750483084343865,0.4740268374227295,0.6812853226339356,Measured end-to-end from reconstructed outer-fold bundles
+2,MultiTask MLP,Compact deep learning,0.4145156655946606,0.3099358011382121,0.5133483288260323,0.7947049010976183,Measured on held-out outer-fold prediction calls
+3,RandomForest,Baseline,0.4164958222222602,0.2706408453078896,0.5373474960853692,1.381636314801182,Measured on held-out outer-fold prediction calls
+4,CatBoost,Modern classical,0.4274190118480773,0.2670802712864559,0.5718482340959924,0.0944711788224032,Measured on held-out outer-fold prediction calls
+5,Residual MLP,Compact deep learning,0.4287303365371822,0.31099246994588453,0.5281365543269989,0.125897802635759,Measured on held-out outer-fold prediction calls
+6,LightGBM,Modern classical,0.4328530431754938,0.2801536818775784,0.5616459637684098,0.1032135004169065,Measured on held-out outer-fold prediction calls
+7,XGBoost,Modern classical,0.43584969868100354,0.27921260888668425,0.5732982436288906,0.1427500000666182,Measured on held-out outer-fold prediction calls
+8,ExtraTrees,Baseline,0.45245795134309463,0.3057758653150609,0.5762517926299177,1.3909215555413317,Measured on held-out outer-fold prediction calls
+9,HistGradientBoosting,Baseline,0.45438625048651426,0.29690346387739996,0.5954377338697394,3.844153296299344,Measured on held-out outer-fold prediction calls
+10,PolynomialRidge,Baseline,0.45467311423553036,0.3405869594782367,0.5604569928118597,0.1015007777666287,Measured on held-out outer-fold prediction calls
+11,Compact FT-Transformer,Compact deep learning,0.4751670549025976,0.3079180486809604,0.6257440023791939,0.2717698844956471,Measured on held-out outer-fold prediction calls
+12,ElasticNet,Baseline,0.47727850842968533,0.34193313497756916,0.5987725373756418,0.0915712345639253,Measured on held-out outer-fold prediction calls
+13,Ridge,Baseline,0.4789869253887743,0.3456941938076187,0.5985294335285531,0.0789493271867409,Measured on held-out outer-fold prediction calls
+14,LinearRegression,Baseline,0.4802191524218949,0.3484903328503008,0.5979943108559392,0.0814192407581427,Measured on held-out outer-fold prediction calls
+15,HierarchicalMixedEffects,Baseline,0.4828662046973754,0.3197104108675026,0.6265892063495555,0.0824171975519102,Measured on held-out outer-fold prediction calls
+16,GaussianProcess,Modern classical,0.49159824432763577,0.3179584919651132,0.6314697702861204,0.1061306547741462,Measured on held-out outer-fold prediction calls
+17,SVR-RBF,Baseline,0.5162298652511754,0.34843746652027485,0.6543410383789179,0.0932610679498153,Measured on held-out outer-fold prediction calls
+18,DummyRegressor,Baseline,1.0176151860057643,0.8570485818362621,1.1749679020672588,0.0323047716050001,Measured on held-out outer-fold prediction calls

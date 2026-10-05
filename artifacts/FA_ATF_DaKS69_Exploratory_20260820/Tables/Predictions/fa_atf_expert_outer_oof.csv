@@ -1,0 +1,181 @@
+sample_id,specimen_id,outer_fold,target,expert,y_true,y_pred
+10,03-010,1,surface_roughness_Ra_um,Factorial line-profile backbone,0.228,0.20031875256273168
+11,03-010,1,surface_roughness_Ra_um,Factorial line-profile backbone,0.206,0.22269375256273166
+12,03-010,1,surface_roughness_Ra_um,Factorial line-profile backbone,0.519,0.219777085896065
+46,01-012,1,surface_roughness_Ra_um,Factorial line-profile backbone,0.261,0.2641653658284663
+47,01-012,1,surface_roughness_Ra_um,Factorial line-profile backbone,0.167,0.2865403658284662
+48,01-012,1,surface_roughness_Ra_um,Factorial line-profile backbone,0.171,0.2836236991617996
+55,02-021,1,surface_roughness_Ra_um,Factorial line-profile backbone,0.204,0.18058184189622423
+56,02-021,1,surface_roughness_Ra_um,Factorial line-profile backbone,0.141,0.2029568418962242
+57,02-021,1,surface_roughness_Ra_um,Factorial line-profile backbone,0.158,0.20004017522955755
+10,03-010,1,post_process_hardness_HV30,Factorial line-profile backbone,501.0,493.66322873797776
+11,03-010,1,post_process_hardness_HV30,Factorial line-profile backbone,496.0,496.7465620713111
+12,03-010,1,post_process_hardness_HV30,Factorial line-profile backbone,493.0,488.9548954046444
+46,01-012,1,post_process_hardness_HV30,Factorial line-profile backbone,500.0,512.1177741925231
+47,01-012,1,post_process_hardness_HV30,Factorial line-profile backbone,499.0,515.2011075258565
+48,01-012,1,post_process_hardness_HV30,Factorial line-profile backbone,507.0,507.40944085918983
+55,02-021,1,post_process_hardness_HV30,Factorial line-profile backbone,602.0,589.6177741925231
+56,02-021,1,post_process_hardness_HV30,Factorial line-profile backbone,606.0,592.7011075258565
+57,02-021,1,post_process_hardness_HV30,Factorial line-profile backbone,592.0,584.9094408591899
+25,03-021,2,surface_roughness_Ra_um,Factorial line-profile backbone,1.543,1.1463989403835875
+26,03-021,2,surface_roughness_Ra_um,Factorial line-profile backbone,1.719,1.1455656070502542
+27,03-021,2,surface_roughness_Ra_um,Factorial line-profile backbone,1.583,1.1640239403835875
+28,01-008,2,surface_roughness_Ra_um,Factorial line-profile backbone,0.122,0.17601466984377914
+29,01-008,2,surface_roughness_Ra_um,Factorial line-profile backbone,0.155,0.1751813365104458
+30,01-008,2,surface_roughness_Ra_um,Factorial line-profile backbone,0.219,0.19363966984377912
+58,02-017,2,surface_roughness_Ra_um,Factorial line-profile backbone,0.783,0.7358808822411
+59,02-017,2,surface_roughness_Ra_um,Factorial line-profile backbone,0.952,0.7350475489077667
+60,02-017,2,surface_roughness_Ra_um,Factorial line-profile backbone,0.845,0.7535058822411
+25,03-021,2,post_process_hardness_HV30,Factorial line-profile backbone,509.0,500.40800037367126
+26,03-021,2,post_process_hardness_HV30,Factorial line-profile backbone,520.0,503.1996670403379
+27,03-021,2,post_process_hardness_HV30,Factorial line-profile backbone,517.0,495.3246670403379
+28,01-008,2,post_process_hardness_HV30,Factorial line-profile backbone,520.0,519.3234195698469
+29,01-008,2,post_process_hardness_HV30,Factorial line-profile backbone,523.0,522.1150862365135
+30,01-008,2,post_process_hardness_HV30,Factorial line-profile backbone,519.0,514.2400862365135
+58,02-017,2,post_process_hardness_HV30,Factorial line-profile backbone,608.0,600.6870559334833
+59,02-017,2,post_process_hardness_HV30,Factorial line-profile backbone,599.0,603.4787226001499
+60,02-017,2,post_process_hardness_HV30,Factorial line-profile backbone,599.0,595.6037226001499
+22,03-005,3,surface_roughness_Ra_um,Factorial line-profile backbone,0.851,0.774239229192129
+23,03-005,3,surface_roughness_Ra_um,Factorial line-profile backbone,0.887,0.7829058958587956
+24,03-005,3,surface_roughness_Ra_um,Factorial line-profile backbone,0.848,0.7926142291921289
+31,01-007,3,surface_roughness_Ra_um,Factorial line-profile backbone,0.817,0.8334134549553484
+32,01-007,3,surface_roughness_Ra_um,Factorial line-profile backbone,0.901,0.842080121622015
+33,01-007,3,surface_roughness_Ra_um,Factorial line-profile backbone,0.841,0.8517884549553483
+64,02-018,3,surface_roughness_Ra_um,Factorial line-profile backbone,0.17,0.23949780900039916
+65,02-018,3,surface_roughness_Ra_um,Factorial line-profile backbone,0.2,0.2481644756670658
+66,02-018,3,surface_roughness_Ra_um,Factorial line-profile backbone,0.33,0.2578728090003991
+22,03-005,3,post_process_hardness_HV30,Factorial line-profile backbone,485.0,493.27976447578897
+23,03-005,3,post_process_hardness_HV30,Factorial line-profile backbone,501.0,495.65476447578897
+24,03-005,3,post_process_hardness_HV30,Factorial line-profile backbone,501.0,490.44643114245565
+31,01-007,3,post_process_hardness_HV30,Factorial line-profile backbone,544.0,522.7343099303345
+32,01-007,3,post_process_hardness_HV30,Factorial line-profile backbone,554.0,525.1093099303345
+33,01-007,3,post_process_hardness_HV30,Factorial line-profile backbone,498.0,519.9009765970011
+64,02-018,3,post_process_hardness_HV30,Factorial line-profile backbone,595.0,594.114347798589
+65,02-018,3,post_process_hardness_HV30,Factorial line-profile backbone,584.0,596.489347798589
+66,02-018,3,post_process_hardness_HV30,Factorial line-profile backbone,569.0,591.2810144652557
+7,03-022,4,surface_roughness_Ra_um,Factorial line-profile backbone,2.119,2.757138329839604
+8,03-022,4,surface_roughness_Ra_um,Factorial line-profile backbone,2.315,2.7640966631729373
+9,03-022,4,surface_roughness_Ra_um,Factorial line-profile backbone,2.113,2.7713049965062706
+49,01-011,4,surface_roughness_Ra_um,Factorial line-profile backbone,0.971,0.6227208178140513
+50,01-011,4,surface_roughness_Ra_um,Factorial line-profile backbone,0.993,0.6296791511473846
+51,01-011,4,surface_roughness_Ra_um,Factorial line-profile backbone,0.93,0.6368874844807179
+73,02-002,4,surface_roughness_Ra_um,Factorial line-profile backbone,0.219,0.2762703569488624
+74,02-002,4,surface_roughness_Ra_um,Factorial line-profile backbone,0.192,0.2832286902821957
+75,02-002,4,surface_roughness_Ra_um,Factorial line-profile backbone,0.548,0.29043702361552903
+7,03-022,4,post_process_hardness_HV30,Factorial line-profile backbone,511.0,516.4414454735187
+8,03-022,4,post_process_hardness_HV30,Factorial line-profile backbone,491.0,519.6081121401853
+9,03-022,4,post_process_hardness_HV30,Factorial line-profile backbone,502.0,512.6497788068519
+49,01-011,4,post_process_hardness_HV30,Factorial line-profile backbone,511.0,515.7689529018795
+50,01-011,4,post_process_hardness_HV30,Factorial line-profile backbone,538.0,518.9356195685461
+51,01-011,4,post_process_hardness_HV30,Factorial line-profile backbone,504.0,511.97728623521283
+73,02-002,4,post_process_hardness_HV30,Factorial line-profile backbone,599.0,579.8598619927886
+74,02-002,4,post_process_hardness_HV30,Factorial line-profile backbone,588.0,583.0265286594553
+75,02-002,4,post_process_hardness_HV30,Factorial line-profile backbone,582.0,576.0681953261219
+4,03-007,5,surface_roughness_Ra_um,Factorial line-profile backbone,0.654,0.7730802702293287
+5,03-007,5,surface_roughness_Ra_um,Factorial line-profile backbone,0.746,0.7847469368959954
+6,03-007,5,surface_roughness_Ra_um,Factorial line-profile backbone,0.796,0.7980802702293287
+40,01-010,5,surface_roughness_Ra_um,Factorial line-profile backbone,1.049,0.8784477011875966
+41,01-010,5,surface_roughness_Ra_um,Factorial line-profile backbone,1.027,0.8901143678542633
+42,01-010,5,surface_roughness_Ra_um,Factorial line-profile backbone,0.974,0.9034477011875967
+76,02-005,5,surface_roughness_Ra_um,Factorial line-profile backbone,0.907,0.9741858990231472
+77,02-005,5,surface_roughness_Ra_um,Factorial line-profile backbone,0.915,0.9858525656898139
+78,02-005,5,surface_roughness_Ra_um,Factorial line-profile backbone,0.862,0.9991858990231473
+4,03-007,5,post_process_hardness_HV30,Factorial line-profile backbone,487.0,506.54742424242426
+5,03-007,5,post_process_hardness_HV30,Factorial line-profile backbone,505.0,508.8390909090909
+6,03-007,5,post_process_hardness_HV30,Factorial line-profile backbone,496.0,503.00575757575757
+40,01-010,5,post_process_hardness_HV30,Factorial line-profile backbone,515.0,528.5928787878787
+41,01-010,5,post_process_hardness_HV30,Factorial line-profile backbone,535.0,530.8845454545454
+42,01-010,5,post_process_hardness_HV30,Factorial line-profile backbone,493.0,525.0512121212121
+76,02-005,5,post_process_hardness_HV30,Factorial line-profile backbone,611.0,591.274696969697
+77,02-005,5,post_process_hardness_HV30,Factorial line-profile backbone,590.0,593.5663636363637
+78,02-005,5,post_process_hardness_HV30,Factorial line-profile backbone,585.0,587.7330303030303
+16,03-006,6,surface_roughness_Ra_um,Factorial line-profile backbone,2.454,2.098080593787781
+17,03-006,6,surface_roughness_Ra_um,Factorial line-profile backbone,2.325,2.113747260454448
+18,03-006,6,surface_roughness_Ra_um,Factorial line-profile backbone,2.489,2.124580593787781
+43,01-009,6,surface_roughness_Ra_um,Factorial line-profile backbone,1.695,2.171955716231914
+44,01-009,6,surface_roughness_Ra_um,Factorial line-profile backbone,1.812,2.1876223828985806
+45,01-009,6,surface_roughness_Ra_um,Factorial line-profile backbone,1.735,2.198455716231914
+67,02-010,6,surface_roughness_Ra_um,Factorial line-profile backbone,0.91,0.9703198340921084
+68,02-010,6,surface_roughness_Ra_um,Factorial line-profile backbone,0.904,0.9859865007587751
+69,02-010,6,surface_roughness_Ra_um,Factorial line-profile backbone,0.821,0.9968198340921085
+16,03-006,6,surface_roughness_Ra_um,Residual-corrected expert,2.454,2.0165698942215076
+17,03-006,6,surface_roughness_Ra_um,Residual-corrected expert,2.325,1.9922946583287202
+18,03-006,6,surface_roughness_Ra_um,Residual-corrected expert,2.489,1.9634874513626834
+43,01-009,6,surface_roughness_Ra_um,Residual-corrected expert,1.695,2.037835762588422
+44,01-009,6,surface_roughness_Ra_um,Residual-corrected expert,1.812,2.0135605266956347
+45,01-009,6,surface_roughness_Ra_um,Residual-corrected expert,1.735,1.9847533197295981
+67,02-010,6,surface_roughness_Ra_um,Residual-corrected expert,0.91,0.8713516651432399
+68,02-010,6,surface_roughness_Ra_um,Residual-corrected expert,0.904,0.8813575148770755
+69,02-010,6,surface_roughness_Ra_um,Residual-corrected expert,0.821,0.8954016649443176
+16,03-006,6,post_process_hardness_HV30,Factorial line-profile backbone,529.0,506.660770878229
+17,03-006,6,post_process_hardness_HV30,Factorial line-profile backbone,480.0,511.70243754489564
+18,03-006,6,post_process_hardness_HV30,Factorial line-profile backbone,522.0,501.86910421156233
+43,01-009,6,post_process_hardness_HV30,Factorial line-profile backbone,536.0,528.1807708782289
+44,01-009,6,post_process_hardness_HV30,Factorial line-profile backbone,554.0,533.2224375448957
+45,01-009,6,post_process_hardness_HV30,Factorial line-profile backbone,536.0,523.3891042115623
+67,02-010,6,post_process_hardness_HV30,Factorial line-profile backbone,617.0,592.9850010713805
+68,02-010,6,post_process_hardness_HV30,Factorial line-profile backbone,599.0,598.0266677380472
+69,02-010,6,post_process_hardness_HV30,Factorial line-profile backbone,615.0,588.1933344047138
+19,03-024,7,surface_roughness_Ra_um,Factorial line-profile backbone,0.241,0.3000348433535887
+20,03-024,7,surface_roughness_Ra_um,Factorial line-profile backbone,0.234,0.32682651002025537
+21,03-024,7,surface_roughness_Ra_um,Factorial line-profile backbone,0.219,0.342118176686922
+34,01-006,7,surface_roughness_Ra_um,Factorial line-profile backbone,3.614,2.173253950489311
+35,01-006,7,surface_roughness_Ra_um,Factorial line-profile backbone,3.411,2.2000456171559777
+36,01-006,7,surface_roughness_Ra_um,Factorial line-profile backbone,3.341,2.2153372838226444
+61,02-012,7,surface_roughness_Ra_um,Factorial line-profile backbone,2.297,2.181241221316782
+62,02-012,7,surface_roughness_Ra_um,Factorial line-profile backbone,2.222,2.2080328879834488
+63,02-012,7,surface_roughness_Ra_um,Factorial line-profile backbone,2.204,2.2233245546501155
+19,03-024,7,post_process_hardness_HV30,Factorial line-profile backbone,493.0,486.96261405536063
+20,03-024,7,post_process_hardness_HV30,Factorial line-profile backbone,490.0,489.6292807220273
+21,03-024,7,post_process_hardness_HV30,Factorial line-profile backbone,488.0,483.17094738869395
+34,01-006,7,post_process_hardness_HV30,Factorial line-profile backbone,537.0,532.6096075943177
+35,01-006,7,post_process_hardness_HV30,Factorial line-profile backbone,555.0,535.2762742609843
+36,01-006,7,post_process_hardness_HV30,Factorial line-profile backbone,544.0,528.8179409276511
+61,02-012,7,post_process_hardness_HV30,Factorial line-profile backbone,615.0,608.3296075943177
+62,02-012,7,post_process_hardness_HV30,Factorial line-profile backbone,608.0,610.9962742609844
+63,02-012,7,post_process_hardness_HV30,Factorial line-profile backbone,580.0,604.5379409276511
+1,03-008,8,surface_roughness_Ra_um,Factorial line-profile backbone,0.147,0.2023892664134746
+2,03-008,8,surface_roughness_Ra_um,Factorial line-profile backbone,0.144,0.21726426641347457
+3,03-008,8,surface_roughness_Ra_um,Factorial line-profile backbone,0.226,0.22718093308014126
+37,01-005,8,surface_roughness_Ra_um,Factorial line-profile backbone,0.267,0.20029724561688722
+38,01-005,8,surface_roughness_Ra_um,Factorial line-profile backbone,0.232,0.2151722456168872
+39,01-005,8,surface_roughness_Ra_um,Factorial line-profile backbone,0.256,0.22508891228355388
+70,02-008,8,surface_roughness_Ra_um,Factorial line-profile backbone,2.039,2.043186384026751
+71,02-008,8,surface_roughness_Ra_um,Factorial line-profile backbone,2.078,2.0580613840267508
+72,02-008,8,surface_roughness_Ra_um,Factorial line-profile backbone,1.998,2.0679780506934176
+1,03-008,8,surface_roughness_Ra_um,Residual-corrected expert,0.147,0.2423491172108422
+2,03-008,8,surface_roughness_Ra_um,Residual-corrected expert,0.144,0.30883481752354836
+3,03-008,8,surface_roughness_Ra_um,Residual-corrected expert,0.226,0.3925842506702317
+37,01-005,8,surface_roughness_Ra_um,Residual-corrected expert,0.267,0.19850357593064105
+38,01-005,8,surface_roughness_Ra_um,Residual-corrected expert,0.232,0.24285226110814995
+39,01-005,8,surface_roughness_Ra_um,Residual-corrected expert,0.256,0.2989304253358366
+70,02-008,8,surface_roughness_Ra_um,Residual-corrected expert,2.039,2.0707173072318894
+71,02-008,8,surface_roughness_Ra_um,Residual-corrected expert,2.078,2.0492613072534835
+72,02-008,8,surface_roughness_Ra_um,Residual-corrected expert,1.998,2.0230836150362768
+1,03-008,8,post_process_hardness_HV30,Factorial line-profile backbone,490.0,501.24382663909387
+2,03-008,8,post_process_hardness_HV30,Factorial line-profile backbone,498.0,500.74382663909387
+3,03-008,8,post_process_hardness_HV30,Factorial line-profile backbone,482.0,493.91049330576055
+37,01-005,8,post_process_hardness_HV30,Factorial line-profile backbone,504.0,520.8384966885203
+38,01-005,8,post_process_hardness_HV30,Factorial line-profile backbone,518.0,520.3384966885203
+39,01-005,8,post_process_hardness_HV30,Factorial line-profile backbone,513.0,513.505163355187
+70,02-008,8,post_process_hardness_HV30,Factorial line-profile backbone,577.0,605.8371959366918
+71,02-008,8,post_process_hardness_HV30,Factorial line-profile backbone,639.0,605.3371959366918
+72,02-008,8,post_process_hardness_HV30,Factorial line-profile backbone,628.0,598.5038626033586
+13,03-019,9,surface_roughness_Ra_um,Factorial line-profile backbone,0.759,0.9840472720406609
+14,03-019,9,surface_roughness_Ra_um,Factorial line-profile backbone,0.842,0.9972139387073276
+15,03-019,9,surface_roughness_Ra_um,Factorial line-profile backbone,0.946,1.0033806053739942
+52,01-002,9,surface_roughness_Ra_um,Factorial line-profile backbone,0.785,1.5768934430225443
+53,01-002,9,surface_roughness_Ra_um,Factorial line-profile backbone,0.85,1.5900601096892109
+54,01-002,9,surface_roughness_Ra_um,Factorial line-profile backbone,0.892,1.5962267763558775
+79,02-022,9,surface_roughness_Ra_um,Factorial line-profile backbone,1.941,1.493159691748897
+80,02-022,9,surface_roughness_Ra_um,Factorial line-profile backbone,1.835,1.5063263584155635
+81,02-022,9,surface_roughness_Ra_um,Factorial line-profile backbone,1.805,1.5124930250822302
+13,03-019,9,post_process_hardness_HV30,Factorial line-profile backbone,494.0,502.62519682937904
+14,03-019,9,post_process_hardness_HV30,Factorial line-profile backbone,497.0,505.70853016271235
+15,03-019,9,post_process_hardness_HV30,Factorial line-profile backbone,488.0,497.16686349604566
+52,01-002,9,post_process_hardness_HV30,Factorial line-profile backbone,513.0,532.6465905148256
+53,01-002,9,post_process_hardness_HV30,Factorial line-profile backbone,508.0,535.7299238481589
+54,01-002,9,post_process_hardness_HV30,Factorial line-profile backbone,521.0,527.1882571814923
+79,02-022,9,post_process_hardness_HV30,Factorial line-profile backbone,589.0,605.8465905148256
+80,02-022,9,post_process_hardness_HV30,Factorial line-profile backbone,589.0,608.929923848159
+81,02-022,9,post_process_hardness_HV30,Factorial line-profile backbone,594.0,600.3882571814923

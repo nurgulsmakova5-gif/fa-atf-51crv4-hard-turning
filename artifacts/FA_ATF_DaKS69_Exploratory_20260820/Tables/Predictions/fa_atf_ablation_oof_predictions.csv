@@ -1,0 +1,1135 @@
+sample_id,specimen_id,section_id,outer_fold,target,variant,y_true,y_pred
+10,03-010,3,1,surface_roughness_Ra_um,Full FA-ATF,0.228,0.20031875256273168
+11,03-010,2,1,surface_roughness_Ra_um,Full FA-ATF,0.206,0.22269375256273166
+12,03-010,1,1,surface_roughness_Ra_um,Full FA-ATF,0.519,0.219777085896065
+46,01-012,3,1,surface_roughness_Ra_um,Full FA-ATF,0.261,0.2641653658284663
+47,01-012,2,1,surface_roughness_Ra_um,Full FA-ATF,0.167,0.2865403658284662
+48,01-012,1,1,surface_roughness_Ra_um,Full FA-ATF,0.171,0.2836236991617996
+55,02-021,3,1,surface_roughness_Ra_um,Full FA-ATF,0.204,0.18058184189622423
+56,02-021,2,1,surface_roughness_Ra_um,Full FA-ATF,0.141,0.2029568418962242
+57,02-021,1,1,surface_roughness_Ra_um,Full FA-ATF,0.158,0.20004017522955755
+10,03-010,3,1,surface_roughness_Ra_um,Without factorial line-profile branch,0.228,0.23581716617377024
+11,03-010,2,1,surface_roughness_Ra_um,Without factorial line-profile branch,0.206,0.24836802837927285
+12,03-010,1,1,surface_roughness_Ra_um,Without factorial line-profile branch,0.519,0.3077301994192019
+46,01-012,3,1,surface_roughness_Ra_um,Without factorial line-profile branch,0.261,0.2800440842375247
+47,01-012,2,1,surface_roughness_Ra_um,Without factorial line-profile branch,0.167,0.2916127044048664
+48,01-012,1,1,surface_roughness_Ra_um,Without factorial line-profile branch,0.171,0.3575018825295474
+55,02-021,3,1,surface_roughness_Ra_um,Without factorial line-profile branch,0.204,0.1765798050030949
+56,02-021,2,1,surface_roughness_Ra_um,Without factorial line-profile branch,0.141,0.17517632973438668
+57,02-021,1,1,surface_roughness_Ra_um,Without factorial line-profile branch,0.158,0.28086612133049016
+10,03-010,3,1,surface_roughness_Ra_um,Without residual correction,0.228,0.20031875256273168
+11,03-010,2,1,surface_roughness_Ra_um,Without residual correction,0.206,0.22269375256273166
+12,03-010,1,1,surface_roughness_Ra_um,Without residual correction,0.519,0.219777085896065
+46,01-012,3,1,surface_roughness_Ra_um,Without residual correction,0.261,0.2641653658284663
+47,01-012,2,1,surface_roughness_Ra_um,Without residual correction,0.167,0.2865403658284662
+48,01-012,1,1,surface_roughness_Ra_um,Without residual correction,0.171,0.2836236991617996
+55,02-021,3,1,surface_roughness_Ra_um,Without residual correction,0.204,0.18058184189622423
+56,02-021,2,1,surface_roughness_Ra_um,Without residual correction,0.141,0.2029568418962242
+57,02-021,1,1,surface_roughness_Ra_um,Without residual correction,0.158,0.20004017522955755
+10,03-010,3,1,surface_roughness_Ra_um,Without physics-guided/meta features,0.228,0.20031875256273168
+11,03-010,2,1,surface_roughness_Ra_um,Without physics-guided/meta features,0.206,0.22269375256273166
+12,03-010,1,1,surface_roughness_Ra_um,Without physics-guided/meta features,0.519,0.219777085896065
+46,01-012,3,1,surface_roughness_Ra_um,Without physics-guided/meta features,0.261,0.2641653658284663
+47,01-012,2,1,surface_roughness_Ra_um,Without physics-guided/meta features,0.167,0.2865403658284662
+48,01-012,1,1,surface_roughness_Ra_um,Without physics-guided/meta features,0.171,0.2836236991617996
+55,02-021,3,1,surface_roughness_Ra_um,Without physics-guided/meta features,0.204,0.18058184189622423
+56,02-021,2,1,surface_roughness_Ra_um,Without physics-guided/meta features,0.141,0.2029568418962242
+57,02-021,1,1,surface_roughness_Ra_um,Without physics-guided/meta features,0.158,0.20004017522955755
+10,03-010,3,1,surface_roughness_Ra_um,Uniform fusion,0.228,0.20031875256273168
+11,03-010,2,1,surface_roughness_Ra_um,Uniform fusion,0.206,0.22269375256273166
+12,03-010,1,1,surface_roughness_Ra_um,Uniform fusion,0.519,0.219777085896065
+46,01-012,3,1,surface_roughness_Ra_um,Uniform fusion,0.261,0.2641653658284663
+47,01-012,2,1,surface_roughness_Ra_um,Uniform fusion,0.167,0.2865403658284662
+48,01-012,1,1,surface_roughness_Ra_um,Uniform fusion,0.171,0.2836236991617996
+55,02-021,3,1,surface_roughness_Ra_um,Uniform fusion,0.204,0.18058184189622423
+56,02-021,2,1,surface_roughness_Ra_um,Uniform fusion,0.141,0.2029568418962242
+57,02-021,1,1,surface_roughness_Ra_um,Uniform fusion,0.158,0.20004017522955755
+10,03-010,3,1,surface_roughness_Ra_um,Strongest single branch only,0.228,0.20031875256273168
+11,03-010,2,1,surface_roughness_Ra_um,Strongest single branch only,0.206,0.22269375256273166
+12,03-010,1,1,surface_roughness_Ra_um,Strongest single branch only,0.519,0.219777085896065
+46,01-012,3,1,surface_roughness_Ra_um,Strongest single branch only,0.261,0.2641653658284663
+47,01-012,2,1,surface_roughness_Ra_um,Strongest single branch only,0.167,0.2865403658284662
+48,01-012,1,1,surface_roughness_Ra_um,Strongest single branch only,0.171,0.2836236991617996
+55,02-021,3,1,surface_roughness_Ra_um,Strongest single branch only,0.204,0.18058184189622423
+56,02-021,2,1,surface_roughness_Ra_um,Strongest single branch only,0.141,0.2029568418962242
+57,02-021,1,1,surface_roughness_Ra_um,Strongest single branch only,0.158,0.20004017522955755
+10,03-010,3,1,post_process_hardness_HV30,Full FA-ATF,501.0,493.66322873797776
+11,03-010,2,1,post_process_hardness_HV30,Full FA-ATF,496.0,496.7465620713111
+12,03-010,1,1,post_process_hardness_HV30,Full FA-ATF,493.0,488.9548954046444
+46,01-012,3,1,post_process_hardness_HV30,Full FA-ATF,500.0,512.1177741925231
+47,01-012,2,1,post_process_hardness_HV30,Full FA-ATF,499.0,515.2011075258565
+48,01-012,1,1,post_process_hardness_HV30,Full FA-ATF,507.0,507.40944085918983
+55,02-021,3,1,post_process_hardness_HV30,Full FA-ATF,602.0,589.6177741925231
+56,02-021,2,1,post_process_hardness_HV30,Full FA-ATF,606.0,592.7011075258565
+57,02-021,1,1,post_process_hardness_HV30,Full FA-ATF,592.0,584.9094408591899
+10,03-010,3,1,post_process_hardness_HV30,Without factorial line-profile branch,501.0,496.29623754646303
+11,03-010,2,1,post_process_hardness_HV30,Without factorial line-profile branch,496.0,495.3134471479209
+12,03-010,1,1,post_process_hardness_HV30,Without factorial line-profile branch,493.0,491.47080937022264
+46,01-012,3,1,post_process_hardness_HV30,Without factorial line-profile branch,500.0,517.3517178547971
+47,01-012,2,1,post_process_hardness_HV30,Without factorial line-profile branch,499.0,517.2573566016603
+48,01-012,1,1,post_process_hardness_HV30,Without factorial line-profile branch,507.0,511.77619165631717
+55,02-021,3,1,post_process_hardness_HV30,Without factorial line-profile branch,602.0,590.0920446932257
+56,02-021,2,1,post_process_hardness_HV30,Without factorial line-profile branch,606.0,592.1302204751142
+57,02-021,1,1,post_process_hardness_HV30,Without factorial line-profile branch,592.0,584.2634072239892
+10,03-010,3,1,post_process_hardness_HV30,Without residual correction,501.0,493.66322873797776
+11,03-010,2,1,post_process_hardness_HV30,Without residual correction,496.0,496.7465620713111
+12,03-010,1,1,post_process_hardness_HV30,Without residual correction,493.0,488.9548954046444
+46,01-012,3,1,post_process_hardness_HV30,Without residual correction,500.0,512.1177741925231
+47,01-012,2,1,post_process_hardness_HV30,Without residual correction,499.0,515.2011075258565
+48,01-012,1,1,post_process_hardness_HV30,Without residual correction,507.0,507.40944085918983
+55,02-021,3,1,post_process_hardness_HV30,Without residual correction,602.0,589.6177741925231
+56,02-021,2,1,post_process_hardness_HV30,Without residual correction,606.0,592.7011075258565
+57,02-021,1,1,post_process_hardness_HV30,Without residual correction,592.0,584.9094408591899
+10,03-010,3,1,post_process_hardness_HV30,Without physics-guided/meta features,501.0,493.66322873797776
+11,03-010,2,1,post_process_hardness_HV30,Without physics-guided/meta features,496.0,496.7465620713111
+12,03-010,1,1,post_process_hardness_HV30,Without physics-guided/meta features,493.0,488.9548954046444
+46,01-012,3,1,post_process_hardness_HV30,Without physics-guided/meta features,500.0,512.1177741925231
+47,01-012,2,1,post_process_hardness_HV30,Without physics-guided/meta features,499.0,515.2011075258565
+48,01-012,1,1,post_process_hardness_HV30,Without physics-guided/meta features,507.0,507.40944085918983
+55,02-021,3,1,post_process_hardness_HV30,Without physics-guided/meta features,602.0,589.6177741925231
+56,02-021,2,1,post_process_hardness_HV30,Without physics-guided/meta features,606.0,592.7011075258565
+57,02-021,1,1,post_process_hardness_HV30,Without physics-guided/meta features,592.0,584.9094408591899
+10,03-010,3,1,post_process_hardness_HV30,Uniform fusion,501.0,493.66322873797776
+11,03-010,2,1,post_process_hardness_HV30,Uniform fusion,496.0,496.7465620713111
+12,03-010,1,1,post_process_hardness_HV30,Uniform fusion,493.0,488.9548954046444
+46,01-012,3,1,post_process_hardness_HV30,Uniform fusion,500.0,512.1177741925231
+47,01-012,2,1,post_process_hardness_HV30,Uniform fusion,499.0,515.2011075258565
+48,01-012,1,1,post_process_hardness_HV30,Uniform fusion,507.0,507.40944085918983
+55,02-021,3,1,post_process_hardness_HV30,Uniform fusion,602.0,589.6177741925231
+56,02-021,2,1,post_process_hardness_HV30,Uniform fusion,606.0,592.7011075258565
+57,02-021,1,1,post_process_hardness_HV30,Uniform fusion,592.0,584.9094408591899
+10,03-010,3,1,post_process_hardness_HV30,Strongest single branch only,501.0,493.66322873797776
+11,03-010,2,1,post_process_hardness_HV30,Strongest single branch only,496.0,496.7465620713111
+12,03-010,1,1,post_process_hardness_HV30,Strongest single branch only,493.0,488.9548954046444
+46,01-012,3,1,post_process_hardness_HV30,Strongest single branch only,500.0,512.1177741925231
+47,01-012,2,1,post_process_hardness_HV30,Strongest single branch only,499.0,515.2011075258565
+48,01-012,1,1,post_process_hardness_HV30,Strongest single branch only,507.0,507.40944085918983
+55,02-021,3,1,post_process_hardness_HV30,Strongest single branch only,602.0,589.6177741925231
+56,02-021,2,1,post_process_hardness_HV30,Strongest single branch only,606.0,592.7011075258565
+57,02-021,1,1,post_process_hardness_HV30,Strongest single branch only,592.0,584.9094408591899
+10,03-010,3,1,surface_roughness_Ra_um,Shared weights across targets,0.228,0.20031875256273168
+11,03-010,2,1,surface_roughness_Ra_um,Shared weights across targets,0.206,0.22269375256273166
+12,03-010,1,1,surface_roughness_Ra_um,Shared weights across targets,0.519,0.219777085896065
+46,01-012,3,1,surface_roughness_Ra_um,Shared weights across targets,0.261,0.2641653658284663
+47,01-012,2,1,surface_roughness_Ra_um,Shared weights across targets,0.167,0.2865403658284662
+48,01-012,1,1,surface_roughness_Ra_um,Shared weights across targets,0.171,0.2836236991617996
+55,02-021,3,1,surface_roughness_Ra_um,Shared weights across targets,0.204,0.18058184189622423
+56,02-021,2,1,surface_roughness_Ra_um,Shared weights across targets,0.141,0.2029568418962242
+57,02-021,1,1,surface_roughness_Ra_um,Shared weights across targets,0.158,0.20004017522955755
+10,03-010,3,1,post_process_hardness_HV30,Shared weights across targets,501.0,493.66322873797776
+11,03-010,2,1,post_process_hardness_HV30,Shared weights across targets,496.0,496.7465620713111
+12,03-010,1,1,post_process_hardness_HV30,Shared weights across targets,493.0,488.9548954046444
+46,01-012,3,1,post_process_hardness_HV30,Shared weights across targets,500.0,512.1177741925231
+47,01-012,2,1,post_process_hardness_HV30,Shared weights across targets,499.0,515.2011075258565
+48,01-012,1,1,post_process_hardness_HV30,Shared weights across targets,507.0,507.40944085918983
+55,02-021,3,1,post_process_hardness_HV30,Shared weights across targets,602.0,589.6177741925231
+56,02-021,2,1,post_process_hardness_HV30,Shared weights across targets,606.0,592.7011075258565
+57,02-021,1,1,post_process_hardness_HV30,Shared weights across targets,592.0,584.9094408591899
+25,03-021,3,2,surface_roughness_Ra_um,Full FA-ATF,1.543,1.1463989403835875
+26,03-021,2,2,surface_roughness_Ra_um,Full FA-ATF,1.719,1.1455656070502542
+27,03-021,1,2,surface_roughness_Ra_um,Full FA-ATF,1.583,1.1640239403835875
+28,01-008,3,2,surface_roughness_Ra_um,Full FA-ATF,0.122,0.17601466984377914
+29,01-008,2,2,surface_roughness_Ra_um,Full FA-ATF,0.155,0.1751813365104458
+30,01-008,1,2,surface_roughness_Ra_um,Full FA-ATF,0.219,0.19363966984377912
+58,02-017,3,2,surface_roughness_Ra_um,Full FA-ATF,0.783,0.7358808822411
+59,02-017,2,2,surface_roughness_Ra_um,Full FA-ATF,0.952,0.7350475489077667
+60,02-017,1,2,surface_roughness_Ra_um,Full FA-ATF,0.845,0.7535058822411
+25,03-021,3,2,surface_roughness_Ra_um,Without factorial line-profile branch,1.543,1.1255502222222233
+26,03-021,2,2,surface_roughness_Ra_um,Without factorial line-profile branch,1.719,1.1255502222222233
+27,03-021,1,2,surface_roughness_Ra_um,Without factorial line-profile branch,1.583,1.1255502222222233
+28,01-008,3,2,surface_roughness_Ra_um,Without factorial line-profile branch,0.122,0.2008458219696975
+29,01-008,2,2,surface_roughness_Ra_um,Without factorial line-profile branch,0.155,0.2000738712121217
+30,01-008,1,2,surface_roughness_Ra_um,Without factorial line-profile branch,0.219,0.25840643668831254
+58,02-017,3,2,surface_roughness_Ra_um,Without factorial line-profile branch,0.783,0.8711033333333338
+59,02-017,2,2,surface_roughness_Ra_um,Without factorial line-profile branch,0.952,0.8744865821371614
+60,02-017,1,2,surface_roughness_Ra_um,Without factorial line-profile branch,0.845,0.8760449154704947
+25,03-021,3,2,surface_roughness_Ra_um,Without residual correction,1.543,1.1463989403835875
+26,03-021,2,2,surface_roughness_Ra_um,Without residual correction,1.719,1.1455656070502542
+27,03-021,1,2,surface_roughness_Ra_um,Without residual correction,1.583,1.1640239403835875
+28,01-008,3,2,surface_roughness_Ra_um,Without residual correction,0.122,0.17601466984377914
+29,01-008,2,2,surface_roughness_Ra_um,Without residual correction,0.155,0.1751813365104458
+30,01-008,1,2,surface_roughness_Ra_um,Without residual correction,0.219,0.19363966984377912
+58,02-017,3,2,surface_roughness_Ra_um,Without residual correction,0.783,0.7358808822411
+59,02-017,2,2,surface_roughness_Ra_um,Without residual correction,0.952,0.7350475489077667
+60,02-017,1,2,surface_roughness_Ra_um,Without residual correction,0.845,0.7535058822411
+25,03-021,3,2,surface_roughness_Ra_um,Without physics-guided/meta features,1.543,1.1463989403835875
+26,03-021,2,2,surface_roughness_Ra_um,Without physics-guided/meta features,1.719,1.1455656070502542
+27,03-021,1,2,surface_roughness_Ra_um,Without physics-guided/meta features,1.583,1.1640239403835875
+28,01-008,3,2,surface_roughness_Ra_um,Without physics-guided/meta features,0.122,0.17601466984377914
+29,01-008,2,2,surface_roughness_Ra_um,Without physics-guided/meta features,0.155,0.1751813365104458
+30,01-008,1,2,surface_roughness_Ra_um,Without physics-guided/meta features,0.219,0.19363966984377912
+58,02-017,3,2,surface_roughness_Ra_um,Without physics-guided/meta features,0.783,0.7358808822411
+59,02-017,2,2,surface_roughness_Ra_um,Without physics-guided/meta features,0.952,0.7350475489077667
+60,02-017,1,2,surface_roughness_Ra_um,Without physics-guided/meta features,0.845,0.7535058822411
+25,03-021,3,2,surface_roughness_Ra_um,Uniform fusion,1.543,1.1463989403835875
+26,03-021,2,2,surface_roughness_Ra_um,Uniform fusion,1.719,1.1455656070502542
+27,03-021,1,2,surface_roughness_Ra_um,Uniform fusion,1.583,1.1640239403835875
+28,01-008,3,2,surface_roughness_Ra_um,Uniform fusion,0.122,0.17601466984377914
+29,01-008,2,2,surface_roughness_Ra_um,Uniform fusion,0.155,0.1751813365104458
+30,01-008,1,2,surface_roughness_Ra_um,Uniform fusion,0.219,0.19363966984377912
+58,02-017,3,2,surface_roughness_Ra_um,Uniform fusion,0.783,0.7358808822411
+59,02-017,2,2,surface_roughness_Ra_um,Uniform fusion,0.952,0.7350475489077667
+60,02-017,1,2,surface_roughness_Ra_um,Uniform fusion,0.845,0.7535058822411
+25,03-021,3,2,surface_roughness_Ra_um,Strongest single branch only,1.543,1.1463989403835875
+26,03-021,2,2,surface_roughness_Ra_um,Strongest single branch only,1.719,1.1455656070502542
+27,03-021,1,2,surface_roughness_Ra_um,Strongest single branch only,1.583,1.1640239403835875
+28,01-008,3,2,surface_roughness_Ra_um,Strongest single branch only,0.122,0.17601466984377914
+29,01-008,2,2,surface_roughness_Ra_um,Strongest single branch only,0.155,0.1751813365104458
+30,01-008,1,2,surface_roughness_Ra_um,Strongest single branch only,0.219,0.19363966984377912
+58,02-017,3,2,surface_roughness_Ra_um,Strongest single branch only,0.783,0.7358808822411
+59,02-017,2,2,surface_roughness_Ra_um,Strongest single branch only,0.952,0.7350475489077667
+60,02-017,1,2,surface_roughness_Ra_um,Strongest single branch only,0.845,0.7535058822411
+25,03-021,3,2,post_process_hardness_HV30,Full FA-ATF,509.0,500.40800037367126
+26,03-021,2,2,post_process_hardness_HV30,Full FA-ATF,520.0,503.1996670403379
+27,03-021,1,2,post_process_hardness_HV30,Full FA-ATF,517.0,495.3246670403379
+28,01-008,3,2,post_process_hardness_HV30,Full FA-ATF,520.0,519.3234195698469
+29,01-008,2,2,post_process_hardness_HV30,Full FA-ATF,523.0,522.1150862365135
+30,01-008,1,2,post_process_hardness_HV30,Full FA-ATF,519.0,514.2400862365135
+58,02-017,3,2,post_process_hardness_HV30,Full FA-ATF,608.0,600.6870559334833
+59,02-017,2,2,post_process_hardness_HV30,Full FA-ATF,599.0,603.4787226001499
+60,02-017,1,2,post_process_hardness_HV30,Full FA-ATF,599.0,595.6037226001499
+25,03-021,3,2,post_process_hardness_HV30,Without factorial line-profile branch,509.0,505.42607067090756
+26,03-021,2,2,post_process_hardness_HV30,Without factorial line-profile branch,520.0,505.1931343131592
+27,03-021,1,2,post_process_hardness_HV30,Without factorial line-profile branch,517.0,508.45153242104857
+28,01-008,3,2,post_process_hardness_HV30,Without factorial line-profile branch,520.0,520.1185981110689
+29,01-008,2,2,post_process_hardness_HV30,Without factorial line-profile branch,523.0,519.8644239545418
+30,01-008,1,2,post_process_hardness_HV30,Without factorial line-profile branch,519.0,514.1956123441755
+58,02-017,3,2,post_process_hardness_HV30,Without factorial line-profile branch,608.0,603.272048068317
+59,02-017,2,2,post_process_hardness_HV30,Without factorial line-profile branch,599.0,603.2855890960536
+60,02-017,1,2,post_process_hardness_HV30,Without factorial line-profile branch,599.0,596.1837583079933
+25,03-021,3,2,post_process_hardness_HV30,Without residual correction,509.0,500.40800037367126
+26,03-021,2,2,post_process_hardness_HV30,Without residual correction,520.0,503.1996670403379
+27,03-021,1,2,post_process_hardness_HV30,Without residual correction,517.0,495.3246670403379
+28,01-008,3,2,post_process_hardness_HV30,Without residual correction,520.0,519.3234195698469
+29,01-008,2,2,post_process_hardness_HV30,Without residual correction,523.0,522.1150862365135
+30,01-008,1,2,post_process_hardness_HV30,Without residual correction,519.0,514.2400862365135
+58,02-017,3,2,post_process_hardness_HV30,Without residual correction,608.0,600.6870559334833
+59,02-017,2,2,post_process_hardness_HV30,Without residual correction,599.0,603.4787226001499
+60,02-017,1,2,post_process_hardness_HV30,Without residual correction,599.0,595.6037226001499
+25,03-021,3,2,post_process_hardness_HV30,Without physics-guided/meta features,509.0,500.40800037367126
+26,03-021,2,2,post_process_hardness_HV30,Without physics-guided/meta features,520.0,503.1996670403379
+27,03-021,1,2,post_process_hardness_HV30,Without physics-guided/meta features,517.0,495.3246670403379
+28,01-008,3,2,post_process_hardness_HV30,Without physics-guided/meta features,520.0,519.3234195698469
+29,01-008,2,2,post_process_hardness_HV30,Without physics-guided/meta features,523.0,522.1150862365135
+30,01-008,1,2,post_process_hardness_HV30,Without physics-guided/meta features,519.0,514.2400862365135
+58,02-017,3,2,post_process_hardness_HV30,Without physics-guided/meta features,608.0,600.6870559334833
+59,02-017,2,2,post_process_hardness_HV30,Without physics-guided/meta features,599.0,603.4787226001499
+60,02-017,1,2,post_process_hardness_HV30,Without physics-guided/meta features,599.0,595.6037226001499
+25,03-021,3,2,post_process_hardness_HV30,Uniform fusion,509.0,500.40800037367126
+26,03-021,2,2,post_process_hardness_HV30,Uniform fusion,520.0,503.1996670403379
+27,03-021,1,2,post_process_hardness_HV30,Uniform fusion,517.0,495.3246670403379
+28,01-008,3,2,post_process_hardness_HV30,Uniform fusion,520.0,519.3234195698469
+29,01-008,2,2,post_process_hardness_HV30,Uniform fusion,523.0,522.1150862365135
+30,01-008,1,2,post_process_hardness_HV30,Uniform fusion,519.0,514.2400862365135
+58,02-017,3,2,post_process_hardness_HV30,Uniform fusion,608.0,600.6870559334833
+59,02-017,2,2,post_process_hardness_HV30,Uniform fusion,599.0,603.4787226001499
+60,02-017,1,2,post_process_hardness_HV30,Uniform fusion,599.0,595.6037226001499
+25,03-021,3,2,post_process_hardness_HV30,Strongest single branch only,509.0,500.40800037367126
+26,03-021,2,2,post_process_hardness_HV30,Strongest single branch only,520.0,503.1996670403379
+27,03-021,1,2,post_process_hardness_HV30,Strongest single branch only,517.0,495.3246670403379
+28,01-008,3,2,post_process_hardness_HV30,Strongest single branch only,520.0,519.3234195698469
+29,01-008,2,2,post_process_hardness_HV30,Strongest single branch only,523.0,522.1150862365135
+30,01-008,1,2,post_process_hardness_HV30,Strongest single branch only,519.0,514.2400862365135
+58,02-017,3,2,post_process_hardness_HV30,Strongest single branch only,608.0,600.6870559334833
+59,02-017,2,2,post_process_hardness_HV30,Strongest single branch only,599.0,603.4787226001499
+60,02-017,1,2,post_process_hardness_HV30,Strongest single branch only,599.0,595.6037226001499
+25,03-021,3,2,surface_roughness_Ra_um,Shared weights across targets,1.543,1.1463989403835875
+26,03-021,2,2,surface_roughness_Ra_um,Shared weights across targets,1.719,1.1455656070502542
+27,03-021,1,2,surface_roughness_Ra_um,Shared weights across targets,1.583,1.1640239403835875
+28,01-008,3,2,surface_roughness_Ra_um,Shared weights across targets,0.122,0.17601466984377914
+29,01-008,2,2,surface_roughness_Ra_um,Shared weights across targets,0.155,0.1751813365104458
+30,01-008,1,2,surface_roughness_Ra_um,Shared weights across targets,0.219,0.19363966984377912
+58,02-017,3,2,surface_roughness_Ra_um,Shared weights across targets,0.783,0.7358808822411
+59,02-017,2,2,surface_roughness_Ra_um,Shared weights across targets,0.952,0.7350475489077667
+60,02-017,1,2,surface_roughness_Ra_um,Shared weights across targets,0.845,0.7535058822411
+25,03-021,3,2,post_process_hardness_HV30,Shared weights across targets,509.0,500.40800037367126
+26,03-021,2,2,post_process_hardness_HV30,Shared weights across targets,520.0,503.1996670403379
+27,03-021,1,2,post_process_hardness_HV30,Shared weights across targets,517.0,495.3246670403379
+28,01-008,3,2,post_process_hardness_HV30,Shared weights across targets,520.0,519.3234195698469
+29,01-008,2,2,post_process_hardness_HV30,Shared weights across targets,523.0,522.1150862365135
+30,01-008,1,2,post_process_hardness_HV30,Shared weights across targets,519.0,514.2400862365135
+58,02-017,3,2,post_process_hardness_HV30,Shared weights across targets,608.0,600.6870559334833
+59,02-017,2,2,post_process_hardness_HV30,Shared weights across targets,599.0,603.4787226001499
+60,02-017,1,2,post_process_hardness_HV30,Shared weights across targets,599.0,595.6037226001499
+22,03-005,3,3,surface_roughness_Ra_um,Full FA-ATF,0.851,0.774239229192129
+23,03-005,2,3,surface_roughness_Ra_um,Full FA-ATF,0.887,0.7829058958587956
+24,03-005,1,3,surface_roughness_Ra_um,Full FA-ATF,0.848,0.7926142291921289
+31,01-007,3,3,surface_roughness_Ra_um,Full FA-ATF,0.817,0.8334134549553484
+32,01-007,2,3,surface_roughness_Ra_um,Full FA-ATF,0.901,0.842080121622015
+33,01-007,1,3,surface_roughness_Ra_um,Full FA-ATF,0.841,0.8517884549553483
+64,02-018,3,3,surface_roughness_Ra_um,Full FA-ATF,0.17,0.23949780900039916
+65,02-018,2,3,surface_roughness_Ra_um,Full FA-ATF,0.2,0.2481644756670658
+66,02-018,1,3,surface_roughness_Ra_um,Full FA-ATF,0.33,0.2578728090003991
+22,03-005,3,3,surface_roughness_Ra_um,Without factorial line-profile branch,0.851,0.765479713323229
+23,03-005,2,3,surface_roughness_Ra_um,Without factorial line-profile branch,0.887,0.8485294489524398
+24,03-005,1,3,surface_roughness_Ra_um,Without factorial line-profile branch,0.848,0.9316724987197089
+31,01-007,3,3,surface_roughness_Ra_um,Without factorial line-profile branch,0.817,1.021669647067208
+32,01-007,2,3,surface_roughness_Ra_um,Without factorial line-profile branch,0.901,1.054567705903227
+33,01-007,1,3,surface_roughness_Ra_um,Without factorial line-profile branch,0.841,1.0323103989457842
+64,02-018,3,3,surface_roughness_Ra_um,Without factorial line-profile branch,0.17,0.20671174199324494
+65,02-018,2,3,surface_roughness_Ra_um,Without factorial line-profile branch,0.2,0.2072859846177586
+66,02-018,1,3,surface_roughness_Ra_um,Without factorial line-profile branch,0.33,0.2638385815231399
+22,03-005,3,3,surface_roughness_Ra_um,Without residual correction,0.851,0.774239229192129
+23,03-005,2,3,surface_roughness_Ra_um,Without residual correction,0.887,0.7829058958587956
+24,03-005,1,3,surface_roughness_Ra_um,Without residual correction,0.848,0.7926142291921289
+31,01-007,3,3,surface_roughness_Ra_um,Without residual correction,0.817,0.8334134549553484
+32,01-007,2,3,surface_roughness_Ra_um,Without residual correction,0.901,0.842080121622015
+33,01-007,1,3,surface_roughness_Ra_um,Without residual correction,0.841,0.8517884549553483
+64,02-018,3,3,surface_roughness_Ra_um,Without residual correction,0.17,0.23949780900039916
+65,02-018,2,3,surface_roughness_Ra_um,Without residual correction,0.2,0.2481644756670658
+66,02-018,1,3,surface_roughness_Ra_um,Without residual correction,0.33,0.2578728090003991
+22,03-005,3,3,surface_roughness_Ra_um,Without physics-guided/meta features,0.851,0.774239229192129
+23,03-005,2,3,surface_roughness_Ra_um,Without physics-guided/meta features,0.887,0.7829058958587956
+24,03-005,1,3,surface_roughness_Ra_um,Without physics-guided/meta features,0.848,0.7926142291921289
+31,01-007,3,3,surface_roughness_Ra_um,Without physics-guided/meta features,0.817,0.8334134549553484
+32,01-007,2,3,surface_roughness_Ra_um,Without physics-guided/meta features,0.901,0.842080121622015
+33,01-007,1,3,surface_roughness_Ra_um,Without physics-guided/meta features,0.841,0.8517884549553483
+64,02-018,3,3,surface_roughness_Ra_um,Without physics-guided/meta features,0.17,0.23949780900039916
+65,02-018,2,3,surface_roughness_Ra_um,Without physics-guided/meta features,0.2,0.2481644756670658
+66,02-018,1,3,surface_roughness_Ra_um,Without physics-guided/meta features,0.33,0.2578728090003991
+22,03-005,3,3,surface_roughness_Ra_um,Uniform fusion,0.851,0.774239229192129
+23,03-005,2,3,surface_roughness_Ra_um,Uniform fusion,0.887,0.7829058958587956
+24,03-005,1,3,surface_roughness_Ra_um,Uniform fusion,0.848,0.7926142291921289
+31,01-007,3,3,surface_roughness_Ra_um,Uniform fusion,0.817,0.8334134549553484
+32,01-007,2,3,surface_roughness_Ra_um,Uniform fusion,0.901,0.842080121622015
+33,01-007,1,3,surface_roughness_Ra_um,Uniform fusion,0.841,0.8517884549553483
+64,02-018,3,3,surface_roughness_Ra_um,Uniform fusion,0.17,0.23949780900039916
+65,02-018,2,3,surface_roughness_Ra_um,Uniform fusion,0.2,0.2481644756670658
+66,02-018,1,3,surface_roughness_Ra_um,Uniform fusion,0.33,0.2578728090003991
+22,03-005,3,3,surface_roughness_Ra_um,Strongest single branch only,0.851,0.774239229192129
+23,03-005,2,3,surface_roughness_Ra_um,Strongest single branch only,0.887,0.7829058958587956
+24,03-005,1,3,surface_roughness_Ra_um,Strongest single branch only,0.848,0.7926142291921289
+31,01-007,3,3,surface_roughness_Ra_um,Strongest single branch only,0.817,0.8334134549553484
+32,01-007,2,3,surface_roughness_Ra_um,Strongest single branch only,0.901,0.842080121622015
+33,01-007,1,3,surface_roughness_Ra_um,Strongest single branch only,0.841,0.8517884549553483
+64,02-018,3,3,surface_roughness_Ra_um,Strongest single branch only,0.17,0.23949780900039916
+65,02-018,2,3,surface_roughness_Ra_um,Strongest single branch only,0.2,0.2481644756670658
+66,02-018,1,3,surface_roughness_Ra_um,Strongest single branch only,0.33,0.2578728090003991
+22,03-005,3,3,post_process_hardness_HV30,Full FA-ATF,485.0,493.27976447578897
+23,03-005,2,3,post_process_hardness_HV30,Full FA-ATF,501.0,495.65476447578897
+24,03-005,1,3,post_process_hardness_HV30,Full FA-ATF,501.0,490.44643114245565
+31,01-007,3,3,post_process_hardness_HV30,Full FA-ATF,544.0,522.7343099303345
+32,01-007,2,3,post_process_hardness_HV30,Full FA-ATF,554.0,525.1093099303345
+33,01-007,1,3,post_process_hardness_HV30,Full FA-ATF,498.0,519.9009765970011
+64,02-018,3,3,post_process_hardness_HV30,Full FA-ATF,595.0,594.114347798589
+65,02-018,2,3,post_process_hardness_HV30,Full FA-ATF,584.0,596.489347798589
+66,02-018,1,3,post_process_hardness_HV30,Full FA-ATF,569.0,591.2810144652557
+22,03-005,3,3,post_process_hardness_HV30,Without factorial line-profile branch,485.0,497.7766360897798
+23,03-005,2,3,post_process_hardness_HV30,Without factorial line-profile branch,501.0,500.3050912152912
+24,03-005,1,3,post_process_hardness_HV30,Without factorial line-profile branch,501.0,497.19784029542313
+31,01-007,3,3,post_process_hardness_HV30,Without factorial line-profile branch,544.0,520.7664011387975
+32,01-007,2,3,post_process_hardness_HV30,Without factorial line-profile branch,554.0,523.3313441639039
+33,01-007,1,3,post_process_hardness_HV30,Without factorial line-profile branch,498.0,519.6086694910813
+64,02-018,3,3,post_process_hardness_HV30,Without factorial line-profile branch,595.0,598.8239442355896
+65,02-018,2,3,post_process_hardness_HV30,Without factorial line-profile branch,584.0,600.7747044647265
+66,02-018,1,3,post_process_hardness_HV30,Without factorial line-profile branch,569.0,594.1374257249872
+22,03-005,3,3,post_process_hardness_HV30,Without residual correction,485.0,493.27976447578897
+23,03-005,2,3,post_process_hardness_HV30,Without residual correction,501.0,495.65476447578897
+24,03-005,1,3,post_process_hardness_HV30,Without residual correction,501.0,490.44643114245565
+31,01-007,3,3,post_process_hardness_HV30,Without residual correction,544.0,522.7343099303345
+32,01-007,2,3,post_process_hardness_HV30,Without residual correction,554.0,525.1093099303345
+33,01-007,1,3,post_process_hardness_HV30,Without residual correction,498.0,519.9009765970011
+64,02-018,3,3,post_process_hardness_HV30,Without residual correction,595.0,594.114347798589
+65,02-018,2,3,post_process_hardness_HV30,Without residual correction,584.0,596.489347798589
+66,02-018,1,3,post_process_hardness_HV30,Without residual correction,569.0,591.2810144652557
+22,03-005,3,3,post_process_hardness_HV30,Without physics-guided/meta features,485.0,493.27976447578897
+23,03-005,2,3,post_process_hardness_HV30,Without physics-guided/meta features,501.0,495.65476447578897
+24,03-005,1,3,post_process_hardness_HV30,Without physics-guided/meta features,501.0,490.44643114245565
+31,01-007,3,3,post_process_hardness_HV30,Without physics-guided/meta features,544.0,522.7343099303345
+32,01-007,2,3,post_process_hardness_HV30,Without physics-guided/meta features,554.0,525.1093099303345
+33,01-007,1,3,post_process_hardness_HV30,Without physics-guided/meta features,498.0,519.9009765970011
+64,02-018,3,3,post_process_hardness_HV30,Without physics-guided/meta features,595.0,594.114347798589
+65,02-018,2,3,post_process_hardness_HV30,Without physics-guided/meta features,584.0,596.489347798589
+66,02-018,1,3,post_process_hardness_HV30,Without physics-guided/meta features,569.0,591.2810144652557
+22,03-005,3,3,post_process_hardness_HV30,Uniform fusion,485.0,493.27976447578897
+23,03-005,2,3,post_process_hardness_HV30,Uniform fusion,501.0,495.65476447578897
+24,03-005,1,3,post_process_hardness_HV30,Uniform fusion,501.0,490.44643114245565
+31,01-007,3,3,post_process_hardness_HV30,Uniform fusion,544.0,522.7343099303345
+32,01-007,2,3,post_process_hardness_HV30,Uniform fusion,554.0,525.1093099303345
+33,01-007,1,3,post_process_hardness_HV30,Uniform fusion,498.0,519.9009765970011
+64,02-018,3,3,post_process_hardness_HV30,Uniform fusion,595.0,594.114347798589
+65,02-018,2,3,post_process_hardness_HV30,Uniform fusion,584.0,596.489347798589
+66,02-018,1,3,post_process_hardness_HV30,Uniform fusion,569.0,591.2810144652557
+22,03-005,3,3,post_process_hardness_HV30,Strongest single branch only,485.0,493.27976447578897
+23,03-005,2,3,post_process_hardness_HV30,Strongest single branch only,501.0,495.65476447578897
+24,03-005,1,3,post_process_hardness_HV30,Strongest single branch only,501.0,490.44643114245565
+31,01-007,3,3,post_process_hardness_HV30,Strongest single branch only,544.0,522.7343099303345
+32,01-007,2,3,post_process_hardness_HV30,Strongest single branch only,554.0,525.1093099303345
+33,01-007,1,3,post_process_hardness_HV30,Strongest single branch only,498.0,519.9009765970011
+64,02-018,3,3,post_process_hardness_HV30,Strongest single branch only,595.0,594.114347798589
+65,02-018,2,3,post_process_hardness_HV30,Strongest single branch only,584.0,596.489347798589
+66,02-018,1,3,post_process_hardness_HV30,Strongest single branch only,569.0,591.2810144652557
+22,03-005,3,3,surface_roughness_Ra_um,Shared weights across targets,0.851,0.774239229192129
+23,03-005,2,3,surface_roughness_Ra_um,Shared weights across targets,0.887,0.7829058958587956
+24,03-005,1,3,surface_roughness_Ra_um,Shared weights across targets,0.848,0.7926142291921289
+31,01-007,3,3,surface_roughness_Ra_um,Shared weights across targets,0.817,0.8334134549553484
+32,01-007,2,3,surface_roughness_Ra_um,Shared weights across targets,0.901,0.842080121622015
+33,01-007,1,3,surface_roughness_Ra_um,Shared weights across targets,0.841,0.8517884549553483
+64,02-018,3,3,surface_roughness_Ra_um,Shared weights across targets,0.17,0.23949780900039916
+65,02-018,2,3,surface_roughness_Ra_um,Shared weights across targets,0.2,0.2481644756670658
+66,02-018,1,3,surface_roughness_Ra_um,Shared weights across targets,0.33,0.2578728090003991
+22,03-005,3,3,post_process_hardness_HV30,Shared weights across targets,485.0,493.27976447578897
+23,03-005,2,3,post_process_hardness_HV30,Shared weights across targets,501.0,495.65476447578897
+24,03-005,1,3,post_process_hardness_HV30,Shared weights across targets,501.0,490.44643114245565
+31,01-007,3,3,post_process_hardness_HV30,Shared weights across targets,544.0,522.7343099303345
+32,01-007,2,3,post_process_hardness_HV30,Shared weights across targets,554.0,525.1093099303345
+33,01-007,1,3,post_process_hardness_HV30,Shared weights across targets,498.0,519.9009765970011
+64,02-018,3,3,post_process_hardness_HV30,Shared weights across targets,595.0,594.114347798589
+65,02-018,2,3,post_process_hardness_HV30,Shared weights across targets,584.0,596.489347798589
+66,02-018,1,3,post_process_hardness_HV30,Shared weights across targets,569.0,591.2810144652557
+7,03-022,3,4,surface_roughness_Ra_um,Full FA-ATF,2.119,2.757138329839604
+8,03-022,2,4,surface_roughness_Ra_um,Full FA-ATF,2.315,2.7640966631729373
+9,03-022,1,4,surface_roughness_Ra_um,Full FA-ATF,2.113,2.7713049965062706
+49,01-011,3,4,surface_roughness_Ra_um,Full FA-ATF,0.971,0.6227208178140513
+50,01-011,2,4,surface_roughness_Ra_um,Full FA-ATF,0.993,0.6296791511473846
+51,01-011,1,4,surface_roughness_Ra_um,Full FA-ATF,0.93,0.6368874844807179
+73,02-002,3,4,surface_roughness_Ra_um,Full FA-ATF,0.219,0.2762703569488624
+74,02-002,2,4,surface_roughness_Ra_um,Full FA-ATF,0.192,0.2832286902821957
+75,02-002,1,4,surface_roughness_Ra_um,Full FA-ATF,0.548,0.29043702361552903
+7,03-022,3,4,surface_roughness_Ra_um,Without factorial line-profile branch,2.119,3.7582454096326887
+8,03-022,2,4,surface_roughness_Ra_um,Without factorial line-profile branch,2.315,3.670121731813103
+9,03-022,1,4,surface_roughness_Ra_um,Without factorial line-profile branch,2.113,3.6914127706451354
+49,01-011,3,4,surface_roughness_Ra_um,Without factorial line-profile branch,0.971,0.7881716248839107
+50,01-011,2,4,surface_roughness_Ra_um,Without factorial line-profile branch,0.993,0.6851391417848417
+51,01-011,1,4,surface_roughness_Ra_um,Without factorial line-profile branch,0.93,0.6997259634150538
+73,02-002,3,4,surface_roughness_Ra_um,Without factorial line-profile branch,0.219,0.29379534540787633
+74,02-002,2,4,surface_roughness_Ra_um,Without factorial line-profile branch,0.192,0.20086896385422848
+75,02-002,1,4,surface_roughness_Ra_um,Without factorial line-profile branch,0.548,0.3613825090899414
+7,03-022,3,4,surface_roughness_Ra_um,Without residual correction,2.119,2.757138329839604
+8,03-022,2,4,surface_roughness_Ra_um,Without residual correction,2.315,2.7640966631729373
+9,03-022,1,4,surface_roughness_Ra_um,Without residual correction,2.113,2.7713049965062706
+49,01-011,3,4,surface_roughness_Ra_um,Without residual correction,0.971,0.6227208178140513
+50,01-011,2,4,surface_roughness_Ra_um,Without residual correction,0.993,0.6296791511473846
+51,01-011,1,4,surface_roughness_Ra_um,Without residual correction,0.93,0.6368874844807179
+73,02-002,3,4,surface_roughness_Ra_um,Without residual correction,0.219,0.2762703569488624
+74,02-002,2,4,surface_roughness_Ra_um,Without residual correction,0.192,0.2832286902821957
+75,02-002,1,4,surface_roughness_Ra_um,Without residual correction,0.548,0.29043702361552903
+7,03-022,3,4,surface_roughness_Ra_um,Without physics-guided/meta features,2.119,2.757138329839604
+8,03-022,2,4,surface_roughness_Ra_um,Without physics-guided/meta features,2.315,2.7640966631729373
+9,03-022,1,4,surface_roughness_Ra_um,Without physics-guided/meta features,2.113,2.7713049965062706
+49,01-011,3,4,surface_roughness_Ra_um,Without physics-guided/meta features,0.971,0.6227208178140513
+50,01-011,2,4,surface_roughness_Ra_um,Without physics-guided/meta features,0.993,0.6296791511473846
+51,01-011,1,4,surface_roughness_Ra_um,Without physics-guided/meta features,0.93,0.6368874844807179
+73,02-002,3,4,surface_roughness_Ra_um,Without physics-guided/meta features,0.219,0.2762703569488624
+74,02-002,2,4,surface_roughness_Ra_um,Without physics-guided/meta features,0.192,0.2832286902821957
+75,02-002,1,4,surface_roughness_Ra_um,Without physics-guided/meta features,0.548,0.29043702361552903
+7,03-022,3,4,surface_roughness_Ra_um,Uniform fusion,2.119,2.757138329839604
+8,03-022,2,4,surface_roughness_Ra_um,Uniform fusion,2.315,2.7640966631729373
+9,03-022,1,4,surface_roughness_Ra_um,Uniform fusion,2.113,2.7713049965062706
+49,01-011,3,4,surface_roughness_Ra_um,Uniform fusion,0.971,0.6227208178140513
+50,01-011,2,4,surface_roughness_Ra_um,Uniform fusion,0.993,0.6296791511473846
+51,01-011,1,4,surface_roughness_Ra_um,Uniform fusion,0.93,0.6368874844807179
+73,02-002,3,4,surface_roughness_Ra_um,Uniform fusion,0.219,0.2762703569488624
+74,02-002,2,4,surface_roughness_Ra_um,Uniform fusion,0.192,0.2832286902821957
+75,02-002,1,4,surface_roughness_Ra_um,Uniform fusion,0.548,0.29043702361552903
+7,03-022,3,4,surface_roughness_Ra_um,Strongest single branch only,2.119,2.757138329839604
+8,03-022,2,4,surface_roughness_Ra_um,Strongest single branch only,2.315,2.7640966631729373
+9,03-022,1,4,surface_roughness_Ra_um,Strongest single branch only,2.113,2.7713049965062706
+49,01-011,3,4,surface_roughness_Ra_um,Strongest single branch only,0.971,0.6227208178140513
+50,01-011,2,4,surface_roughness_Ra_um,Strongest single branch only,0.993,0.6296791511473846
+51,01-011,1,4,surface_roughness_Ra_um,Strongest single branch only,0.93,0.6368874844807179
+73,02-002,3,4,surface_roughness_Ra_um,Strongest single branch only,0.219,0.2762703569488624
+74,02-002,2,4,surface_roughness_Ra_um,Strongest single branch only,0.192,0.2832286902821957
+75,02-002,1,4,surface_roughness_Ra_um,Strongest single branch only,0.548,0.29043702361552903
+7,03-022,3,4,post_process_hardness_HV30,Full FA-ATF,511.0,516.4414454735187
+8,03-022,2,4,post_process_hardness_HV30,Full FA-ATF,491.0,519.6081121401853
+9,03-022,1,4,post_process_hardness_HV30,Full FA-ATF,502.0,512.6497788068519
+49,01-011,3,4,post_process_hardness_HV30,Full FA-ATF,511.0,515.7689529018795
+50,01-011,2,4,post_process_hardness_HV30,Full FA-ATF,538.0,518.9356195685461
+51,01-011,1,4,post_process_hardness_HV30,Full FA-ATF,504.0,511.97728623521283
+73,02-002,3,4,post_process_hardness_HV30,Full FA-ATF,599.0,579.8598619927886
+74,02-002,2,4,post_process_hardness_HV30,Full FA-ATF,588.0,583.0265286594553
+75,02-002,1,4,post_process_hardness_HV30,Full FA-ATF,582.0,576.0681953261219
+7,03-022,3,4,post_process_hardness_HV30,Without factorial line-profile branch,511.0,512.1147976060315
+8,03-022,2,4,post_process_hardness_HV30,Without factorial line-profile branch,491.0,513.6709839876909
+9,03-022,1,4,post_process_hardness_HV30,Without factorial line-profile branch,502.0,510.3596801603673
+49,01-011,3,4,post_process_hardness_HV30,Without factorial line-profile branch,511.0,514.6011643653424
+50,01-011,2,4,post_process_hardness_HV30,Without factorial line-profile branch,538.0,516.7686821433792
+51,01-011,1,4,post_process_hardness_HV30,Without factorial line-profile branch,504.0,511.8160995322531
+73,02-002,3,4,post_process_hardness_HV30,Without factorial line-profile branch,599.0,585.6333900028511
+74,02-002,2,4,post_process_hardness_HV30,Without factorial line-profile branch,588.0,587.372255696287
+75,02-002,1,4,post_process_hardness_HV30,Without factorial line-profile branch,582.0,580.4611513790352
+7,03-022,3,4,post_process_hardness_HV30,Without residual correction,511.0,516.4414454735187
+8,03-022,2,4,post_process_hardness_HV30,Without residual correction,491.0,519.6081121401853
+9,03-022,1,4,post_process_hardness_HV30,Without residual correction,502.0,512.6497788068519
+49,01-011,3,4,post_process_hardness_HV30,Without residual correction,511.0,515.7689529018795
+50,01-011,2,4,post_process_hardness_HV30,Without residual correction,538.0,518.9356195685461
+51,01-011,1,4,post_process_hardness_HV30,Without residual correction,504.0,511.97728623521283
+73,02-002,3,4,post_process_hardness_HV30,Without residual correction,599.0,579.8598619927886
+74,02-002,2,4,post_process_hardness_HV30,Without residual correction,588.0,583.0265286594553
+75,02-002,1,4,post_process_hardness_HV30,Without residual correction,582.0,576.0681953261219
+7,03-022,3,4,post_process_hardness_HV30,Without physics-guided/meta features,511.0,516.4414454735187
+8,03-022,2,4,post_process_hardness_HV30,Without physics-guided/meta features,491.0,519.6081121401853
+9,03-022,1,4,post_process_hardness_HV30,Without physics-guided/meta features,502.0,512.6497788068519
+49,01-011,3,4,post_process_hardness_HV30,Without physics-guided/meta features,511.0,515.7689529018795
+50,01-011,2,4,post_process_hardness_HV30,Without physics-guided/meta features,538.0,518.9356195685461
+51,01-011,1,4,post_process_hardness_HV30,Without physics-guided/meta features,504.0,511.97728623521283
+73,02-002,3,4,post_process_hardness_HV30,Without physics-guided/meta features,599.0,579.8598619927886
+74,02-002,2,4,post_process_hardness_HV30,Without physics-guided/meta features,588.0,583.0265286594553
+75,02-002,1,4,post_process_hardness_HV30,Without physics-guided/meta features,582.0,576.0681953261219
+7,03-022,3,4,post_process_hardness_HV30,Uniform fusion,511.0,516.4414454735187
+8,03-022,2,4,post_process_hardness_HV30,Uniform fusion,491.0,519.6081121401853
+9,03-022,1,4,post_process_hardness_HV30,Uniform fusion,502.0,512.6497788068519
+49,01-011,3,4,post_process_hardness_HV30,Uniform fusion,511.0,515.7689529018795
+50,01-011,2,4,post_process_hardness_HV30,Uniform fusion,538.0,518.9356195685461
+51,01-011,1,4,post_process_hardness_HV30,Uniform fusion,504.0,511.97728623521283
+73,02-002,3,4,post_process_hardness_HV30,Uniform fusion,599.0,579.8598619927886
+74,02-002,2,4,post_process_hardness_HV30,Uniform fusion,588.0,583.0265286594553
+75,02-002,1,4,post_process_hardness_HV30,Uniform fusion,582.0,576.0681953261219
+7,03-022,3,4,post_process_hardness_HV30,Strongest single branch only,511.0,516.4414454735187
+8,03-022,2,4,post_process_hardness_HV30,Strongest single branch only,491.0,519.6081121401853
+9,03-022,1,4,post_process_hardness_HV30,Strongest single branch only,502.0,512.6497788068519
+49,01-011,3,4,post_process_hardness_HV30,Strongest single branch only,511.0,515.7689529018795
+50,01-011,2,4,post_process_hardness_HV30,Strongest single branch only,538.0,518.9356195685461
+51,01-011,1,4,post_process_hardness_HV30,Strongest single branch only,504.0,511.97728623521283
+73,02-002,3,4,post_process_hardness_HV30,Strongest single branch only,599.0,579.8598619927886
+74,02-002,2,4,post_process_hardness_HV30,Strongest single branch only,588.0,583.0265286594553
+75,02-002,1,4,post_process_hardness_HV30,Strongest single branch only,582.0,576.0681953261219
+7,03-022,3,4,surface_roughness_Ra_um,Shared weights across targets,2.119,2.757138329839604
+8,03-022,2,4,surface_roughness_Ra_um,Shared weights across targets,2.315,2.7640966631729373
+9,03-022,1,4,surface_roughness_Ra_um,Shared weights across targets,2.113,2.7713049965062706
+49,01-011,3,4,surface_roughness_Ra_um,Shared weights across targets,0.971,0.6227208178140513
+50,01-011,2,4,surface_roughness_Ra_um,Shared weights across targets,0.993,0.6296791511473846
+51,01-011,1,4,surface_roughness_Ra_um,Shared weights across targets,0.93,0.6368874844807179
+73,02-002,3,4,surface_roughness_Ra_um,Shared weights across targets,0.219,0.2762703569488624
+74,02-002,2,4,surface_roughness_Ra_um,Shared weights across targets,0.192,0.2832286902821957
+75,02-002,1,4,surface_roughness_Ra_um,Shared weights across targets,0.548,0.29043702361552903
+7,03-022,3,4,post_process_hardness_HV30,Shared weights across targets,511.0,516.4414454735187
+8,03-022,2,4,post_process_hardness_HV30,Shared weights across targets,491.0,519.6081121401853
+9,03-022,1,4,post_process_hardness_HV30,Shared weights across targets,502.0,512.6497788068519
+49,01-011,3,4,post_process_hardness_HV30,Shared weights across targets,511.0,515.7689529018795
+50,01-011,2,4,post_process_hardness_HV30,Shared weights across targets,538.0,518.9356195685461
+51,01-011,1,4,post_process_hardness_HV30,Shared weights across targets,504.0,511.97728623521283
+73,02-002,3,4,post_process_hardness_HV30,Shared weights across targets,599.0,579.8598619927886
+74,02-002,2,4,post_process_hardness_HV30,Shared weights across targets,588.0,583.0265286594553
+75,02-002,1,4,post_process_hardness_HV30,Shared weights across targets,582.0,576.0681953261219
+4,03-007,3,5,surface_roughness_Ra_um,Full FA-ATF,0.654,0.7730802702293287
+5,03-007,2,5,surface_roughness_Ra_um,Full FA-ATF,0.746,0.7847469368959954
+6,03-007,1,5,surface_roughness_Ra_um,Full FA-ATF,0.796,0.7980802702293287
+40,01-010,3,5,surface_roughness_Ra_um,Full FA-ATF,1.049,0.8784477011875966
+41,01-010,2,5,surface_roughness_Ra_um,Full FA-ATF,1.027,0.8901143678542633
+42,01-010,1,5,surface_roughness_Ra_um,Full FA-ATF,0.974,0.9034477011875967
+76,02-005,3,5,surface_roughness_Ra_um,Full FA-ATF,0.907,0.9741858990231472
+77,02-005,2,5,surface_roughness_Ra_um,Full FA-ATF,0.915,0.9858525656898139
+78,02-005,1,5,surface_roughness_Ra_um,Full FA-ATF,0.862,0.9991858990231473
+4,03-007,3,5,surface_roughness_Ra_um,Without factorial line-profile branch,0.654,0.7898647026862653
+5,03-007,2,5,surface_roughness_Ra_um,Without factorial line-profile branch,0.746,0.822316058455312
+6,03-007,1,5,surface_roughness_Ra_um,Without factorial line-profile branch,0.796,0.829965402890487
+40,01-010,3,5,surface_roughness_Ra_um,Without factorial line-profile branch,1.049,0.901233773640493
+41,01-010,2,5,surface_roughness_Ra_um,Without factorial line-profile branch,1.027,0.9238591697688954
+42,01-010,1,5,surface_roughness_Ra_um,Without factorial line-profile branch,0.974,0.9362650931528078
+76,02-005,3,5,surface_roughness_Ra_um,Without factorial line-profile branch,0.907,0.8849377236516414
+77,02-005,2,5,surface_roughness_Ra_um,Without factorial line-profile branch,0.915,0.9920205120607991
+78,02-005,1,5,surface_roughness_Ra_um,Without factorial line-profile branch,0.862,0.9860621817919826
+4,03-007,3,5,surface_roughness_Ra_um,Without residual correction,0.654,0.7730802702293287
+5,03-007,2,5,surface_roughness_Ra_um,Without residual correction,0.746,0.7847469368959954
+6,03-007,1,5,surface_roughness_Ra_um,Without residual correction,0.796,0.7980802702293287
+40,01-010,3,5,surface_roughness_Ra_um,Without residual correction,1.049,0.8784477011875966
+41,01-010,2,5,surface_roughness_Ra_um,Without residual correction,1.027,0.8901143678542633
+42,01-010,1,5,surface_roughness_Ra_um,Without residual correction,0.974,0.9034477011875967
+76,02-005,3,5,surface_roughness_Ra_um,Without residual correction,0.907,0.9741858990231472
+77,02-005,2,5,surface_roughness_Ra_um,Without residual correction,0.915,0.9858525656898139
+78,02-005,1,5,surface_roughness_Ra_um,Without residual correction,0.862,0.9991858990231473
+4,03-007,3,5,surface_roughness_Ra_um,Without physics-guided/meta features,0.654,0.7730802702293287
+5,03-007,2,5,surface_roughness_Ra_um,Without physics-guided/meta features,0.746,0.7847469368959954
+6,03-007,1,5,surface_roughness_Ra_um,Without physics-guided/meta features,0.796,0.7980802702293287
+40,01-010,3,5,surface_roughness_Ra_um,Without physics-guided/meta features,1.049,0.8784477011875966
+41,01-010,2,5,surface_roughness_Ra_um,Without physics-guided/meta features,1.027,0.8901143678542633
+42,01-010,1,5,surface_roughness_Ra_um,Without physics-guided/meta features,0.974,0.9034477011875967
+76,02-005,3,5,surface_roughness_Ra_um,Without physics-guided/meta features,0.907,0.9741858990231472
+77,02-005,2,5,surface_roughness_Ra_um,Without physics-guided/meta features,0.915,0.9858525656898139
+78,02-005,1,5,surface_roughness_Ra_um,Without physics-guided/meta features,0.862,0.9991858990231473
+4,03-007,3,5,surface_roughness_Ra_um,Uniform fusion,0.654,0.7730802702293287
+5,03-007,2,5,surface_roughness_Ra_um,Uniform fusion,0.746,0.7847469368959954
+6,03-007,1,5,surface_roughness_Ra_um,Uniform fusion,0.796,0.7980802702293287
+40,01-010,3,5,surface_roughness_Ra_um,Uniform fusion,1.049,0.8784477011875966
+41,01-010,2,5,surface_roughness_Ra_um,Uniform fusion,1.027,0.8901143678542633
+42,01-010,1,5,surface_roughness_Ra_um,Uniform fusion,0.974,0.9034477011875967
+76,02-005,3,5,surface_roughness_Ra_um,Uniform fusion,0.907,0.9741858990231472
+77,02-005,2,5,surface_roughness_Ra_um,Uniform fusion,0.915,0.9858525656898139
+78,02-005,1,5,surface_roughness_Ra_um,Uniform fusion,0.862,0.9991858990231473
+4,03-007,3,5,surface_roughness_Ra_um,Strongest single branch only,0.654,0.7730802702293287
+5,03-007,2,5,surface_roughness_Ra_um,Strongest single branch only,0.746,0.7847469368959954
+6,03-007,1,5,surface_roughness_Ra_um,Strongest single branch only,0.796,0.7980802702293287
+40,01-010,3,5,surface_roughness_Ra_um,Strongest single branch only,1.049,0.8784477011875966
+41,01-010,2,5,surface_roughness_Ra_um,Strongest single branch only,1.027,0.8901143678542633
+42,01-010,1,5,surface_roughness_Ra_um,Strongest single branch only,0.974,0.9034477011875967
+76,02-005,3,5,surface_roughness_Ra_um,Strongest single branch only,0.907,0.9741858990231472
+77,02-005,2,5,surface_roughness_Ra_um,Strongest single branch only,0.915,0.9858525656898139
+78,02-005,1,5,surface_roughness_Ra_um,Strongest single branch only,0.862,0.9991858990231473
+4,03-007,3,5,post_process_hardness_HV30,Full FA-ATF,487.0,506.54742424242426
+5,03-007,2,5,post_process_hardness_HV30,Full FA-ATF,505.0,508.8390909090909
+6,03-007,1,5,post_process_hardness_HV30,Full FA-ATF,496.0,503.00575757575757
+40,01-010,3,5,post_process_hardness_HV30,Full FA-ATF,515.0,528.5928787878787
+41,01-010,2,5,post_process_hardness_HV30,Full FA-ATF,535.0,530.8845454545454
+42,01-010,1,5,post_process_hardness_HV30,Full FA-ATF,493.0,525.0512121212121
+76,02-005,3,5,post_process_hardness_HV30,Full FA-ATF,611.0,591.274696969697
+77,02-005,2,5,post_process_hardness_HV30,Full FA-ATF,590.0,593.5663636363637
+78,02-005,1,5,post_process_hardness_HV30,Full FA-ATF,585.0,587.7330303030303
+4,03-007,3,5,post_process_hardness_HV30,Without factorial line-profile branch,487.0,501.86917905024023
+5,03-007,2,5,post_process_hardness_HV30,Without factorial line-profile branch,505.0,502.69198559438604
+6,03-007,1,5,post_process_hardness_HV30,Without factorial line-profile branch,496.0,498.2795252845471
+40,01-010,3,5,post_process_hardness_HV30,Without factorial line-profile branch,515.0,526.313869378329
+41,01-010,2,5,post_process_hardness_HV30,Without factorial line-profile branch,535.0,527.5971703023649
+42,01-010,1,5,post_process_hardness_HV30,Without factorial line-profile branch,493.0,523.5762480077011
+76,02-005,3,5,post_process_hardness_HV30,Without factorial line-profile branch,611.0,592.6307819611795
+77,02-005,2,5,post_process_hardness_HV30,Without factorial line-profile branch,590.0,593.8276317180002
+78,02-005,1,5,post_process_hardness_HV30,Without factorial line-profile branch,585.0,588.7027554280585
+4,03-007,3,5,post_process_hardness_HV30,Without residual correction,487.0,506.54742424242426
+5,03-007,2,5,post_process_hardness_HV30,Without residual correction,505.0,508.8390909090909
+6,03-007,1,5,post_process_hardness_HV30,Without residual correction,496.0,503.00575757575757
+40,01-010,3,5,post_process_hardness_HV30,Without residual correction,515.0,528.5928787878787
+41,01-010,2,5,post_process_hardness_HV30,Without residual correction,535.0,530.8845454545454
+42,01-010,1,5,post_process_hardness_HV30,Without residual correction,493.0,525.0512121212121
+76,02-005,3,5,post_process_hardness_HV30,Without residual correction,611.0,591.274696969697
+77,02-005,2,5,post_process_hardness_HV30,Without residual correction,590.0,593.5663636363637
+78,02-005,1,5,post_process_hardness_HV30,Without residual correction,585.0,587.7330303030303
+4,03-007,3,5,post_process_hardness_HV30,Without physics-guided/meta features,487.0,506.54742424242426
+5,03-007,2,5,post_process_hardness_HV30,Without physics-guided/meta features,505.0,508.8390909090909
+6,03-007,1,5,post_process_hardness_HV30,Without physics-guided/meta features,496.0,503.00575757575757
+40,01-010,3,5,post_process_hardness_HV30,Without physics-guided/meta features,515.0,528.5928787878787
+41,01-010,2,5,post_process_hardness_HV30,Without physics-guided/meta features,535.0,530.8845454545454
+42,01-010,1,5,post_process_hardness_HV30,Without physics-guided/meta features,493.0,525.0512121212121
+76,02-005,3,5,post_process_hardness_HV30,Without physics-guided/meta features,611.0,591.274696969697
+77,02-005,2,5,post_process_hardness_HV30,Without physics-guided/meta features,590.0,593.5663636363637
+78,02-005,1,5,post_process_hardness_HV30,Without physics-guided/meta features,585.0,587.7330303030303
+4,03-007,3,5,post_process_hardness_HV30,Uniform fusion,487.0,506.54742424242426
+5,03-007,2,5,post_process_hardness_HV30,Uniform fusion,505.0,508.8390909090909
+6,03-007,1,5,post_process_hardness_HV30,Uniform fusion,496.0,503.00575757575757
+40,01-010,3,5,post_process_hardness_HV30,Uniform fusion,515.0,528.5928787878787
+41,01-010,2,5,post_process_hardness_HV30,Uniform fusion,535.0,530.8845454545454
+42,01-010,1,5,post_process_hardness_HV30,Uniform fusion,493.0,525.0512121212121
+76,02-005,3,5,post_process_hardness_HV30,Uniform fusion,611.0,591.274696969697
+77,02-005,2,5,post_process_hardness_HV30,Uniform fusion,590.0,593.5663636363637
+78,02-005,1,5,post_process_hardness_HV30,Uniform fusion,585.0,587.7330303030303
+4,03-007,3,5,post_process_hardness_HV30,Strongest single branch only,487.0,506.54742424242426
+5,03-007,2,5,post_process_hardness_HV30,Strongest single branch only,505.0,508.8390909090909
+6,03-007,1,5,post_process_hardness_HV30,Strongest single branch only,496.0,503.00575757575757
+40,01-010,3,5,post_process_hardness_HV30,Strongest single branch only,515.0,528.5928787878787
+41,01-010,2,5,post_process_hardness_HV30,Strongest single branch only,535.0,530.8845454545454
+42,01-010,1,5,post_process_hardness_HV30,Strongest single branch only,493.0,525.0512121212121
+76,02-005,3,5,post_process_hardness_HV30,Strongest single branch only,611.0,591.274696969697
+77,02-005,2,5,post_process_hardness_HV30,Strongest single branch only,590.0,593.5663636363637
+78,02-005,1,5,post_process_hardness_HV30,Strongest single branch only,585.0,587.7330303030303
+4,03-007,3,5,surface_roughness_Ra_um,Shared weights across targets,0.654,0.7730802702293287
+5,03-007,2,5,surface_roughness_Ra_um,Shared weights across targets,0.746,0.7847469368959954
+6,03-007,1,5,surface_roughness_Ra_um,Shared weights across targets,0.796,0.7980802702293287
+40,01-010,3,5,surface_roughness_Ra_um,Shared weights across targets,1.049,0.8784477011875966
+41,01-010,2,5,surface_roughness_Ra_um,Shared weights across targets,1.027,0.8901143678542633
+42,01-010,1,5,surface_roughness_Ra_um,Shared weights across targets,0.974,0.9034477011875967
+76,02-005,3,5,surface_roughness_Ra_um,Shared weights across targets,0.907,0.9741858990231472
+77,02-005,2,5,surface_roughness_Ra_um,Shared weights across targets,0.915,0.9858525656898139
+78,02-005,1,5,surface_roughness_Ra_um,Shared weights across targets,0.862,0.9991858990231473
+4,03-007,3,5,post_process_hardness_HV30,Shared weights across targets,487.0,506.54742424242426
+5,03-007,2,5,post_process_hardness_HV30,Shared weights across targets,505.0,508.8390909090909
+6,03-007,1,5,post_process_hardness_HV30,Shared weights across targets,496.0,503.00575757575757
+40,01-010,3,5,post_process_hardness_HV30,Shared weights across targets,515.0,528.5928787878787
+41,01-010,2,5,post_process_hardness_HV30,Shared weights across targets,535.0,530.8845454545454
+42,01-010,1,5,post_process_hardness_HV30,Shared weights across targets,493.0,525.0512121212121
+76,02-005,3,5,post_process_hardness_HV30,Shared weights across targets,611.0,591.274696969697
+77,02-005,2,5,post_process_hardness_HV30,Shared weights across targets,590.0,593.5663636363637
+78,02-005,1,5,post_process_hardness_HV30,Shared weights across targets,585.0,587.7330303030303
+16,03-006,3,6,surface_roughness_Ra_um,Full FA-ATF,2.454,2.0415358050923107
+17,03-006,2,6,surface_roughness_Ra_um,Full FA-ATF,2.325,2.0294943738977502
+18,03-006,1,6,surface_roughness_Ra_um,Full FA-ATF,2.489,2.0128286673881033
+43,01-009,3,6,surface_roughness_Ra_um,Full FA-ATF,1.695,2.0789153610518993
+44,01-009,2,6,surface_roughness_Ra_um,Full FA-ATF,1.812,2.066873929857339
+45,01-009,1,6,surface_roughness_Ra_um,Full FA-ATF,1.735,2.050208223347692
+67,02-010,3,6,surface_roughness_Ra_um,Full FA-ATF,0.91,0.901664624032951
+68,02-010,2,6,surface_roughness_Ra_um,Full FA-ATF,0.904,0.9134043252949051
+69,02-010,1,6,surface_roughness_Ra_um,Full FA-ATF,0.821,0.9264650343559016
+16,03-006,3,6,surface_roughness_Ra_um,Without factorial line-profile branch,2.454,1.9919213239203488
+17,03-006,2,6,surface_roughness_Ra_um,Without factorial line-profile branch,2.325,2.0620263997605544
+18,03-006,1,6,surface_roughness_Ra_um,Without factorial line-profile branch,2.489,1.968085186670285
+43,01-009,3,6,surface_roughness_Ra_um,Without factorial line-profile branch,1.695,2.207703470079678
+44,01-009,2,6,surface_roughness_Ra_um,Without factorial line-profile branch,1.812,2.2190575428846087
+45,01-009,1,6,surface_roughness_Ra_um,Without factorial line-profile branch,1.735,2.1033030740430054
+67,02-010,3,6,surface_roughness_Ra_um,Without factorial line-profile branch,0.91,0.9129598200236325
+68,02-010,2,6,surface_roughness_Ra_um,Without factorial line-profile branch,0.904,0.9401612358100774
+69,02-010,1,6,surface_roughness_Ra_um,Without factorial line-profile branch,0.821,0.9332004783146074
+16,03-006,3,6,surface_roughness_Ra_um,Without residual correction,2.454,2.098080593787781
+17,03-006,2,6,surface_roughness_Ra_um,Without residual correction,2.325,2.113747260454448
+18,03-006,1,6,surface_roughness_Ra_um,Without residual correction,2.489,2.124580593787781
+43,01-009,3,6,surface_roughness_Ra_um,Without residual correction,1.695,2.171955716231914
+44,01-009,2,6,surface_roughness_Ra_um,Without residual correction,1.812,2.1876223828985806
+45,01-009,1,6,surface_roughness_Ra_um,Without residual correction,1.735,2.198455716231914
+67,02-010,3,6,surface_roughness_Ra_um,Without residual correction,0.91,0.9703198340921084
+68,02-010,2,6,surface_roughness_Ra_um,Without residual correction,0.904,0.9859865007587751
+69,02-010,1,6,surface_roughness_Ra_um,Without residual correction,0.821,0.9968198340921085
+16,03-006,3,6,surface_roughness_Ra_um,Without physics-guided/meta features,2.454,1.9837628842598913
+17,03-006,2,6,surface_roughness_Ra_um,Without physics-guided/meta features,2.325,1.9968394418813435
+18,03-006,1,6,surface_roughness_Ra_um,Without physics-guided/meta features,2.489,2.009862229160931
+43,01-009,3,6,surface_roughness_Ra_um,Without physics-guided/meta features,1.695,2.037206096988547
+44,01-009,2,6,surface_roughness_Ra_um,Without physics-guided/meta features,1.812,2.050282654609999
+45,01-009,1,6,surface_roughness_Ra_um,Without physics-guided/meta features,1.735,2.063305441889587
+67,02-010,3,6,surface_roughness_Ra_um,Without physics-guided/meta features,0.91,0.9944968619473925
+68,02-010,2,6,surface_roughness_Ra_um,Without physics-guided/meta features,0.904,1.0075734195688446
+69,02-010,1,6,surface_roughness_Ra_um,Without physics-guided/meta features,0.821,1.0205962068484324
+16,03-006,3,6,surface_roughness_Ra_um,Uniform fusion,2.454,2.0573252440046446
+17,03-006,2,6,surface_roughness_Ra_um,Uniform fusion,2.325,2.053020959391584
+18,03-006,1,6,surface_roughness_Ra_um,Uniform fusion,2.489,2.0440340225752323
+43,01-009,3,6,surface_roughness_Ra_um,Uniform fusion,1.695,2.1048957394101677
+44,01-009,2,6,surface_roughness_Ra_um,Uniform fusion,1.812,2.1005914547971076
+45,01-009,1,6,surface_roughness_Ra_um,Uniform fusion,1.735,2.091604517980756
+67,02-010,3,6,surface_roughness_Ra_um,Uniform fusion,0.91,0.9208357496176742
+68,02-010,2,6,surface_roughness_Ra_um,Uniform fusion,0.904,0.9336720078179253
+69,02-010,1,6,surface_roughness_Ra_um,Uniform fusion,0.821,0.9461107495182131
+16,03-006,3,6,surface_roughness_Ra_um,Strongest single branch only,2.454,2.0165698942215076
+17,03-006,2,6,surface_roughness_Ra_um,Strongest single branch only,2.325,1.9922946583287202
+18,03-006,1,6,surface_roughness_Ra_um,Strongest single branch only,2.489,1.9634874513626834
+43,01-009,3,6,surface_roughness_Ra_um,Strongest single branch only,1.695,2.037835762588422
+44,01-009,2,6,surface_roughness_Ra_um,Strongest single branch only,1.812,2.0135605266956347
+45,01-009,1,6,surface_roughness_Ra_um,Strongest single branch only,1.735,1.9847533197295981
+67,02-010,3,6,surface_roughness_Ra_um,Strongest single branch only,0.91,0.8713516651432399
+68,02-010,2,6,surface_roughness_Ra_um,Strongest single branch only,0.904,0.8813575148770755
+69,02-010,1,6,surface_roughness_Ra_um,Strongest single branch only,0.821,0.8954016649443176
+16,03-006,3,6,post_process_hardness_HV30,Full FA-ATF,529.0,506.660770878229
+17,03-006,2,6,post_process_hardness_HV30,Full FA-ATF,480.0,511.70243754489564
+18,03-006,1,6,post_process_hardness_HV30,Full FA-ATF,522.0,501.86910421156233
+43,01-009,3,6,post_process_hardness_HV30,Full FA-ATF,536.0,528.1807708782289
+44,01-009,2,6,post_process_hardness_HV30,Full FA-ATF,554.0,533.2224375448957
+45,01-009,1,6,post_process_hardness_HV30,Full FA-ATF,536.0,523.3891042115623
+67,02-010,3,6,post_process_hardness_HV30,Full FA-ATF,617.0,592.9850010713805
+68,02-010,2,6,post_process_hardness_HV30,Full FA-ATF,599.0,598.0266677380472
+69,02-010,1,6,post_process_hardness_HV30,Full FA-ATF,615.0,588.1933344047138
+16,03-006,3,6,post_process_hardness_HV30,Without factorial line-profile branch,529.0,506.41340143291154
+17,03-006,2,6,post_process_hardness_HV30,Without factorial line-profile branch,480.0,508.3459735656621
+18,03-006,1,6,post_process_hardness_HV30,Without factorial line-profile branch,522.0,512.864258206218
+43,01-009,3,6,post_process_hardness_HV30,Without factorial line-profile branch,536.0,525.4852970847433
+44,01-009,2,6,post_process_hardness_HV30,Without factorial line-profile branch,554.0,527.4255940869031
+45,01-009,1,6,post_process_hardness_HV30,Without factorial line-profile branch,536.0,530.9661115433967
+67,02-010,3,6,post_process_hardness_HV30,Without factorial line-profile branch,617.0,595.8107794992334
+68,02-010,2,6,post_process_hardness_HV30,Without factorial line-profile branch,599.0,596.9770910125458
+69,02-010,1,6,post_process_hardness_HV30,Without factorial line-profile branch,615.0,590.2010063804041
+16,03-006,3,6,post_process_hardness_HV30,Without residual correction,529.0,506.660770878229
+17,03-006,2,6,post_process_hardness_HV30,Without residual correction,480.0,511.70243754489564
+18,03-006,1,6,post_process_hardness_HV30,Without residual correction,522.0,501.86910421156233
+43,01-009,3,6,post_process_hardness_HV30,Without residual correction,536.0,528.1807708782289
+44,01-009,2,6,post_process_hardness_HV30,Without residual correction,554.0,533.2224375448957
+45,01-009,1,6,post_process_hardness_HV30,Without residual correction,536.0,523.3891042115623
+67,02-010,3,6,post_process_hardness_HV30,Without residual correction,617.0,592.9850010713805
+68,02-010,2,6,post_process_hardness_HV30,Without residual correction,599.0,598.0266677380472
+69,02-010,1,6,post_process_hardness_HV30,Without residual correction,615.0,588.1933344047138
+16,03-006,3,6,post_process_hardness_HV30,Without physics-guided/meta features,529.0,506.660770878229
+17,03-006,2,6,post_process_hardness_HV30,Without physics-guided/meta features,480.0,511.70243754489564
+18,03-006,1,6,post_process_hardness_HV30,Without physics-guided/meta features,522.0,501.86910421156233
+43,01-009,3,6,post_process_hardness_HV30,Without physics-guided/meta features,536.0,528.1807708782289
+44,01-009,2,6,post_process_hardness_HV30,Without physics-guided/meta features,554.0,533.2224375448957
+45,01-009,1,6,post_process_hardness_HV30,Without physics-guided/meta features,536.0,523.3891042115623
+67,02-010,3,6,post_process_hardness_HV30,Without physics-guided/meta features,617.0,592.9850010713805
+68,02-010,2,6,post_process_hardness_HV30,Without physics-guided/meta features,599.0,598.0266677380472
+69,02-010,1,6,post_process_hardness_HV30,Without physics-guided/meta features,615.0,588.1933344047138
+16,03-006,3,6,post_process_hardness_HV30,Uniform fusion,529.0,506.660770878229
+17,03-006,2,6,post_process_hardness_HV30,Uniform fusion,480.0,511.70243754489564
+18,03-006,1,6,post_process_hardness_HV30,Uniform fusion,522.0,501.86910421156233
+43,01-009,3,6,post_process_hardness_HV30,Uniform fusion,536.0,528.1807708782289
+44,01-009,2,6,post_process_hardness_HV30,Uniform fusion,554.0,533.2224375448957
+45,01-009,1,6,post_process_hardness_HV30,Uniform fusion,536.0,523.3891042115623
+67,02-010,3,6,post_process_hardness_HV30,Uniform fusion,617.0,592.9850010713805
+68,02-010,2,6,post_process_hardness_HV30,Uniform fusion,599.0,598.0266677380472
+69,02-010,1,6,post_process_hardness_HV30,Uniform fusion,615.0,588.1933344047138
+16,03-006,3,6,post_process_hardness_HV30,Strongest single branch only,529.0,506.660770878229
+17,03-006,2,6,post_process_hardness_HV30,Strongest single branch only,480.0,511.70243754489564
+18,03-006,1,6,post_process_hardness_HV30,Strongest single branch only,522.0,501.86910421156233
+43,01-009,3,6,post_process_hardness_HV30,Strongest single branch only,536.0,528.1807708782289
+44,01-009,2,6,post_process_hardness_HV30,Strongest single branch only,554.0,533.2224375448957
+45,01-009,1,6,post_process_hardness_HV30,Strongest single branch only,536.0,523.3891042115623
+67,02-010,3,6,post_process_hardness_HV30,Strongest single branch only,617.0,592.9850010713805
+68,02-010,2,6,post_process_hardness_HV30,Strongest single branch only,599.0,598.0266677380472
+69,02-010,1,6,post_process_hardness_HV30,Strongest single branch only,615.0,588.1933344047138
+16,03-006,3,6,surface_roughness_Ra_um,Shared weights across targets,2.454,2.046446394471184
+17,03-006,2,6,surface_roughness_Ra_um,Shared weights across targets,2.325,2.036811252064772
+18,03-006,1,6,surface_roughness_Ra_um,Shared weights across targets,2.489,2.022533678857902
+43,01-009,3,6,surface_roughness_Ra_um,Shared weights across targets,1.695,2.0869953802808014
+44,01-009,2,6,surface_roughness_Ra_um,Shared weights across targets,1.812,2.077360237874389
+45,01-009,1,6,surface_roughness_Ra_um,Shared weights across targets,1.735,2.0630826646675193
+67,02-010,3,6,surface_roughness_Ra_um,Shared weights across targets,0.91,0.9076269337894968
+68,02-010,2,6,surface_roughness_Ra_um,Shared weights across targets,0.904,0.9197076693899368
+69,02-010,1,6,surface_roughness_Ra_um,Shared weights across targets,0.821,0.9325749436916324
+16,03-006,3,6,post_process_hardness_HV30,Shared weights across targets,529.0,506.660770878229
+17,03-006,2,6,post_process_hardness_HV30,Shared weights across targets,480.0,511.70243754489564
+18,03-006,1,6,post_process_hardness_HV30,Shared weights across targets,522.0,501.86910421156233
+43,01-009,3,6,post_process_hardness_HV30,Shared weights across targets,536.0,528.1807708782289
+44,01-009,2,6,post_process_hardness_HV30,Shared weights across targets,554.0,533.2224375448957
+45,01-009,1,6,post_process_hardness_HV30,Shared weights across targets,536.0,523.3891042115623
+67,02-010,3,6,post_process_hardness_HV30,Shared weights across targets,617.0,592.9850010713805
+68,02-010,2,6,post_process_hardness_HV30,Shared weights across targets,599.0,598.0266677380472
+69,02-010,1,6,post_process_hardness_HV30,Shared weights across targets,615.0,588.1933344047138
+19,03-024,3,7,surface_roughness_Ra_um,Full FA-ATF,0.241,0.3000348433535887
+20,03-024,2,7,surface_roughness_Ra_um,Full FA-ATF,0.234,0.32682651002025537
+21,03-024,1,7,surface_roughness_Ra_um,Full FA-ATF,0.219,0.342118176686922
+34,01-006,3,7,surface_roughness_Ra_um,Full FA-ATF,3.614,2.173253950489311
+35,01-006,2,7,surface_roughness_Ra_um,Full FA-ATF,3.411,2.2000456171559777
+36,01-006,1,7,surface_roughness_Ra_um,Full FA-ATF,3.341,2.2153372838226444
+61,02-012,3,7,surface_roughness_Ra_um,Full FA-ATF,2.297,2.181241221316782
+62,02-012,2,7,surface_roughness_Ra_um,Full FA-ATF,2.222,2.2080328879834488
+63,02-012,1,7,surface_roughness_Ra_um,Full FA-ATF,2.204,2.2233245546501155
+19,03-024,3,7,surface_roughness_Ra_um,Without factorial line-profile branch,0.241,0.2656436908246702
+20,03-024,2,7,surface_roughness_Ra_um,Without factorial line-profile branch,0.234,0.28141268748953707
+21,03-024,1,7,surface_roughness_Ra_um,Without factorial line-profile branch,0.219,0.32719219525950805
+34,01-006,3,7,surface_roughness_Ra_um,Without factorial line-profile branch,3.614,1.7985566160672704
+35,01-006,2,7,surface_roughness_Ra_um,Without factorial line-profile branch,3.411,1.8362792000829564
+36,01-006,1,7,surface_roughness_Ra_um,Without factorial line-profile branch,3.341,1.8317321962330624
+61,02-012,3,7,surface_roughness_Ra_um,Without factorial line-profile branch,2.297,1.8707341172928706
+62,02-012,2,7,surface_roughness_Ra_um,Without factorial line-profile branch,2.222,1.9084567013085567
+63,02-012,1,7,surface_roughness_Ra_um,Without factorial line-profile branch,2.204,1.903909697458663
+19,03-024,3,7,surface_roughness_Ra_um,Without residual correction,0.241,0.3000348433535887
+20,03-024,2,7,surface_roughness_Ra_um,Without residual correction,0.234,0.32682651002025537
+21,03-024,1,7,surface_roughness_Ra_um,Without residual correction,0.219,0.342118176686922
+34,01-006,3,7,surface_roughness_Ra_um,Without residual correction,3.614,2.173253950489311
+35,01-006,2,7,surface_roughness_Ra_um,Without residual correction,3.411,2.2000456171559777
+36,01-006,1,7,surface_roughness_Ra_um,Without residual correction,3.341,2.2153372838226444
+61,02-012,3,7,surface_roughness_Ra_um,Without residual correction,2.297,2.181241221316782
+62,02-012,2,7,surface_roughness_Ra_um,Without residual correction,2.222,2.2080328879834488
+63,02-012,1,7,surface_roughness_Ra_um,Without residual correction,2.204,2.2233245546501155
+19,03-024,3,7,surface_roughness_Ra_um,Without physics-guided/meta features,0.241,0.3000348433535887
+20,03-024,2,7,surface_roughness_Ra_um,Without physics-guided/meta features,0.234,0.32682651002025537
+21,03-024,1,7,surface_roughness_Ra_um,Without physics-guided/meta features,0.219,0.342118176686922
+34,01-006,3,7,surface_roughness_Ra_um,Without physics-guided/meta features,3.614,2.173253950489311
+35,01-006,2,7,surface_roughness_Ra_um,Without physics-guided/meta features,3.411,2.2000456171559777
+36,01-006,1,7,surface_roughness_Ra_um,Without physics-guided/meta features,3.341,2.2153372838226444
+61,02-012,3,7,surface_roughness_Ra_um,Without physics-guided/meta features,2.297,2.181241221316782
+62,02-012,2,7,surface_roughness_Ra_um,Without physics-guided/meta features,2.222,2.2080328879834488
+63,02-012,1,7,surface_roughness_Ra_um,Without physics-guided/meta features,2.204,2.2233245546501155
+19,03-024,3,7,surface_roughness_Ra_um,Uniform fusion,0.241,0.3000348433535887
+20,03-024,2,7,surface_roughness_Ra_um,Uniform fusion,0.234,0.32682651002025537
+21,03-024,1,7,surface_roughness_Ra_um,Uniform fusion,0.219,0.342118176686922
+34,01-006,3,7,surface_roughness_Ra_um,Uniform fusion,3.614,2.173253950489311
+35,01-006,2,7,surface_roughness_Ra_um,Uniform fusion,3.411,2.2000456171559777
+36,01-006,1,7,surface_roughness_Ra_um,Uniform fusion,3.341,2.2153372838226444
+61,02-012,3,7,surface_roughness_Ra_um,Uniform fusion,2.297,2.181241221316782
+62,02-012,2,7,surface_roughness_Ra_um,Uniform fusion,2.222,2.2080328879834488
+63,02-012,1,7,surface_roughness_Ra_um,Uniform fusion,2.204,2.2233245546501155
+19,03-024,3,7,surface_roughness_Ra_um,Strongest single branch only,0.241,0.3000348433535887
+20,03-024,2,7,surface_roughness_Ra_um,Strongest single branch only,0.234,0.32682651002025537
+21,03-024,1,7,surface_roughness_Ra_um,Strongest single branch only,0.219,0.342118176686922
+34,01-006,3,7,surface_roughness_Ra_um,Strongest single branch only,3.614,2.173253950489311
+35,01-006,2,7,surface_roughness_Ra_um,Strongest single branch only,3.411,2.2000456171559777
+36,01-006,1,7,surface_roughness_Ra_um,Strongest single branch only,3.341,2.2153372838226444
+61,02-012,3,7,surface_roughness_Ra_um,Strongest single branch only,2.297,2.181241221316782
+62,02-012,2,7,surface_roughness_Ra_um,Strongest single branch only,2.222,2.2080328879834488
+63,02-012,1,7,surface_roughness_Ra_um,Strongest single branch only,2.204,2.2233245546501155
+19,03-024,3,7,post_process_hardness_HV30,Full FA-ATF,493.0,486.96261405536063
+20,03-024,2,7,post_process_hardness_HV30,Full FA-ATF,490.0,489.6292807220273
+21,03-024,1,7,post_process_hardness_HV30,Full FA-ATF,488.0,483.17094738869395
+34,01-006,3,7,post_process_hardness_HV30,Full FA-ATF,537.0,532.6096075943177
+35,01-006,2,7,post_process_hardness_HV30,Full FA-ATF,555.0,535.2762742609843
+36,01-006,1,7,post_process_hardness_HV30,Full FA-ATF,544.0,528.8179409276511
+61,02-012,3,7,post_process_hardness_HV30,Full FA-ATF,615.0,608.3296075943177
+62,02-012,2,7,post_process_hardness_HV30,Full FA-ATF,608.0,610.9962742609844
+63,02-012,1,7,post_process_hardness_HV30,Full FA-ATF,580.0,604.5379409276511
+19,03-024,3,7,post_process_hardness_HV30,Without factorial line-profile branch,493.0,500.33166430669337
+20,03-024,2,7,post_process_hardness_HV30,Without factorial line-profile branch,490.0,499.5131218210794
+21,03-024,1,7,post_process_hardness_HV30,Without factorial line-profile branch,488.0,495.4599638881375
+34,01-006,3,7,post_process_hardness_HV30,Without factorial line-profile branch,537.0,526.4261140906738
+35,01-006,2,7,post_process_hardness_HV30,Without factorial line-profile branch,555.0,526.5394109707574
+36,01-006,1,7,post_process_hardness_HV30,Without factorial line-profile branch,544.0,522.5492484609263
+61,02-012,3,7,post_process_hardness_HV30,Without factorial line-profile branch,615.0,600.1724133808933
+62,02-012,2,7,post_process_hardness_HV30,Without factorial line-profile branch,608.0,601.7358229078416
+63,02-012,1,7,post_process_hardness_HV30,Without factorial line-profile branch,580.0,597.1790940197168
+19,03-024,3,7,post_process_hardness_HV30,Without residual correction,493.0,486.96261405536063
+20,03-024,2,7,post_process_hardness_HV30,Without residual correction,490.0,489.6292807220273
+21,03-024,1,7,post_process_hardness_HV30,Without residual correction,488.0,483.17094738869395
+34,01-006,3,7,post_process_hardness_HV30,Without residual correction,537.0,532.6096075943177
+35,01-006,2,7,post_process_hardness_HV30,Without residual correction,555.0,535.2762742609843
+36,01-006,1,7,post_process_hardness_HV30,Without residual correction,544.0,528.8179409276511
+61,02-012,3,7,post_process_hardness_HV30,Without residual correction,615.0,608.3296075943177
+62,02-012,2,7,post_process_hardness_HV30,Without residual correction,608.0,610.9962742609844
+63,02-012,1,7,post_process_hardness_HV30,Without residual correction,580.0,604.5379409276511
+19,03-024,3,7,post_process_hardness_HV30,Without physics-guided/meta features,493.0,486.96261405536063
+20,03-024,2,7,post_process_hardness_HV30,Without physics-guided/meta features,490.0,489.6292807220273
+21,03-024,1,7,post_process_hardness_HV30,Without physics-guided/meta features,488.0,483.17094738869395
+34,01-006,3,7,post_process_hardness_HV30,Without physics-guided/meta features,537.0,532.6096075943177
+35,01-006,2,7,post_process_hardness_HV30,Without physics-guided/meta features,555.0,535.2762742609843
+36,01-006,1,7,post_process_hardness_HV30,Without physics-guided/meta features,544.0,528.8179409276511
+61,02-012,3,7,post_process_hardness_HV30,Without physics-guided/meta features,615.0,608.3296075943177
+62,02-012,2,7,post_process_hardness_HV30,Without physics-guided/meta features,608.0,610.9962742609844
+63,02-012,1,7,post_process_hardness_HV30,Without physics-guided/meta features,580.0,604.5379409276511
+19,03-024,3,7,post_process_hardness_HV30,Uniform fusion,493.0,486.96261405536063
+20,03-024,2,7,post_process_hardness_HV30,Uniform fusion,490.0,489.6292807220273
+21,03-024,1,7,post_process_hardness_HV30,Uniform fusion,488.0,483.17094738869395
+34,01-006,3,7,post_process_hardness_HV30,Uniform fusion,537.0,532.6096075943177
+35,01-006,2,7,post_process_hardness_HV30,Uniform fusion,555.0,535.2762742609843
+36,01-006,1,7,post_process_hardness_HV30,Uniform fusion,544.0,528.8179409276511
+61,02-012,3,7,post_process_hardness_HV30,Uniform fusion,615.0,608.3296075943177
+62,02-012,2,7,post_process_hardness_HV30,Uniform fusion,608.0,610.9962742609844
+63,02-012,1,7,post_process_hardness_HV30,Uniform fusion,580.0,604.5379409276511
+19,03-024,3,7,post_process_hardness_HV30,Strongest single branch only,493.0,486.96261405536063
+20,03-024,2,7,post_process_hardness_HV30,Strongest single branch only,490.0,489.6292807220273
+21,03-024,1,7,post_process_hardness_HV30,Strongest single branch only,488.0,483.17094738869395
+34,01-006,3,7,post_process_hardness_HV30,Strongest single branch only,537.0,532.6096075943177
+35,01-006,2,7,post_process_hardness_HV30,Strongest single branch only,555.0,535.2762742609843
+36,01-006,1,7,post_process_hardness_HV30,Strongest single branch only,544.0,528.8179409276511
+61,02-012,3,7,post_process_hardness_HV30,Strongest single branch only,615.0,608.3296075943177
+62,02-012,2,7,post_process_hardness_HV30,Strongest single branch only,608.0,610.9962742609844
+63,02-012,1,7,post_process_hardness_HV30,Strongest single branch only,580.0,604.5379409276511
+19,03-024,3,7,surface_roughness_Ra_um,Shared weights across targets,0.241,0.3000348433535887
+20,03-024,2,7,surface_roughness_Ra_um,Shared weights across targets,0.234,0.32682651002025537
+21,03-024,1,7,surface_roughness_Ra_um,Shared weights across targets,0.219,0.342118176686922
+34,01-006,3,7,surface_roughness_Ra_um,Shared weights across targets,3.614,2.173253950489311
+35,01-006,2,7,surface_roughness_Ra_um,Shared weights across targets,3.411,2.2000456171559777
+36,01-006,1,7,surface_roughness_Ra_um,Shared weights across targets,3.341,2.2153372838226444
+61,02-012,3,7,surface_roughness_Ra_um,Shared weights across targets,2.297,2.181241221316782
+62,02-012,2,7,surface_roughness_Ra_um,Shared weights across targets,2.222,2.2080328879834488
+63,02-012,1,7,surface_roughness_Ra_um,Shared weights across targets,2.204,2.2233245546501155
+19,03-024,3,7,post_process_hardness_HV30,Shared weights across targets,493.0,486.96261405536063
+20,03-024,2,7,post_process_hardness_HV30,Shared weights across targets,490.0,489.6292807220273
+21,03-024,1,7,post_process_hardness_HV30,Shared weights across targets,488.0,483.17094738869395
+34,01-006,3,7,post_process_hardness_HV30,Shared weights across targets,537.0,532.6096075943177
+35,01-006,2,7,post_process_hardness_HV30,Shared weights across targets,555.0,535.2762742609843
+36,01-006,1,7,post_process_hardness_HV30,Shared weights across targets,544.0,528.8179409276511
+61,02-012,3,7,post_process_hardness_HV30,Shared weights across targets,615.0,608.3296075943177
+62,02-012,2,7,post_process_hardness_HV30,Shared weights across targets,608.0,610.9962742609844
+63,02-012,1,7,post_process_hardness_HV30,Shared weights across targets,580.0,604.5379409276511
+1,03-008,3,8,surface_roughness_Ra_um,Full FA-ATF,0.147,0.22968941312026878
+2,03-008,2,8,surface_roughness_Ra_um,Full FA-ATF,0.144,0.2798242967800467
+3,03-008,1,8,surface_roughness_Ra_um,Full FA-ATF,0.226,0.3401827272784671
+37,01-005,3,8,surface_roughness_Ra_um,Full FA-ATF,0.267,0.1990718294904267
+38,01-005,2,8,surface_roughness_Ra_um,Full FA-ATF,0.232,0.23408293894228843
+39,01-005,1,8,surface_roughness_Ra_um,Full FA-ATF,0.256,0.2755366516808134
+70,02-008,3,8,surface_roughness_Ra_um,Full FA-ATF,2.039,2.0619952190818425
+71,02-008,2,8,surface_roughness_Ra_um,Full FA-ATF,2.078,2.0520492648084008
+72,02-008,1,8,surface_roughness_Ra_um,Full FA-ATF,1.998,2.0373066478902966
+1,03-008,3,8,surface_roughness_Ra_um,Without factorial line-profile branch,0.147,0.2555873384559924
+2,03-008,2,8,surface_roughness_Ra_um,Without factorial line-profile branch,0.144,0.3004462436375503
+3,03-008,1,8,surface_roughness_Ra_um,Without factorial line-profile branch,0.226,0.37772238111112305
+37,01-005,3,8,surface_roughness_Ra_um,Without factorial line-profile branch,0.267,0.23259038444006644
+38,01-005,2,8,surface_roughness_Ra_um,Without factorial line-profile branch,0.232,0.2667573476334782
+39,01-005,1,8,surface_roughness_Ra_um,Without factorial line-profile branch,0.256,0.3246717173022994
+70,02-008,3,8,surface_roughness_Ra_um,Without factorial line-profile branch,2.039,2.0417217135433496
+71,02-008,2,8,surface_roughness_Ra_um,Without factorial line-profile branch,2.078,2.034876951386552
+72,02-008,1,8,surface_roughness_Ra_um,Without factorial line-profile branch,1.998,2.0148400292551965
+1,03-008,3,8,surface_roughness_Ra_um,Without residual correction,0.147,0.2023892664134746
+2,03-008,2,8,surface_roughness_Ra_um,Without residual correction,0.144,0.21726426641347457
+3,03-008,1,8,surface_roughness_Ra_um,Without residual correction,0.226,0.22718093308014126
+37,01-005,3,8,surface_roughness_Ra_um,Without residual correction,0.267,0.20029724561688722
+38,01-005,2,8,surface_roughness_Ra_um,Without residual correction,0.232,0.2151722456168872
+39,01-005,1,8,surface_roughness_Ra_um,Without residual correction,0.256,0.22508891228355388
+70,02-008,3,8,surface_roughness_Ra_um,Without residual correction,2.039,2.043186384026751
+71,02-008,2,8,surface_roughness_Ra_um,Without residual correction,2.078,2.0580613840267508
+72,02-008,1,8,surface_roughness_Ra_um,Without residual correction,1.998,2.0679780506934176
+1,03-008,3,8,surface_roughness_Ra_um,Without physics-guided/meta features,0.147,0.2924286720224326
+2,03-008,2,8,surface_roughness_Ra_um,Without physics-guided/meta features,0.144,0.3048740765840818
+3,03-008,1,8,surface_roughness_Ra_um,Without physics-guided/meta features,0.226,0.3170267959230235
+37,01-005,3,8,surface_roughness_Ra_um,Without physics-guided/meta features,0.267,0.18458138517835201
+38,01-005,2,8,surface_roughness_Ra_um,Without physics-guided/meta features,0.232,0.19702678974000126
+39,01-005,1,8,surface_roughness_Ra_um,Without physics-guided/meta features,0.256,0.20917950907894306
+70,02-008,3,8,surface_roughness_Ra_um,Without physics-guided/meta features,2.039,1.9956406210234845
+71,02-008,2,8,surface_roughness_Ra_um,Without physics-guided/meta features,2.078,2.0080860255851336
+72,02-008,1,8,surface_roughness_Ra_um,Without physics-guided/meta features,1.998,2.0202387449240757
+1,03-008,3,8,surface_roughness_Ra_um,Uniform fusion,0.147,0.22236919181215842
+2,03-008,2,8,surface_roughness_Ra_um,Uniform fusion,0.144,0.2630495419685115
+3,03-008,1,8,surface_roughness_Ra_um,Uniform fusion,0.226,0.3098825918751865
+37,01-005,3,8,surface_roughness_Ra_um,Uniform fusion,0.267,0.19940041077376414
+38,01-005,2,8,surface_roughness_Ra_um,Uniform fusion,0.232,0.22901225336251857
+39,01-005,1,8,surface_roughness_Ra_um,Uniform fusion,0.256,0.26200966880969523
+70,02-008,3,8,surface_roughness_Ra_um,Uniform fusion,2.039,2.05695184562932
+71,02-008,2,8,surface_roughness_Ra_um,Uniform fusion,2.078,2.0536613456401174
+72,02-008,1,8,surface_roughness_Ra_um,Uniform fusion,1.998,2.045530832864847
+1,03-008,3,8,surface_roughness_Ra_um,Strongest single branch only,0.147,0.2423491172108422
+2,03-008,2,8,surface_roughness_Ra_um,Strongest single branch only,0.144,0.30883481752354836
+3,03-008,1,8,surface_roughness_Ra_um,Strongest single branch only,0.226,0.3925842506702317
+37,01-005,3,8,surface_roughness_Ra_um,Strongest single branch only,0.267,0.19850357593064105
+38,01-005,2,8,surface_roughness_Ra_um,Strongest single branch only,0.232,0.24285226110814995
+39,01-005,1,8,surface_roughness_Ra_um,Strongest single branch only,0.256,0.2989304253358366
+70,02-008,3,8,surface_roughness_Ra_um,Strongest single branch only,2.039,2.0707173072318894
+71,02-008,2,8,surface_roughness_Ra_um,Strongest single branch only,2.078,2.0492613072534835
+72,02-008,1,8,surface_roughness_Ra_um,Strongest single branch only,1.998,2.0230836150362768
+1,03-008,3,8,post_process_hardness_HV30,Full FA-ATF,490.0,501.24382663909387
+2,03-008,2,8,post_process_hardness_HV30,Full FA-ATF,498.0,500.74382663909387
+3,03-008,1,8,post_process_hardness_HV30,Full FA-ATF,482.0,493.91049330576055
+37,01-005,3,8,post_process_hardness_HV30,Full FA-ATF,504.0,520.8384966885203
+38,01-005,2,8,post_process_hardness_HV30,Full FA-ATF,518.0,520.3384966885203
+39,01-005,1,8,post_process_hardness_HV30,Full FA-ATF,513.0,513.505163355187
+70,02-008,3,8,post_process_hardness_HV30,Full FA-ATF,577.0,605.8371959366918
+71,02-008,2,8,post_process_hardness_HV30,Full FA-ATF,639.0,605.3371959366918
+72,02-008,1,8,post_process_hardness_HV30,Full FA-ATF,628.0,598.5038626033586
+1,03-008,3,8,post_process_hardness_HV30,Without factorial line-profile branch,490.0,498.6883089877786
+2,03-008,2,8,post_process_hardness_HV30,Without factorial line-profile branch,498.0,497.50876687920527
+3,03-008,1,8,post_process_hardness_HV30,Without factorial line-profile branch,482.0,494.725121158029
+37,01-005,3,8,post_process_hardness_HV30,Without factorial line-profile branch,504.0,519.701212797678
+38,01-005,2,8,post_process_hardness_HV30,Without factorial line-profile branch,518.0,519.4944747496667
+39,01-005,1,8,post_process_hardness_HV30,Without factorial line-profile branch,513.0,514.8088633428297
+70,02-008,3,8,post_process_hardness_HV30,Without factorial line-profile branch,577.0,600.6854313558839
+71,02-008,2,8,post_process_hardness_HV30,Without factorial line-profile branch,639.0,598.3777757160962
+72,02-008,1,8,post_process_hardness_HV30,Without factorial line-profile branch,628.0,591.2414851261472
+1,03-008,3,8,post_process_hardness_HV30,Without residual correction,490.0,501.24382663909387
+2,03-008,2,8,post_process_hardness_HV30,Without residual correction,498.0,500.74382663909387
+3,03-008,1,8,post_process_hardness_HV30,Without residual correction,482.0,493.91049330576055
+37,01-005,3,8,post_process_hardness_HV30,Without residual correction,504.0,520.8384966885203
+38,01-005,2,8,post_process_hardness_HV30,Without residual correction,518.0,520.3384966885203
+39,01-005,1,8,post_process_hardness_HV30,Without residual correction,513.0,513.505163355187
+70,02-008,3,8,post_process_hardness_HV30,Without residual correction,577.0,605.8371959366918
+71,02-008,2,8,post_process_hardness_HV30,Without residual correction,639.0,605.3371959366918
+72,02-008,1,8,post_process_hardness_HV30,Without residual correction,628.0,598.5038626033586
+1,03-008,3,8,post_process_hardness_HV30,Without physics-guided/meta features,490.0,501.24382663909387
+2,03-008,2,8,post_process_hardness_HV30,Without physics-guided/meta features,498.0,500.74382663909387
+3,03-008,1,8,post_process_hardness_HV30,Without physics-guided/meta features,482.0,493.91049330576055
+37,01-005,3,8,post_process_hardness_HV30,Without physics-guided/meta features,504.0,520.8384966885203
+38,01-005,2,8,post_process_hardness_HV30,Without physics-guided/meta features,518.0,520.3384966885203
+39,01-005,1,8,post_process_hardness_HV30,Without physics-guided/meta features,513.0,513.505163355187
+70,02-008,3,8,post_process_hardness_HV30,Without physics-guided/meta features,577.0,605.8371959366918
+71,02-008,2,8,post_process_hardness_HV30,Without physics-guided/meta features,639.0,605.3371959366918
+72,02-008,1,8,post_process_hardness_HV30,Without physics-guided/meta features,628.0,598.5038626033586
+1,03-008,3,8,post_process_hardness_HV30,Uniform fusion,490.0,501.24382663909387
+2,03-008,2,8,post_process_hardness_HV30,Uniform fusion,498.0,500.74382663909387
+3,03-008,1,8,post_process_hardness_HV30,Uniform fusion,482.0,493.91049330576055
+37,01-005,3,8,post_process_hardness_HV30,Uniform fusion,504.0,520.8384966885203
+38,01-005,2,8,post_process_hardness_HV30,Uniform fusion,518.0,520.3384966885203
+39,01-005,1,8,post_process_hardness_HV30,Uniform fusion,513.0,513.505163355187
+70,02-008,3,8,post_process_hardness_HV30,Uniform fusion,577.0,605.8371959366918
+71,02-008,2,8,post_process_hardness_HV30,Uniform fusion,639.0,605.3371959366918
+72,02-008,1,8,post_process_hardness_HV30,Uniform fusion,628.0,598.5038626033586
+1,03-008,3,8,post_process_hardness_HV30,Strongest single branch only,490.0,501.24382663909387
+2,03-008,2,8,post_process_hardness_HV30,Strongest single branch only,498.0,500.74382663909387
+3,03-008,1,8,post_process_hardness_HV30,Strongest single branch only,482.0,493.91049330576055
+37,01-005,3,8,post_process_hardness_HV30,Strongest single branch only,504.0,520.8384966885203
+38,01-005,2,8,post_process_hardness_HV30,Strongest single branch only,518.0,520.3384966885203
+39,01-005,1,8,post_process_hardness_HV30,Strongest single branch only,513.0,513.505163355187
+70,02-008,3,8,post_process_hardness_HV30,Strongest single branch only,577.0,605.8371959366918
+71,02-008,2,8,post_process_hardness_HV30,Strongest single branch only,639.0,605.3371959366918
+72,02-008,1,8,post_process_hardness_HV30,Strongest single branch only,628.0,598.5038626033586
+1,03-008,3,8,surface_roughness_Ra_um,Shared weights across targets,0.147,0.2280316214128964
+2,03-008,2,8,surface_roughness_Ra_um,Shared weights across targets,0.144,0.2760253611674092
+3,03-008,1,8,surface_roughness_Ra_um,Shared weights across targets,0.226,0.333320733482164
+37,01-005,3,8,surface_roughness_Ra_um,Shared weights across targets,0.267,0.19914624244924137
+38,01-005,2,8,surface_roughness_Ra_um,Shared weights across targets,0.232,0.23293459381021958
+39,01-005,1,8,surface_roughness_Ra_um,Shared weights across targets,0.256,0.27247323063305595
+70,02-008,3,8,surface_roughness_Ra_um,Shared weights across targets,2.039,2.0608530592570418
+71,02-008,2,8,surface_roughness_Ra_um,Shared weights across targets,2.078,2.0524143486114648
+72,02-008,1,8,surface_roughness_Ra_um,Shared weights across targets,1.998,2.0391691579261066
+1,03-008,3,8,post_process_hardness_HV30,Shared weights across targets,490.0,501.24382663909387
+2,03-008,2,8,post_process_hardness_HV30,Shared weights across targets,498.0,500.74382663909387
+3,03-008,1,8,post_process_hardness_HV30,Shared weights across targets,482.0,493.91049330576055
+37,01-005,3,8,post_process_hardness_HV30,Shared weights across targets,504.0,520.8384966885203
+38,01-005,2,8,post_process_hardness_HV30,Shared weights across targets,518.0,520.3384966885203
+39,01-005,1,8,post_process_hardness_HV30,Shared weights across targets,513.0,513.505163355187
+70,02-008,3,8,post_process_hardness_HV30,Shared weights across targets,577.0,605.8371959366918
+71,02-008,2,8,post_process_hardness_HV30,Shared weights across targets,639.0,605.3371959366918
+72,02-008,1,8,post_process_hardness_HV30,Shared weights across targets,628.0,598.5038626033586
+13,03-019,3,9,surface_roughness_Ra_um,Full FA-ATF,0.759,0.9840472720406609
+14,03-019,2,9,surface_roughness_Ra_um,Full FA-ATF,0.842,0.9972139387073276
+15,03-019,1,9,surface_roughness_Ra_um,Full FA-ATF,0.946,1.0033806053739942
+52,01-002,3,9,surface_roughness_Ra_um,Full FA-ATF,0.785,1.5768934430225443
+53,01-002,2,9,surface_roughness_Ra_um,Full FA-ATF,0.85,1.5900601096892109
+54,01-002,1,9,surface_roughness_Ra_um,Full FA-ATF,0.892,1.5962267763558775
+79,02-022,3,9,surface_roughness_Ra_um,Full FA-ATF,1.941,1.493159691748897
+80,02-022,2,9,surface_roughness_Ra_um,Full FA-ATF,1.835,1.5063263584155635
+81,02-022,1,9,surface_roughness_Ra_um,Full FA-ATF,1.805,1.5124930250822302
+13,03-019,3,9,surface_roughness_Ra_um,Without factorial line-profile branch,0.759,0.8147916230603323
+14,03-019,2,9,surface_roughness_Ra_um,Without factorial line-profile branch,0.842,0.8655665380125287
+15,03-019,1,9,surface_roughness_Ra_um,Without factorial line-profile branch,0.946,0.8710643176020545
+52,01-002,3,9,surface_roughness_Ra_um,Without factorial line-profile branch,0.785,1.9782454929035764
+53,01-002,2,9,surface_roughness_Ra_um,Without factorial line-profile branch,0.85,1.979480282176675
+54,01-002,1,9,surface_roughness_Ra_um,Without factorial line-profile branch,0.892,1.9263877140562697
+79,02-022,3,9,surface_roughness_Ra_um,Without factorial line-profile branch,1.941,1.911500432358367
+80,02-022,2,9,surface_roughness_Ra_um,Without factorial line-profile branch,1.835,1.9127352216314657
+81,02-022,1,9,surface_roughness_Ra_um,Without factorial line-profile branch,1.805,1.878553543639734
+13,03-019,3,9,surface_roughness_Ra_um,Without residual correction,0.759,0.9840472720406609
+14,03-019,2,9,surface_roughness_Ra_um,Without residual correction,0.842,0.9972139387073276
+15,03-019,1,9,surface_roughness_Ra_um,Without residual correction,0.946,1.0033806053739942
+52,01-002,3,9,surface_roughness_Ra_um,Without residual correction,0.785,1.5768934430225443
+53,01-002,2,9,surface_roughness_Ra_um,Without residual correction,0.85,1.5900601096892109
+54,01-002,1,9,surface_roughness_Ra_um,Without residual correction,0.892,1.5962267763558775
+79,02-022,3,9,surface_roughness_Ra_um,Without residual correction,1.941,1.493159691748897
+80,02-022,2,9,surface_roughness_Ra_um,Without residual correction,1.835,1.5063263584155635
+81,02-022,1,9,surface_roughness_Ra_um,Without residual correction,1.805,1.5124930250822302
+13,03-019,3,9,surface_roughness_Ra_um,Without physics-guided/meta features,0.759,0.9840472720406609
+14,03-019,2,9,surface_roughness_Ra_um,Without physics-guided/meta features,0.842,0.9972139387073276
+15,03-019,1,9,surface_roughness_Ra_um,Without physics-guided/meta features,0.946,1.0033806053739942
+52,01-002,3,9,surface_roughness_Ra_um,Without physics-guided/meta features,0.785,1.5768934430225443
+53,01-002,2,9,surface_roughness_Ra_um,Without physics-guided/meta features,0.85,1.5900601096892109
+54,01-002,1,9,surface_roughness_Ra_um,Without physics-guided/meta features,0.892,1.5962267763558775
+79,02-022,3,9,surface_roughness_Ra_um,Without physics-guided/meta features,1.941,1.493159691748897
+80,02-022,2,9,surface_roughness_Ra_um,Without physics-guided/meta features,1.835,1.5063263584155635
+81,02-022,1,9,surface_roughness_Ra_um,Without physics-guided/meta features,1.805,1.5124930250822302
+13,03-019,3,9,surface_roughness_Ra_um,Uniform fusion,0.759,0.9840472720406609
+14,03-019,2,9,surface_roughness_Ra_um,Uniform fusion,0.842,0.9972139387073276
+15,03-019,1,9,surface_roughness_Ra_um,Uniform fusion,0.946,1.0033806053739942
+52,01-002,3,9,surface_roughness_Ra_um,Uniform fusion,0.785,1.5768934430225443
+53,01-002,2,9,surface_roughness_Ra_um,Uniform fusion,0.85,1.5900601096892109
+54,01-002,1,9,surface_roughness_Ra_um,Uniform fusion,0.892,1.5962267763558775
+79,02-022,3,9,surface_roughness_Ra_um,Uniform fusion,1.941,1.493159691748897
+80,02-022,2,9,surface_roughness_Ra_um,Uniform fusion,1.835,1.5063263584155635
+81,02-022,1,9,surface_roughness_Ra_um,Uniform fusion,1.805,1.5124930250822302
+13,03-019,3,9,surface_roughness_Ra_um,Strongest single branch only,0.759,0.9840472720406609
+14,03-019,2,9,surface_roughness_Ra_um,Strongest single branch only,0.842,0.9972139387073276
+15,03-019,1,9,surface_roughness_Ra_um,Strongest single branch only,0.946,1.0033806053739942
+52,01-002,3,9,surface_roughness_Ra_um,Strongest single branch only,0.785,1.5768934430225443
+53,01-002,2,9,surface_roughness_Ra_um,Strongest single branch only,0.85,1.5900601096892109
+54,01-002,1,9,surface_roughness_Ra_um,Strongest single branch only,0.892,1.5962267763558775
+79,02-022,3,9,surface_roughness_Ra_um,Strongest single branch only,1.941,1.493159691748897
+80,02-022,2,9,surface_roughness_Ra_um,Strongest single branch only,1.835,1.5063263584155635
+81,02-022,1,9,surface_roughness_Ra_um,Strongest single branch only,1.805,1.5124930250822302
+13,03-019,3,9,post_process_hardness_HV30,Full FA-ATF,494.0,502.62519682937904
+14,03-019,2,9,post_process_hardness_HV30,Full FA-ATF,497.0,505.70853016271235
+15,03-019,1,9,post_process_hardness_HV30,Full FA-ATF,488.0,497.16686349604566
+52,01-002,3,9,post_process_hardness_HV30,Full FA-ATF,513.0,532.6465905148256
+53,01-002,2,9,post_process_hardness_HV30,Full FA-ATF,508.0,535.7299238481589
+54,01-002,1,9,post_process_hardness_HV30,Full FA-ATF,521.0,527.1882571814923
+79,02-022,3,9,post_process_hardness_HV30,Full FA-ATF,589.0,605.8465905148256
+80,02-022,2,9,post_process_hardness_HV30,Full FA-ATF,589.0,608.929923848159
+81,02-022,1,9,post_process_hardness_HV30,Full FA-ATF,594.0,600.3882571814923
+13,03-019,3,9,post_process_hardness_HV30,Without factorial line-profile branch,494.0,499.9781630612007
+14,03-019,2,9,post_process_hardness_HV30,Without factorial line-profile branch,497.0,502.1988664724546
+15,03-019,1,9,post_process_hardness_HV30,Without factorial line-profile branch,488.0,495.7889925016698
+52,01-002,3,9,post_process_hardness_HV30,Without factorial line-profile branch,513.0,533.2812505273636
+53,01-002,2,9,post_process_hardness_HV30,Without factorial line-profile branch,508.0,533.8431636246827
+54,01-002,1,9,post_process_hardness_HV30,Without factorial line-profile branch,521.0,535.7834682728742
+79,02-022,3,9,post_process_hardness_HV30,Without factorial line-profile branch,589.0,601.4194809258482
+80,02-022,2,9,post_process_hardness_HV30,Without factorial line-profile branch,589.0,603.3111676266591
+81,02-022,1,9,post_process_hardness_HV30,Without factorial line-profile branch,594.0,599.0792955507429
+13,03-019,3,9,post_process_hardness_HV30,Without residual correction,494.0,502.62519682937904
+14,03-019,2,9,post_process_hardness_HV30,Without residual correction,497.0,505.70853016271235
+15,03-019,1,9,post_process_hardness_HV30,Without residual correction,488.0,497.16686349604566
+52,01-002,3,9,post_process_hardness_HV30,Without residual correction,513.0,532.6465905148256
+53,01-002,2,9,post_process_hardness_HV30,Without residual correction,508.0,535.7299238481589
+54,01-002,1,9,post_process_hardness_HV30,Without residual correction,521.0,527.1882571814923
+79,02-022,3,9,post_process_hardness_HV30,Without residual correction,589.0,605.8465905148256
+80,02-022,2,9,post_process_hardness_HV30,Without residual correction,589.0,608.929923848159
+81,02-022,1,9,post_process_hardness_HV30,Without residual correction,594.0,600.3882571814923
+13,03-019,3,9,post_process_hardness_HV30,Without physics-guided/meta features,494.0,502.62519682937904
+14,03-019,2,9,post_process_hardness_HV30,Without physics-guided/meta features,497.0,505.70853016271235
+15,03-019,1,9,post_process_hardness_HV30,Without physics-guided/meta features,488.0,497.16686349604566
+52,01-002,3,9,post_process_hardness_HV30,Without physics-guided/meta features,513.0,532.6465905148256
+53,01-002,2,9,post_process_hardness_HV30,Without physics-guided/meta features,508.0,535.7299238481589
+54,01-002,1,9,post_process_hardness_HV30,Without physics-guided/meta features,521.0,527.1882571814923
+79,02-022,3,9,post_process_hardness_HV30,Without physics-guided/meta features,589.0,605.8465905148256
+80,02-022,2,9,post_process_hardness_HV30,Without physics-guided/meta features,589.0,608.929923848159
+81,02-022,1,9,post_process_hardness_HV30,Without physics-guided/meta features,594.0,600.3882571814923
+13,03-019,3,9,post_process_hardness_HV30,Uniform fusion,494.0,502.62519682937904
+14,03-019,2,9,post_process_hardness_HV30,Uniform fusion,497.0,505.70853016271235
+15,03-019,1,9,post_process_hardness_HV30,Uniform fusion,488.0,497.16686349604566
+52,01-002,3,9,post_process_hardness_HV30,Uniform fusion,513.0,532.6465905148256
+53,01-002,2,9,post_process_hardness_HV30,Uniform fusion,508.0,535.7299238481589
+54,01-002,1,9,post_process_hardness_HV30,Uniform fusion,521.0,527.1882571814923
+79,02-022,3,9,post_process_hardness_HV30,Uniform fusion,589.0,605.8465905148256
+80,02-022,2,9,post_process_hardness_HV30,Uniform fusion,589.0,608.929923848159
+81,02-022,1,9,post_process_hardness_HV30,Uniform fusion,594.0,600.3882571814923
+13,03-019,3,9,post_process_hardness_HV30,Strongest single branch only,494.0,502.62519682937904
+14,03-019,2,9,post_process_hardness_HV30,Strongest single branch only,497.0,505.70853016271235
+15,03-019,1,9,post_process_hardness_HV30,Strongest single branch only,488.0,497.16686349604566
+52,01-002,3,9,post_process_hardness_HV30,Strongest single branch only,513.0,532.6465905148256
+53,01-002,2,9,post_process_hardness_HV30,Strongest single branch only,508.0,535.7299238481589
+54,01-002,1,9,post_process_hardness_HV30,Strongest single branch only,521.0,527.1882571814923
+79,02-022,3,9,post_process_hardness_HV30,Strongest single branch only,589.0,605.8465905148256
+80,02-022,2,9,post_process_hardness_HV30,Strongest single branch only,589.0,608.929923848159
+81,02-022,1,9,post_process_hardness_HV30,Strongest single branch only,594.0,600.3882571814923
+13,03-019,3,9,surface_roughness_Ra_um,Shared weights across targets,0.759,0.9840472720406609
+14,03-019,2,9,surface_roughness_Ra_um,Shared weights across targets,0.842,0.9972139387073276
+15,03-019,1,9,surface_roughness_Ra_um,Shared weights across targets,0.946,1.0033806053739942
+52,01-002,3,9,surface_roughness_Ra_um,Shared weights across targets,0.785,1.5768934430225443
+53,01-002,2,9,surface_roughness_Ra_um,Shared weights across targets,0.85,1.5900601096892109
+54,01-002,1,9,surface_roughness_Ra_um,Shared weights across targets,0.892,1.5962267763558775
+79,02-022,3,9,surface_roughness_Ra_um,Shared weights across targets,1.941,1.493159691748897
+80,02-022,2,9,surface_roughness_Ra_um,Shared weights across targets,1.835,1.5063263584155635
+81,02-022,1,9,surface_roughness_Ra_um,Shared weights across targets,1.805,1.5124930250822302
+13,03-019,3,9,post_process_hardness_HV30,Shared weights across targets,494.0,502.62519682937904
+14,03-019,2,9,post_process_hardness_HV30,Shared weights across targets,497.0,505.70853016271235
+15,03-019,1,9,post_process_hardness_HV30,Shared weights across targets,488.0,497.16686349604566
+52,01-002,3,9,post_process_hardness_HV30,Shared weights across targets,513.0,532.6465905148256
+53,01-002,2,9,post_process_hardness_HV30,Shared weights across targets,508.0,535.7299238481589
+54,01-002,1,9,post_process_hardness_HV30,Shared weights across targets,521.0,527.1882571814923
+79,02-022,3,9,post_process_hardness_HV30,Shared weights across targets,589.0,605.8465905148256
+80,02-022,2,9,post_process_hardness_HV30,Shared weights across targets,589.0,608.929923848159
+81,02-022,1,9,post_process_hardness_HV30,Shared weights across targets,594.0,600.3882571814923

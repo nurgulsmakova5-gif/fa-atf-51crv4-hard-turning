@@ -1,0 +1,10 @@
+Contract item,Frozen value
+Experimental design,Balanced hierarchical split-plot factorial design
+Prediction / inferential units,81 section rows / 27 physical specimens
+Measured / derived predictors,4 / 3
+Targets,Ra (µm); post-process hardness (HV30)
+Missing-value handling,None required
+Outer / inner CV,9 specimen-group folds / 4 specimen-group folds
+Scaling,Fit inside each training partition; StandardScaler only for scale-sensitive models
+Independent validation,Not performed; no methodologically compatible independent dataset with paired Ra/HV30 outcomes was identified
+Primary ordering metric,Mean target-wise NRMSE; physical-unit metrics remain separate

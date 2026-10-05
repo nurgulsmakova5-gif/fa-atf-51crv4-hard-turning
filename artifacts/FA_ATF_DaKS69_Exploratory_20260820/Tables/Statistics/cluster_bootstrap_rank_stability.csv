@@ -1,0 +1,19 @@
+model,model_family,point_rank,probability_rank_1,Monte_Carlo_SE_probability,median_bootstrap_rank,rank_95pct_low,rank_95pct_high,cluster_bootstrap_resamples
+FA-ATF,Proposed,1,0.8305,0.008389569416841366,1.0,1.0,5.0,2000
+CatBoost,Modern classical,4,0.07,0.005705260730238366,5.0,1.0,11.0,2000
+RandomForest,Baseline,3,0.0555,0.005119558086397693,3.0,1.0,10.0,2000
+HistGradientBoosting,Baseline,9,0.0175,0.002932042803234632,9.0,2.0,15.0,2000
+XGBoost,Modern classical,7,0.011,0.002332273568859365,7.0,2.0,13.0,2000
+MultiTask MLP,Compact deep learning,2,0.005,0.0015771810295587506,3.0,2.0,11.0,2000
+Residual MLP,Compact deep learning,5,0.0045,0.0014966211945579282,6.0,2.0,13.0,2000
+ExtraTrees,Baseline,8,0.003,0.0012229063741758812,9.0,3.0,15.0,2000
+LightGBM,Modern classical,6,0.0015,0.0008653756409791069,6.0,3.0,10.0,2000
+Compact FT-Transformer,Compact deep learning,11,0.0015,0.0008653756409791069,12.0,4.0,17.0,2000
+PolynomialRidge,Baseline,10,0.0,0.0,10.0,5.0,15.0,2000
+ElasticNet,Baseline,12,0.0,0.0,13.0,6.975000000000001,16.0,2000
+Ridge,Baseline,13,0.0,0.0,13.0,7.0,17.0,2000
+HierarchicalMixedEffects,Baseline,15,0.0,0.0,14.0,4.0,17.0,2000
+LinearRegression,Baseline,14,0.0,0.0,14.0,7.0,17.0,2000
+GaussianProcess,Modern classical,16,0.0,0.0,15.0,3.0,16.0,2000
+SVR-RBF,Baseline,17,0.0,0.0,17.0,8.0,17.0,2000
+DummyRegressor,Baseline,18,0.0,0.0,18.0,18.0,18.0,2000

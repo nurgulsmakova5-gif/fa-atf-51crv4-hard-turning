@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+artifacts/FA_ATF_DaKS69_Exploratory_20260820/Models/
+

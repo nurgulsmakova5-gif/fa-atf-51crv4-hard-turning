@@ -1,0 +1,14 @@
+Column,Role,Unit,Definition,Available at inference
+sample_id,identifier,-,Stable row identifier,No
+specimen_id,group,-,Physical specimen; never split across folds,No
+section_id,excluded identifier,-,Section order; redundant with depth setting,No
+HV_init_HV30,predictor,HV30,Initial Vickers hardness,Yes
+feed_mm_rev,predictor,mm/rev,Feed rate,Yes
+cutting_speed_m_min,predictor,m/min,Cutting speed,Yes
+depth_of_cut_mm,predictor,mm,Depth of cut,Yes
+uncut_chip_section_mm2,derived predictor,mm²,f × a_p,Derived before prediction
+material_removal_proxy_mm3_min,derived predictor,mm³/min,1000 × v_c × f × a_p,Derived before prediction
+theoretical_roughness_Ra_um,derived predictor,µm,"f²/(32r_e), r_e=0.8 mm",Derived before prediction
+surface_roughness_Ra_um,target,µm,Measured axial surface roughness Ra,No
+post_process_hardness_HV30,target,HV30,Measured post-process Vickers hardness,No
+surface_roughness_Rz_um,excluded outcome,µm,Measured Rz outside the two-target scope,No

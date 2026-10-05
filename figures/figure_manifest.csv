@@ -1,0 +1,37 @@
+figure,filename,manuscript_role
+1,01_leakage_safe_data_preparation_pipeline.png,Leakage-safe data preparation and specimen-group splitting pipeline
+2,02_surface_roughness_distribution.png,Distribution of surface roughness Ra
+3,03_surface_roughness_ecdf.png,Empirical cumulative distribution of surface roughness Ra
+4,04_post_process_hardness_distribution.png,Distribution of post-process surface hardness HV30
+5,05_post_process_hardness_ecdf.png,Empirical cumulative distribution of post-process surface hardness HV30
+6,06_spearman_factor_target_dependence.png,Spearman dependence among process factors and targets
+7,07_ra_vs_initial_hardness.png,Surface roughness versus initial hardness
+8,08_ra_vs_feed_rate.png,Surface roughness versus feed rate
+9,09_ra_vs_cutting_speed.png,Surface roughness versus cutting speed
+10,10_ra_vs_depth_of_cut.png,Surface roughness versus depth of cut
+11,11_hv30_vs_initial_hardness.png,Post-process hardness versus initial hardness
+12,12_hv30_vs_feed_rate.png,Post-process hardness versus feed rate
+13,13_hv30_vs_cutting_speed.png,Post-process hardness versus cutting speed
+14,14_hv30_vs_depth_of_cut.png,Post-process hardness versus depth of cut
+15,15_joint_ra_hv30_relationship.png,Joint relationship between Ra and post-process HV30
+16,16_measured_and_physics_guided_feature_dependence.png,Dependence among measured and physics-guided predictors
+17,17_fa_atf_internal_architecture.png,Internal architecture of the proposed FA-ATF model
+18,18_all_model_dimensionless_ranking.png,All-model ranking by mean target-wise NRMSE
+19,19_paired_fa_atf_model_comparisons.png,Paired FA-ATF comparisons with model-family leaders
+20,20_cluster_bootstrap_rank_stability.png,Cluster-bootstrap model-rank stability
+21,21_leave_one_specimen_influence.png,Leave-one-specimen influence on focal comparisons
+22,22_fa_atf_ablation_impact.png,Controlled FA-ATF ablation impact
+23,23_fa_atf_actual_vs_predicted_ra.png,FA-ATF actual versus predicted Ra
+24,24_multitask_mlp_actual_vs_predicted_ra.png,MultiTask MLP actual versus predicted Ra
+25,25_fa_atf_actual_vs_predicted_hv30.png,FA-ATF actual versus predicted post-process HV30
+26,26_multitask_mlp_actual_vs_predicted_hv30.png,MultiTask MLP actual versus predicted post-process HV30
+27,27_oof_residual_distribution_ra.png,Outer-OOF residual distributions for Ra
+28,28_oof_residual_distribution_hv30.png,Outer-OOF residual distributions for post-process HV30
+29,29_fa_atf_branch_weights_ra.png,Target-specific FA-ATF branch weights for Ra
+30,30_fa_atf_branch_weights_hv30.png,Target-specific FA-ATF branch weights for post-process HV30
+31,31_fa_atf_branch_permutation_dependence.png,Permutation dependence on frozen FA-ATF branches
+32,32_model_implied_factorial_contrasts.png,Model-implied standardized marginal factorial contrasts
+33,33_observed_domain_ra_hv30_pareto_tradeoff.png,Observed-domain trade-off between predicted Ra and HV30
+34,34_factor_level_error_difference_vs_random_forest.png,FA-ATF error difference versus RandomForest across factor levels
+35,35_factor_level_error_difference_vs_catboost.png,FA-ATF error difference versus CatBoost across factor levels
+36,36_factor_level_error_difference_vs_multitask_mlp.png,FA-ATF error difference versus MultiTask MLP across factor levels

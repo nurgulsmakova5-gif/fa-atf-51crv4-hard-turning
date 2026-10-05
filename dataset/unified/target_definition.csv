@@ -1,0 +1,3 @@
+Column,Role,Unit,Definition,Available at inference
+surface_roughness_Ra_um,target,µm,Measured axial surface roughness Ra,No
+post_process_hardness_HV30,target,HV30,Measured post-process Vickers hardness,No

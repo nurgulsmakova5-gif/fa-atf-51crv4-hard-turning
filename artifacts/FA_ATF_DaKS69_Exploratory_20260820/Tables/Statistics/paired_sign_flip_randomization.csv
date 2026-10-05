@@ -1,0 +1,4 @@
+comparator,mean_delta_normalized_squared_error,standardized_paired_effect_dz,specimens_favoring_FA_ATF,paired_specimens,one_sided_sign_flip_p_raw,randomization_draws,one_sided_sign_flip_p_Holm
+MultiTask MLP,-0.03194997899949331,-0.41630695607513285,18,27,0.01925,99999,0.057749999999999996
+RandomForest,-0.0347174767610477,-0.2535591049825043,11,27,0.10844,99999,0.21688
+CatBoost,-0.046757474278494894,-0.2199464177144905,11,27,0.19351,99999,0.21688

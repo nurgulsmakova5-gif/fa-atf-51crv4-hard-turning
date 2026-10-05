@@ -1,0 +1,5 @@
+target,expert,mean_weight,SD_weight,nonzero_outer_folds,outer_folds_present
+post_process_hardness_HV30,Factorial line-profile backbone,1.0,0.0,9,9
+post_process_hardness_HV30,Residual-corrected expert,0.0,0.0,0,9
+surface_roughness_Ra_um,Factorial line-profile backbone,0.8470111754047139,0.30358918084948444,9,9
+surface_roughness_Ra_um,Residual-corrected expert,0.1529888245952861,0.30358918084948444,2,9

@@ -1,0 +1,1135 @@
+sample_id,specimen_id,section_id,outer_fold,model,model_family,target,y_true,y_pred,seed_prediction_sd
+10,03-010,3,1,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.228,0.2068984730078467,
+11,03-010,2,1,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.206,0.1856046979142259,
+12,03-010,1,1,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.519,0.2228339540711003,
+46,01-012,3,1,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.261,0.2965875772073975,
+47,01-012,2,1,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.167,0.2950023224445709,
+48,01-012,1,1,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.171,0.3502376052327106,
+55,02-021,3,1,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.204,0.228170795248206,
+56,02-021,2,1,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.141,0.192194362375667,
+57,02-021,1,1,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.158,0.2102341339564823,
+10,03-010,3,1,GaussianProcess,Modern classical,post_process_hardness_HV30,501.0,484.5530050098256,
+11,03-010,2,1,GaussianProcess,Modern classical,post_process_hardness_HV30,496.0,485.25268945813355,
+12,03-010,1,1,GaussianProcess,Modern classical,post_process_hardness_HV30,493.0,483.0533309202576,
+46,01-012,3,1,GaussianProcess,Modern classical,post_process_hardness_HV30,500.0,525.1677352369521,
+47,01-012,2,1,GaussianProcess,Modern classical,post_process_hardness_HV30,499.0,524.5384574544757,
+48,01-012,1,1,GaussianProcess,Modern classical,post_process_hardness_HV30,507.0,517.9474847865342,
+55,02-021,3,1,GaussianProcess,Modern classical,post_process_hardness_HV30,602.0,587.9936321720218,
+56,02-021,2,1,GaussianProcess,Modern classical,post_process_hardness_HV30,606.0,585.9299151128453,
+57,02-021,1,1,GaussianProcess,Modern classical,post_process_hardness_HV30,592.0,571.9660641306217,
+10,03-010,3,1,XGBoost,Modern classical,surface_roughness_Ra_um,0.228,0.1999484449625015,
+11,03-010,2,1,XGBoost,Modern classical,surface_roughness_Ra_um,0.206,0.2093893587589264,
+12,03-010,1,1,XGBoost,Modern classical,surface_roughness_Ra_um,0.519,0.2522731721401214,
+46,01-012,3,1,XGBoost,Modern classical,surface_roughness_Ra_um,0.261,0.2130717039108276,
+47,01-012,2,1,XGBoost,Modern classical,surface_roughness_Ra_um,0.167,0.2401987463235855,
+48,01-012,1,1,XGBoost,Modern classical,surface_roughness_Ra_um,0.171,0.3580235540866852,
+55,02-021,3,1,XGBoost,Modern classical,surface_roughness_Ra_um,0.204,0.1752789169549942,
+56,02-021,2,1,XGBoost,Modern classical,surface_roughness_Ra_um,0.141,0.1754948049783706,
+57,02-021,1,1,XGBoost,Modern classical,surface_roughness_Ra_um,0.158,0.2426103502511978,
+10,03-010,3,1,XGBoost,Modern classical,post_process_hardness_HV30,501.0,492.32269287109375,
+11,03-010,2,1,XGBoost,Modern classical,post_process_hardness_HV30,496.0,492.2584533691406,
+12,03-010,1,1,XGBoost,Modern classical,post_process_hardness_HV30,493.0,486.4991149902344,
+46,01-012,3,1,XGBoost,Modern classical,post_process_hardness_HV30,500.0,516.6692504882812,
+47,01-012,2,1,XGBoost,Modern classical,post_process_hardness_HV30,499.0,516.3613891601562,
+48,01-012,1,1,XGBoost,Modern classical,post_process_hardness_HV30,507.0,509.30322265625,
+55,02-021,3,1,XGBoost,Modern classical,post_process_hardness_HV30,602.0,591.2105102539062,
+56,02-021,2,1,XGBoost,Modern classical,post_process_hardness_HV30,606.0,591.2954711914062,
+57,02-021,1,1,XGBoost,Modern classical,post_process_hardness_HV30,592.0,582.5700073242188,
+10,03-010,3,1,LightGBM,Modern classical,surface_roughness_Ra_um,0.228,0.2352710634775087,
+11,03-010,2,1,LightGBM,Modern classical,surface_roughness_Ra_um,0.206,0.282314148821267,
+12,03-010,1,1,LightGBM,Modern classical,surface_roughness_Ra_um,0.519,0.2558251871867591,
+46,01-012,3,1,LightGBM,Modern classical,surface_roughness_Ra_um,0.261,0.1964243817090309,
+47,01-012,2,1,LightGBM,Modern classical,surface_roughness_Ra_um,0.167,0.2328551561722076,
+48,01-012,1,1,LightGBM,Modern classical,surface_roughness_Ra_um,0.171,0.2042989444092265,
+55,02-021,3,1,LightGBM,Modern classical,surface_roughness_Ra_um,0.204,0.2501162381931888,
+56,02-021,2,1,LightGBM,Modern classical,surface_roughness_Ra_um,0.141,0.2501162381931888,
+57,02-021,1,1,LightGBM,Modern classical,surface_roughness_Ra_um,0.158,0.3136728714501537,
+10,03-010,3,1,LightGBM,Modern classical,post_process_hardness_HV30,501.0,489.4105362894576,
+11,03-010,2,1,LightGBM,Modern classical,post_process_hardness_HV30,496.0,492.1846821042638,
+12,03-010,1,1,LightGBM,Modern classical,post_process_hardness_HV30,493.0,489.1556903611888,
+46,01-012,3,1,LightGBM,Modern classical,post_process_hardness_HV30,500.0,514.0269408037537,
+47,01-012,2,1,LightGBM,Modern classical,post_process_hardness_HV30,499.0,515.8884060796211,
+48,01-012,1,1,LightGBM,Modern classical,post_process_hardness_HV30,507.0,502.1652206929901,
+55,02-021,3,1,LightGBM,Modern classical,post_process_hardness_HV30,602.0,594.3326474996492,
+56,02-021,2,1,LightGBM,Modern classical,post_process_hardness_HV30,606.0,594.3326474996492,
+57,02-021,1,1,LightGBM,Modern classical,post_process_hardness_HV30,592.0,584.5354878233964,
+10,03-010,3,1,CatBoost,Modern classical,surface_roughness_Ra_um,0.228,0.1849687432861388,
+11,03-010,2,1,CatBoost,Modern classical,surface_roughness_Ra_um,0.206,0.2103818044386181,
+12,03-010,1,1,CatBoost,Modern classical,surface_roughness_Ra_um,0.519,0.2878858106172643,
+46,01-012,3,1,CatBoost,Modern classical,surface_roughness_Ra_um,0.261,0.2938744322571619,
+47,01-012,2,1,CatBoost,Modern classical,surface_roughness_Ra_um,0.167,0.2861179682163522,
+48,01-012,1,1,CatBoost,Modern classical,surface_roughness_Ra_um,0.171,0.3548873524107551,
+55,02-021,3,1,CatBoost,Modern classical,surface_roughness_Ra_um,0.204,0.2281136686536192,
+56,02-021,2,1,CatBoost,Modern classical,surface_roughness_Ra_um,0.141,0.2204736539604443,
+57,02-021,1,1,CatBoost,Modern classical,surface_roughness_Ra_um,0.158,0.3331328975786586,
+10,03-010,3,1,CatBoost,Modern classical,post_process_hardness_HV30,501.0,492.2231543519224,
+11,03-010,2,1,CatBoost,Modern classical,post_process_hardness_HV30,496.0,492.2890705498508,
+12,03-010,1,1,CatBoost,Modern classical,post_process_hardness_HV30,493.0,491.4018268300412,
+46,01-012,3,1,CatBoost,Modern classical,post_process_hardness_HV30,500.0,516.079193482886,
+47,01-012,2,1,CatBoost,Modern classical,post_process_hardness_HV30,499.0,515.9001702880634,
+48,01-012,1,1,CatBoost,Modern classical,post_process_hardness_HV30,507.0,512.7609560261362,
+55,02-021,3,1,CatBoost,Modern classical,post_process_hardness_HV30,602.0,591.677060838256,
+56,02-021,2,1,CatBoost,Modern classical,post_process_hardness_HV30,606.0,591.8443305241465,
+57,02-021,1,1,CatBoost,Modern classical,post_process_hardness_HV30,592.0,579.7835144849082,
+25,03-021,3,2,GaussianProcess,Modern classical,surface_roughness_Ra_um,1.543,1.5421313912531576,
+26,03-021,2,2,GaussianProcess,Modern classical,surface_roughness_Ra_um,1.719,1.477026414043369,
+27,03-021,1,2,GaussianProcess,Modern classical,surface_roughness_Ra_um,1.583,1.336814532628738,
+28,01-008,3,2,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.122,0.2003477985757349,
+29,01-008,2,2,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.155,0.1562617297067781,
+30,01-008,1,2,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.219,0.1727143278463534,
+58,02-017,3,2,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.783,0.9945235301395527,
+59,02-017,2,2,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.952,0.9978878765124668,
+60,02-017,1,2,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.845,1.0370275579908508,
+25,03-021,3,2,GaussianProcess,Modern classical,post_process_hardness_HV30,509.0,492.5460973884434,
+26,03-021,2,2,GaussianProcess,Modern classical,post_process_hardness_HV30,520.0,483.4954020927041,
+27,03-021,1,2,GaussianProcess,Modern classical,post_process_hardness_HV30,517.0,497.7483478101103,
+28,01-008,3,2,GaussianProcess,Modern classical,post_process_hardness_HV30,520.0,531.2843125710607,
+29,01-008,2,2,GaussianProcess,Modern classical,post_process_hardness_HV30,523.0,530.2182292854872,
+30,01-008,1,2,GaussianProcess,Modern classical,post_process_hardness_HV30,519.0,519.4355608488813,
+58,02-017,3,2,GaussianProcess,Modern classical,post_process_hardness_HV30,608.0,611.4187649334332,
+59,02-017,2,2,GaussianProcess,Modern classical,post_process_hardness_HV30,599.0,611.9681601435811,
+60,02-017,1,2,GaussianProcess,Modern classical,post_process_hardness_HV30,599.0,587.3718816855436,
+25,03-021,3,2,XGBoost,Modern classical,surface_roughness_Ra_um,1.543,1.377070426940918,
+26,03-021,2,2,XGBoost,Modern classical,surface_roughness_Ra_um,1.719,1.3223408460617063,
+27,03-021,1,2,XGBoost,Modern classical,surface_roughness_Ra_um,1.583,1.3937292098999023,
+28,01-008,3,2,XGBoost,Modern classical,surface_roughness_Ra_um,0.122,0.3045748770236969,
+29,01-008,2,2,XGBoost,Modern classical,surface_roughness_Ra_um,0.155,0.2889239490032196,
+30,01-008,1,2,XGBoost,Modern classical,surface_roughness_Ra_um,0.219,0.3385553359985351,
+58,02-017,3,2,XGBoost,Modern classical,surface_roughness_Ra_um,0.783,0.7894667983055115,
+59,02-017,2,2,XGBoost,Modern classical,surface_roughness_Ra_um,0.952,0.8218563795089722,
+60,02-017,1,2,XGBoost,Modern classical,surface_roughness_Ra_um,0.845,0.836347222328186,
+25,03-021,3,2,XGBoost,Modern classical,post_process_hardness_HV30,509.0,499.7276611328125,
+26,03-021,2,2,XGBoost,Modern classical,post_process_hardness_HV30,520.0,499.8664245605469,
+27,03-021,1,2,XGBoost,Modern classical,post_process_hardness_HV30,517.0,504.0802307128906,
+28,01-008,3,2,XGBoost,Modern classical,post_process_hardness_HV30,520.0,522.4014282226562,
+29,01-008,2,2,XGBoost,Modern classical,post_process_hardness_HV30,523.0,522.1103515625,
+30,01-008,1,2,XGBoost,Modern classical,post_process_hardness_HV30,519.0,513.5712280273438,
+58,02-017,3,2,XGBoost,Modern classical,post_process_hardness_HV30,608.0,606.8814086914062,
+59,02-017,2,2,XGBoost,Modern classical,post_process_hardness_HV30,599.0,606.951171875,
+60,02-017,1,2,XGBoost,Modern classical,post_process_hardness_HV30,599.0,597.5783081054688,
+25,03-021,3,2,LightGBM,Modern classical,surface_roughness_Ra_um,1.543,1.3357225524167162,
+26,03-021,2,2,LightGBM,Modern classical,surface_roughness_Ra_um,1.719,1.3024829249291627,
+27,03-021,1,2,LightGBM,Modern classical,surface_roughness_Ra_um,1.583,1.3275896136051464,
+28,01-008,3,2,LightGBM,Modern classical,surface_roughness_Ra_um,0.122,0.3627858673363206,
+29,01-008,2,2,LightGBM,Modern classical,surface_roughness_Ra_um,0.155,0.3582210520150073,
+30,01-008,1,2,LightGBM,Modern classical,surface_roughness_Ra_um,0.219,0.3899074140848265,
+58,02-017,3,2,LightGBM,Modern classical,surface_roughness_Ra_um,0.783,0.7883455871948141,
+59,02-017,2,2,LightGBM,Modern classical,surface_roughness_Ra_um,0.952,0.7822947909258238,
+60,02-017,1,2,LightGBM,Modern classical,surface_roughness_Ra_um,0.845,0.7626724666761567,
+25,03-021,3,2,LightGBM,Modern classical,post_process_hardness_HV30,509.0,504.8065890090666,
+26,03-021,2,2,LightGBM,Modern classical,post_process_hardness_HV30,520.0,501.7338869351225,
+27,03-021,1,2,LightGBM,Modern classical,post_process_hardness_HV30,517.0,501.7338869351225,
+28,01-008,3,2,LightGBM,Modern classical,post_process_hardness_HV30,520.0,516.1895436418075,
+29,01-008,2,2,LightGBM,Modern classical,post_process_hardness_HV30,523.0,519.7885743674209,
+30,01-008,1,2,LightGBM,Modern classical,post_process_hardness_HV30,519.0,506.88930223084265,
+58,02-017,3,2,LightGBM,Modern classical,post_process_hardness_HV30,608.0,608.7494426678096,
+59,02-017,2,2,LightGBM,Modern classical,post_process_hardness_HV30,599.0,607.6845052546645,
+60,02-017,1,2,LightGBM,Modern classical,post_process_hardness_HV30,599.0,594.2949538043655,
+25,03-021,3,2,CatBoost,Modern classical,surface_roughness_Ra_um,1.543,1.5582325212764552,
+26,03-021,2,2,CatBoost,Modern classical,surface_roughness_Ra_um,1.719,1.57019882640331,
+27,03-021,1,2,CatBoost,Modern classical,surface_roughness_Ra_um,1.583,1.2383003613397825,
+28,01-008,3,2,CatBoost,Modern classical,surface_roughness_Ra_um,0.122,0.2564345497758291,
+29,01-008,2,2,CatBoost,Modern classical,surface_roughness_Ra_um,0.155,0.2694574263068285,
+30,01-008,1,2,CatBoost,Modern classical,surface_roughness_Ra_um,0.219,0.3504468735717335,
+58,02-017,3,2,CatBoost,Modern classical,surface_roughness_Ra_um,0.783,0.8665995045822734,
+59,02-017,2,2,CatBoost,Modern classical,surface_roughness_Ra_um,0.952,0.987639927677821,
+60,02-017,1,2,CatBoost,Modern classical,surface_roughness_Ra_um,0.845,0.9920202030180996,
+25,03-021,3,2,CatBoost,Modern classical,post_process_hardness_HV30,509.0,502.0908522664605,
+26,03-021,2,2,CatBoost,Modern classical,post_process_hardness_HV30,520.0,498.19579035760614,
+27,03-021,1,2,CatBoost,Modern classical,post_process_hardness_HV30,517.0,505.0707308520182,
+28,01-008,3,2,CatBoost,Modern classical,post_process_hardness_HV30,520.0,520.2709916345815,
+29,01-008,2,2,CatBoost,Modern classical,post_process_hardness_HV30,523.0,520.2027093750213,
+30,01-008,1,2,CatBoost,Modern classical,post_process_hardness_HV30,519.0,510.4156806071573,
+58,02-017,3,2,CatBoost,Modern classical,post_process_hardness_HV30,608.0,606.8693751067661,
+59,02-017,2,2,CatBoost,Modern classical,post_process_hardness_HV30,599.0,608.0973458696099,
+60,02-017,1,2,CatBoost,Modern classical,post_process_hardness_HV30,599.0,597.1944934988002,
+22,03-005,3,3,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.851,0.6818946884819839,
+23,03-005,2,3,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.887,0.7166162484830071,
+24,03-005,1,3,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.848,0.8204295388580953,
+31,01-007,3,3,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.817,0.9689902903185944,
+32,01-007,2,3,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.901,0.992110095060595,
+33,01-007,1,3,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.841,1.0507972087698652,
+64,02-018,3,3,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.17,0.2769695724935984,
+65,02-018,2,3,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.2,0.2447624976442274,
+66,02-018,1,3,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.33,0.2680980924179656,
+22,03-005,3,3,GaussianProcess,Modern classical,post_process_hardness_HV30,485.0,493.7678082063685,
+23,03-005,2,3,GaussianProcess,Modern classical,post_process_hardness_HV30,501.0,488.9884293474313,
+24,03-005,1,3,GaussianProcess,Modern classical,post_process_hardness_HV30,501.0,480.505450265731,
+31,01-007,3,3,GaussianProcess,Modern classical,post_process_hardness_HV30,544.0,532.7057676751825,
+32,01-007,2,3,GaussianProcess,Modern classical,post_process_hardness_HV30,554.0,533.0523407759378,
+33,01-007,1,3,GaussianProcess,Modern classical,post_process_hardness_HV30,498.0,524.9057063026413,
+64,02-018,3,3,GaussianProcess,Modern classical,post_process_hardness_HV30,595.0,594.1299852327443,
+65,02-018,2,3,GaussianProcess,Modern classical,post_process_hardness_HV30,584.0,595.4757521146918,
+66,02-018,1,3,GaussianProcess,Modern classical,post_process_hardness_HV30,569.0,586.6831179178038,
+22,03-005,3,3,XGBoost,Modern classical,surface_roughness_Ra_um,0.851,0.8578497767448425,
+23,03-005,2,3,XGBoost,Modern classical,surface_roughness_Ra_um,0.887,0.9001738429069519,
+24,03-005,1,3,XGBoost,Modern classical,surface_roughness_Ra_um,0.848,0.9134019017219543,
+31,01-007,3,3,XGBoost,Modern classical,surface_roughness_Ra_um,0.817,0.8718757033348083,
+32,01-007,2,3,XGBoost,Modern classical,surface_roughness_Ra_um,0.901,0.9497386813163756,
+33,01-007,1,3,XGBoost,Modern classical,surface_roughness_Ra_um,0.841,0.9677453637123108,
+64,02-018,3,3,XGBoost,Modern classical,surface_roughness_Ra_um,0.17,0.2528280615806579,
+65,02-018,2,3,XGBoost,Modern classical,surface_roughness_Ra_um,0.2,0.2434274107217788,
+66,02-018,1,3,XGBoost,Modern classical,surface_roughness_Ra_um,0.33,0.3440015017986297,
+22,03-005,3,3,XGBoost,Modern classical,post_process_hardness_HV30,485.0,496.6323547363281,
+23,03-005,2,3,XGBoost,Modern classical,post_process_hardness_HV30,501.0,498.0618591308594,
+24,03-005,1,3,XGBoost,Modern classical,post_process_hardness_HV30,501.0,493.3879089355469,
+31,01-007,3,3,XGBoost,Modern classical,post_process_hardness_HV30,544.0,522.1541137695312,
+32,01-007,2,3,XGBoost,Modern classical,post_process_hardness_HV30,554.0,524.0013427734375,
+33,01-007,1,3,XGBoost,Modern classical,post_process_hardness_HV30,498.0,518.9575805664062,
+64,02-018,3,3,XGBoost,Modern classical,post_process_hardness_HV30,595.0,600.7901611328125,
+65,02-018,2,3,XGBoost,Modern classical,post_process_hardness_HV30,584.0,601.4729614257812,
+66,02-018,1,3,XGBoost,Modern classical,post_process_hardness_HV30,569.0,594.05712890625,
+22,03-005,3,3,LightGBM,Modern classical,surface_roughness_Ra_um,0.851,0.8342975000512938,
+23,03-005,2,3,LightGBM,Modern classical,surface_roughness_Ra_um,0.887,0.8591834597228979,
+24,03-005,1,3,LightGBM,Modern classical,surface_roughness_Ra_um,0.848,0.8788654144162252,
+31,01-007,3,3,LightGBM,Modern classical,surface_roughness_Ra_um,0.817,0.8345438935140644,
+32,01-007,2,3,LightGBM,Modern classical,surface_roughness_Ra_um,0.901,1.024901720488803,
+33,01-007,1,3,LightGBM,Modern classical,surface_roughness_Ra_um,0.841,1.0380548794007076,
+64,02-018,3,3,LightGBM,Modern classical,surface_roughness_Ra_um,0.17,0.2954763986475058,
+65,02-018,2,3,LightGBM,Modern classical,surface_roughness_Ra_um,0.2,0.2971906039737854,
+66,02-018,1,3,LightGBM,Modern classical,surface_roughness_Ra_um,0.33,0.339743535900127,
+22,03-005,3,3,LightGBM,Modern classical,post_process_hardness_HV30,485.0,495.2978503123749,
+23,03-005,2,3,LightGBM,Modern classical,post_process_hardness_HV30,501.0,499.749645736431,
+24,03-005,1,3,LightGBM,Modern classical,post_process_hardness_HV30,501.0,492.3315039808064,
+31,01-007,3,3,LightGBM,Modern classical,post_process_hardness_HV30,544.0,518.9438290118472,
+32,01-007,2,3,LightGBM,Modern classical,post_process_hardness_HV30,554.0,529.7333105602864,
+33,01-007,1,3,LightGBM,Modern classical,post_process_hardness_HV30,498.0,518.0882968025127,
+64,02-018,3,3,LightGBM,Modern classical,post_process_hardness_HV30,595.0,600.9632146341427,
+65,02-018,2,3,LightGBM,Modern classical,post_process_hardness_HV30,584.0,602.9889024703094,
+66,02-018,1,3,LightGBM,Modern classical,post_process_hardness_HV30,569.0,592.7059390788223,
+22,03-005,3,3,CatBoost,Modern classical,surface_roughness_Ra_um,0.851,0.81894470497633,
+23,03-005,2,3,CatBoost,Modern classical,surface_roughness_Ra_um,0.887,0.8792777946632099,
+24,03-005,1,3,CatBoost,Modern classical,surface_roughness_Ra_um,0.848,0.9058272974241371,
+31,01-007,3,3,CatBoost,Modern classical,surface_roughness_Ra_um,0.817,0.950241730303926,
+32,01-007,2,3,CatBoost,Modern classical,surface_roughness_Ra_um,0.901,0.9890209886215896,
+33,01-007,1,3,CatBoost,Modern classical,surface_roughness_Ra_um,0.841,1.0028820375952343,
+64,02-018,3,3,CatBoost,Modern classical,surface_roughness_Ra_um,0.17,0.2393678531929229,
+65,02-018,2,3,CatBoost,Modern classical,surface_roughness_Ra_um,0.2,0.2251174759457537,
+66,02-018,1,3,CatBoost,Modern classical,surface_roughness_Ra_um,0.33,0.3200276549368441,
+22,03-005,3,3,CatBoost,Modern classical,post_process_hardness_HV30,485.0,497.46669993352555,
+23,03-005,2,3,CatBoost,Modern classical,post_process_hardness_HV30,501.0,499.883976899668,
+24,03-005,1,3,CatBoost,Modern classical,post_process_hardness_HV30,501.0,495.1008690103014,
+31,01-007,3,3,CatBoost,Modern classical,post_process_hardness_HV30,544.0,521.1728760880703,
+32,01-007,2,3,CatBoost,Modern classical,post_process_hardness_HV30,554.0,523.349915464386,
+33,01-007,1,3,CatBoost,Modern classical,post_process_hardness_HV30,498.0,519.6213902761313,
+64,02-018,3,3,CatBoost,Modern classical,post_process_hardness_HV30,595.0,601.4281535477799,
+65,02-018,2,3,CatBoost,Modern classical,post_process_hardness_HV30,584.0,602.0083361628905,
+66,02-018,1,3,CatBoost,Modern classical,post_process_hardness_HV30,569.0,593.7331949166982,
+7,03-022,3,4,GaussianProcess,Modern classical,surface_roughness_Ra_um,2.119,4.1719113206367675,
+8,03-022,2,4,GaussianProcess,Modern classical,surface_roughness_Ra_um,2.315,3.776709869660011,
+9,03-022,1,4,GaussianProcess,Modern classical,surface_roughness_Ra_um,2.113,3.6960651447711665,
+49,01-011,3,4,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.971,0.9619155354190246,
+50,01-011,2,4,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.993,0.9089875955840302,
+51,01-011,1,4,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.93,0.7950565027246805,
+73,02-002,3,4,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.219,0.1731870366797734,
+74,02-002,2,4,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.192,0.2738170851328734,
+75,02-002,1,4,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.548,0.5358372327791304,
+7,03-022,3,4,GaussianProcess,Modern classical,post_process_hardness_HV30,511.0,514.5150537093615,
+8,03-022,2,4,GaussianProcess,Modern classical,post_process_hardness_HV30,491.0,511.6673632757352,
+9,03-022,1,4,GaussianProcess,Modern classical,post_process_hardness_HV30,502.0,506.2273012043496,
+49,01-011,3,4,GaussianProcess,Modern classical,post_process_hardness_HV30,511.0,523.0677392200839,
+50,01-011,2,4,GaussianProcess,Modern classical,post_process_hardness_HV30,538.0,523.9274131490961,
+51,01-011,1,4,GaussianProcess,Modern classical,post_process_hardness_HV30,504.0,521.2550496154558,
+73,02-002,3,4,GaussianProcess,Modern classical,post_process_hardness_HV30,599.0,572.9644885046832,
+74,02-002,2,4,GaussianProcess,Modern classical,post_process_hardness_HV30,588.0,571.3576268216374,
+75,02-002,1,4,GaussianProcess,Modern classical,post_process_hardness_HV30,582.0,561.9194283264341,
+7,03-022,3,4,XGBoost,Modern classical,surface_roughness_Ra_um,2.119,3.1141951084136963,
+8,03-022,2,4,XGBoost,Modern classical,surface_roughness_Ra_um,2.315,3.145944356918335,
+9,03-022,1,4,XGBoost,Modern classical,surface_roughness_Ra_um,2.113,3.1408612728118896,
+49,01-011,3,4,XGBoost,Modern classical,surface_roughness_Ra_um,0.971,0.8503546714782715,
+50,01-011,2,4,XGBoost,Modern classical,surface_roughness_Ra_um,0.993,0.8531220555305481,
+51,01-011,1,4,XGBoost,Modern classical,surface_roughness_Ra_um,0.93,0.838732898235321,
+73,02-002,3,4,XGBoost,Modern classical,surface_roughness_Ra_um,0.219,0.250482439994812,
+74,02-002,2,4,XGBoost,Modern classical,surface_roughness_Ra_um,0.192,0.249921903014183,
+75,02-002,1,4,XGBoost,Modern classical,surface_roughness_Ra_um,0.548,0.2760228216648102,
+7,03-022,3,4,XGBoost,Modern classical,post_process_hardness_HV30,511.0,515.3824462890625,
+8,03-022,2,4,XGBoost,Modern classical,post_process_hardness_HV30,491.0,516.5419311523438,
+9,03-022,1,4,XGBoost,Modern classical,post_process_hardness_HV30,502.0,514.1024169921875,
+49,01-011,3,4,XGBoost,Modern classical,post_process_hardness_HV30,511.0,511.4529113769531,
+50,01-011,2,4,XGBoost,Modern classical,post_process_hardness_HV30,538.0,514.5110473632812,
+51,01-011,1,4,XGBoost,Modern classical,post_process_hardness_HV30,504.0,507.2511901855469,
+73,02-002,3,4,XGBoost,Modern classical,post_process_hardness_HV30,599.0,583.7620239257812,
+74,02-002,2,4,XGBoost,Modern classical,post_process_hardness_HV30,588.0,584.2455444335938,
+75,02-002,1,4,XGBoost,Modern classical,post_process_hardness_HV30,582.0,577.1378173828125,
+7,03-022,3,4,LightGBM,Modern classical,surface_roughness_Ra_um,2.119,3.0597327626450657,
+8,03-022,2,4,LightGBM,Modern classical,surface_roughness_Ra_um,2.315,3.031561554672886,
+9,03-022,1,4,LightGBM,Modern classical,surface_roughness_Ra_um,2.113,3.024373055881911,
+49,01-011,3,4,LightGBM,Modern classical,surface_roughness_Ra_um,0.971,0.8901076349068573,
+50,01-011,2,4,LightGBM,Modern classical,surface_roughness_Ra_um,0.993,0.8543092192389299,
+51,01-011,1,4,LightGBM,Modern classical,surface_roughness_Ra_um,0.93,0.8452096065668534,
+73,02-002,3,4,LightGBM,Modern classical,surface_roughness_Ra_um,0.219,0.2196155563663822,
+74,02-002,2,4,LightGBM,Modern classical,surface_roughness_Ra_um,0.192,0.2428639984876269,
+75,02-002,1,4,LightGBM,Modern classical,surface_roughness_Ra_um,0.548,0.3344895658430436,
+7,03-022,3,4,LightGBM,Modern classical,post_process_hardness_HV30,511.0,514.6598698201478,
+8,03-022,2,4,LightGBM,Modern classical,post_process_hardness_HV30,491.0,513.4479197780502,
+9,03-022,1,4,LightGBM,Modern classical,post_process_hardness_HV30,502.0,516.4545602257647,
+49,01-011,3,4,LightGBM,Modern classical,post_process_hardness_HV30,511.0,513.1522446141227,
+50,01-011,2,4,LightGBM,Modern classical,post_process_hardness_HV30,538.0,516.1654775992267,
+51,01-011,1,4,LightGBM,Modern classical,post_process_hardness_HV30,504.0,508.54639533093257,
+73,02-002,3,4,LightGBM,Modern classical,post_process_hardness_HV30,599.0,589.4914212922424,
+74,02-002,2,4,LightGBM,Modern classical,post_process_hardness_HV30,588.0,586.3620787780064,
+75,02-002,1,4,LightGBM,Modern classical,post_process_hardness_HV30,582.0,581.8858452356295,
+7,03-022,3,4,CatBoost,Modern classical,surface_roughness_Ra_um,2.119,2.7590556224743876,
+8,03-022,2,4,CatBoost,Modern classical,surface_roughness_Ra_um,2.315,2.779984514768169,
+9,03-022,1,4,CatBoost,Modern classical,surface_roughness_Ra_um,2.113,2.775366562249573,
+49,01-011,3,4,CatBoost,Modern classical,surface_roughness_Ra_um,0.971,0.7077788026988523,
+50,01-011,2,4,CatBoost,Modern classical,surface_roughness_Ra_um,0.993,0.7497963371896781,
+51,01-011,1,4,CatBoost,Modern classical,surface_roughness_Ra_um,0.93,0.7446319963700414,
+73,02-002,3,4,CatBoost,Modern classical,surface_roughness_Ra_um,0.219,0.3448249642020355,
+74,02-002,2,4,CatBoost,Modern classical,surface_roughness_Ra_um,0.192,0.3385014928978953,
+75,02-002,1,4,CatBoost,Modern classical,surface_roughness_Ra_um,0.548,0.3735870207597158,
+7,03-022,3,4,CatBoost,Modern classical,post_process_hardness_HV30,511.0,512.5703197526702,
+8,03-022,2,4,CatBoost,Modern classical,post_process_hardness_HV30,491.0,514.6532773818499,
+9,03-022,1,4,CatBoost,Modern classical,post_process_hardness_HV30,502.0,508.28300217597894,
+49,01-011,3,4,CatBoost,Modern classical,post_process_hardness_HV30,511.0,512.9758327105416,
+50,01-011,2,4,CatBoost,Modern classical,post_process_hardness_HV30,538.0,515.3031163319833,
+51,01-011,1,4,CatBoost,Modern classical,post_process_hardness_HV30,504.0,509.1677256514224,
+73,02-002,3,4,CatBoost,Modern classical,post_process_hardness_HV30,599.0,583.7471632622427,
+74,02-002,2,4,CatBoost,Modern classical,post_process_hardness_HV30,588.0,584.3120083002494,
+75,02-002,1,4,CatBoost,Modern classical,post_process_hardness_HV30,582.0,575.9179163242969,
+4,03-007,3,5,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.654,0.9957263839037388,
+5,03-007,2,5,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.746,1.0399938612187485,
+6,03-007,1,5,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.796,1.116339737697949,
+40,01-010,3,5,GaussianProcess,Modern classical,surface_roughness_Ra_um,1.049,0.8367298867805912,
+41,01-010,2,5,GaussianProcess,Modern classical,surface_roughness_Ra_um,1.027,0.8692998247894117,
+42,01-010,1,5,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.974,0.9492152473021742,
+76,02-005,3,5,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.907,0.7279729704765043,
+77,02-005,2,5,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.915,0.7437710610900796,
+78,02-005,1,5,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.862,0.8166429447919794,
+4,03-007,3,5,GaussianProcess,Modern classical,post_process_hardness_HV30,487.0,501.5118703324102,
+5,03-007,2,5,GaussianProcess,Modern classical,post_process_hardness_HV30,505.0,494.15336376856465,
+6,03-007,1,5,GaussianProcess,Modern classical,post_process_hardness_HV30,496.0,482.03241945500395,
+40,01-010,3,5,GaussianProcess,Modern classical,post_process_hardness_HV30,515.0,532.7918746117008,
+41,01-010,2,5,GaussianProcess,Modern classical,post_process_hardness_HV30,535.0,533.6233126629204,
+42,01-010,1,5,GaussianProcess,Modern classical,post_process_hardness_HV30,493.0,527.0525422064248,
+76,02-005,3,5,GaussianProcess,Modern classical,post_process_hardness_HV30,611.0,585.9546393457325,
+77,02-005,2,5,GaussianProcess,Modern classical,post_process_hardness_HV30,590.0,593.6773181109098,
+78,02-005,1,5,GaussianProcess,Modern classical,post_process_hardness_HV30,585.0,587.4400192005246,
+4,03-007,3,5,XGBoost,Modern classical,surface_roughness_Ra_um,0.654,0.7703838348388672,
+5,03-007,2,5,XGBoost,Modern classical,surface_roughness_Ra_um,0.746,0.8690465688705444,
+6,03-007,1,5,XGBoost,Modern classical,surface_roughness_Ra_um,0.796,0.8777471780776978,
+40,01-010,3,5,XGBoost,Modern classical,surface_roughness_Ra_um,1.049,0.8011468648910522,
+41,01-010,2,5,XGBoost,Modern classical,surface_roughness_Ra_um,1.027,0.8644421100616455,
+42,01-010,1,5,XGBoost,Modern classical,surface_roughness_Ra_um,0.974,0.8555684685707092,
+76,02-005,3,5,XGBoost,Modern classical,surface_roughness_Ra_um,0.907,0.8752768039703369,
+77,02-005,2,5,XGBoost,Modern classical,surface_roughness_Ra_um,0.915,0.9210590124130248,
+78,02-005,1,5,XGBoost,Modern classical,surface_roughness_Ra_um,0.862,0.903785526752472,
+4,03-007,3,5,XGBoost,Modern classical,post_process_hardness_HV30,487.0,505.4647216796875,
+5,03-007,2,5,XGBoost,Modern classical,post_process_hardness_HV30,505.0,504.0783081054687,
+6,03-007,1,5,XGBoost,Modern classical,post_process_hardness_HV30,496.0,494.73187255859375,
+40,01-010,3,5,XGBoost,Modern classical,post_process_hardness_HV30,515.0,528.01220703125,
+41,01-010,2,5,XGBoost,Modern classical,post_process_hardness_HV30,535.0,527.8080444335938,
+42,01-010,1,5,XGBoost,Modern classical,post_process_hardness_HV30,493.0,525.2999877929688,
+76,02-005,3,5,XGBoost,Modern classical,post_process_hardness_HV30,611.0,588.9660034179688,
+77,02-005,2,5,XGBoost,Modern classical,post_process_hardness_HV30,590.0,598.5464477539062,
+78,02-005,1,5,XGBoost,Modern classical,post_process_hardness_HV30,585.0,589.3606567382812,
+4,03-007,3,5,LightGBM,Modern classical,surface_roughness_Ra_um,0.654,0.7629108947277551,
+5,03-007,2,5,LightGBM,Modern classical,surface_roughness_Ra_um,0.746,0.966390042678698,
+6,03-007,1,5,LightGBM,Modern classical,surface_roughness_Ra_um,0.796,0.9683423956575964,
+40,01-010,3,5,LightGBM,Modern classical,surface_roughness_Ra_um,1.049,0.7772415674030251,
+41,01-010,2,5,LightGBM,Modern classical,surface_roughness_Ra_um,1.027,0.808824694737955,
+42,01-010,1,5,LightGBM,Modern classical,surface_roughness_Ra_um,0.974,0.8702748423188339,
+76,02-005,3,5,LightGBM,Modern classical,surface_roughness_Ra_um,0.907,0.8745682228025564,
+77,02-005,2,5,LightGBM,Modern classical,surface_roughness_Ra_um,0.915,0.8792805135320585,
+78,02-005,1,5,LightGBM,Modern classical,surface_roughness_Ra_um,0.862,0.8963691925705731,
+4,03-007,3,5,LightGBM,Modern classical,post_process_hardness_HV30,487.0,501.4661741678221,
+5,03-007,2,5,LightGBM,Modern classical,post_process_hardness_HV30,505.0,500.3255543310752,
+6,03-007,1,5,LightGBM,Modern classical,post_process_hardness_HV30,496.0,484.65003364873326,
+40,01-010,3,5,LightGBM,Modern classical,post_process_hardness_HV30,515.0,527.737741579791,
+41,01-010,2,5,LightGBM,Modern classical,post_process_hardness_HV30,535.0,536.946641711628,
+42,01-010,1,5,LightGBM,Modern classical,post_process_hardness_HV30,493.0,529.821685620536,
+76,02-005,3,5,LightGBM,Modern classical,post_process_hardness_HV30,611.0,588.1440379103851,
+77,02-005,2,5,LightGBM,Modern classical,post_process_hardness_HV30,590.0,598.0081981915542,
+78,02-005,1,5,LightGBM,Modern classical,post_process_hardness_HV30,585.0,595.9407211198228,
+4,03-007,3,5,CatBoost,Modern classical,surface_roughness_Ra_um,0.654,0.932298946565059,
+5,03-007,2,5,CatBoost,Modern classical,surface_roughness_Ra_um,0.746,1.015287637088578,
+6,03-007,1,5,CatBoost,Modern classical,surface_roughness_Ra_um,0.796,1.0286691289862882,
+40,01-010,3,5,CatBoost,Modern classical,surface_roughness_Ra_um,1.049,0.8720500240429971,
+41,01-010,2,5,CatBoost,Modern classical,surface_roughness_Ra_um,1.027,0.9107517026597762,
+42,01-010,1,5,CatBoost,Modern classical,surface_roughness_Ra_um,0.974,0.911715078110984,
+76,02-005,3,5,CatBoost,Modern classical,surface_roughness_Ra_um,0.907,0.8372532969514561,
+77,02-005,2,5,CatBoost,Modern classical,surface_roughness_Ra_um,0.915,0.853386374165204,
+78,02-005,1,5,CatBoost,Modern classical,surface_roughness_Ra_um,0.862,0.8505940108658179,
+4,03-007,3,5,CatBoost,Modern classical,post_process_hardness_HV30,487.0,501.7341327799806,
+5,03-007,2,5,CatBoost,Modern classical,post_process_hardness_HV30,505.0,502.48462671009634,
+6,03-007,1,5,CatBoost,Modern classical,post_process_hardness_HV30,496.0,496.33856983634575,
+40,01-010,3,5,CatBoost,Modern classical,post_process_hardness_HV30,515.0,526.4669964649848,
+41,01-010,2,5,CatBoost,Modern classical,post_process_hardness_HV30,535.0,527.8567587318241,
+42,01-010,1,5,CatBoost,Modern classical,post_process_hardness_HV30,493.0,524.6838560972309,
+76,02-005,3,5,CatBoost,Modern classical,post_process_hardness_HV30,611.0,591.4937013017019,
+77,02-005,2,5,CatBoost,Modern classical,post_process_hardness_HV30,590.0,595.6368010639429,
+78,02-005,1,5,CatBoost,Modern classical,post_process_hardness_HV30,585.0,588.7937405295339,
+16,03-006,3,6,GaussianProcess,Modern classical,surface_roughness_Ra_um,2.454,1.9662390976509403,
+17,03-006,2,6,GaussianProcess,Modern classical,surface_roughness_Ra_um,2.325,2.042549908147074,
+18,03-006,1,6,GaussianProcess,Modern classical,surface_roughness_Ra_um,2.489,1.9171584613230297,
+43,01-009,3,6,GaussianProcess,Modern classical,surface_roughness_Ra_um,1.695,2.116798063688816,
+44,01-009,2,6,GaussianProcess,Modern classical,surface_roughness_Ra_um,1.812,2.177086516595706,
+45,01-009,1,6,GaussianProcess,Modern classical,surface_roughness_Ra_um,1.735,2.022415775603017,
+67,02-010,3,6,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.91,0.8807755486199332,
+68,02-010,2,6,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.904,0.9056776207172932,
+69,02-010,1,6,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.821,0.9695967458007054,
+16,03-006,3,6,GaussianProcess,Modern classical,post_process_hardness_HV30,529.0,501.12881767870135,
+17,03-006,2,6,GaussianProcess,Modern classical,post_process_hardness_HV30,480.0,509.66745375574857,
+18,03-006,1,6,GaussianProcess,Modern classical,post_process_hardness_HV30,522.0,515.281818690412,
+43,01-009,3,6,GaussianProcess,Modern classical,post_process_hardness_HV30,536.0,530.752118699505,
+44,01-009,2,6,GaussianProcess,Modern classical,post_process_hardness_HV30,554.0,542.6778515712701,
+45,01-009,1,6,GaussianProcess,Modern classical,post_process_hardness_HV30,536.0,547.3483419207877,
+67,02-010,3,6,GaussianProcess,Modern classical,post_process_hardness_HV30,617.0,601.312593656233,
+68,02-010,2,6,GaussianProcess,Modern classical,post_process_hardness_HV30,599.0,605.3864796733103,
+69,02-010,1,6,GaussianProcess,Modern classical,post_process_hardness_HV30,615.0,585.7614940900786,
+16,03-006,3,6,XGBoost,Modern classical,surface_roughness_Ra_um,2.454,2.0149431228637695,
+17,03-006,2,6,XGBoost,Modern classical,surface_roughness_Ra_um,2.325,2.0438036918640137,
+18,03-006,1,6,XGBoost,Modern classical,surface_roughness_Ra_um,2.489,1.950819492340088,
+43,01-009,3,6,XGBoost,Modern classical,surface_roughness_Ra_um,1.695,2.120450973510742,
+44,01-009,2,6,XGBoost,Modern classical,surface_roughness_Ra_um,1.812,2.1528632640838623,
+45,01-009,1,6,XGBoost,Modern classical,surface_roughness_Ra_um,1.735,2.053133964538574,
+67,02-010,3,6,XGBoost,Modern classical,surface_roughness_Ra_um,0.91,0.8480300903320312,
+68,02-010,2,6,XGBoost,Modern classical,surface_roughness_Ra_um,0.904,0.9281126260757446,
+69,02-010,1,6,XGBoost,Modern classical,surface_roughness_Ra_um,0.821,0.9246184825897216,
+16,03-006,3,6,XGBoost,Modern classical,post_process_hardness_HV30,529.0,505.408935546875,
+17,03-006,2,6,XGBoost,Modern classical,post_process_hardness_HV30,480.0,511.8432922363281,
+18,03-006,1,6,XGBoost,Modern classical,post_process_hardness_HV30,522.0,517.3413696289062,
+43,01-009,3,6,XGBoost,Modern classical,post_process_hardness_HV30,536.0,527.4130859375,
+44,01-009,2,6,XGBoost,Modern classical,post_process_hardness_HV30,554.0,534.7135009765625,
+45,01-009,1,6,XGBoost,Modern classical,post_process_hardness_HV30,536.0,535.1607666015625,
+67,02-010,3,6,XGBoost,Modern classical,post_process_hardness_HV30,617.0,596.1212768554688,
+68,02-010,2,6,XGBoost,Modern classical,post_process_hardness_HV30,599.0,600.5546875,
+69,02-010,1,6,XGBoost,Modern classical,post_process_hardness_HV30,615.0,586.971923828125,
+16,03-006,3,6,LightGBM,Modern classical,surface_roughness_Ra_um,2.454,2.133789019095584,
+17,03-006,2,6,LightGBM,Modern classical,surface_roughness_Ra_um,2.325,2.0867295518886384,
+18,03-006,1,6,LightGBM,Modern classical,surface_roughness_Ra_um,2.489,1.8632941383137271,
+43,01-009,3,6,LightGBM,Modern classical,surface_roughness_Ra_um,1.695,2.2276389879388705,
+44,01-009,2,6,LightGBM,Modern classical,surface_roughness_Ra_um,1.812,2.1848729353533147,
+45,01-009,1,6,LightGBM,Modern classical,surface_roughness_Ra_um,1.735,1.8934913992344151,
+67,02-010,3,6,LightGBM,Modern classical,surface_roughness_Ra_um,0.91,0.8930907299940116,
+68,02-010,2,6,LightGBM,Modern classical,surface_roughness_Ra_um,0.904,0.9110884956573052,
+69,02-010,1,6,LightGBM,Modern classical,surface_roughness_Ra_um,0.821,0.982549746082374,
+16,03-006,3,6,LightGBM,Modern classical,post_process_hardness_HV30,529.0,503.47263746099094,
+17,03-006,2,6,LightGBM,Modern classical,post_process_hardness_HV30,480.0,514.0033614240018,
+18,03-006,1,6,LightGBM,Modern classical,post_process_hardness_HV30,522.0,515.0592350715685,
+43,01-009,3,6,LightGBM,Modern classical,post_process_hardness_HV30,536.0,525.0041520672343,
+44,01-009,2,6,LightGBM,Modern classical,post_process_hardness_HV30,554.0,538.7369231540455,
+45,01-009,1,6,LightGBM,Modern classical,post_process_hardness_HV30,536.0,530.994958707415,
+67,02-010,3,6,LightGBM,Modern classical,post_process_hardness_HV30,617.0,604.2631459772243,
+68,02-010,2,6,LightGBM,Modern classical,post_process_hardness_HV30,599.0,607.2772162727246,
+69,02-010,1,6,LightGBM,Modern classical,post_process_hardness_HV30,615.0,596.4929653895839,
+16,03-006,3,6,CatBoost,Modern classical,surface_roughness_Ra_um,2.454,1.9539853576528945,
+17,03-006,2,6,CatBoost,Modern classical,surface_roughness_Ra_um,2.325,1.9721222681097148,
+18,03-006,1,6,CatBoost,Modern classical,surface_roughness_Ra_um,2.489,1.9422788998744187,
+43,01-009,3,6,CatBoost,Modern classical,surface_roughness_Ra_um,1.695,2.038165920579746,
+44,01-009,2,6,CatBoost,Modern classical,surface_roughness_Ra_um,1.812,2.056302831036567,
+45,01-009,1,6,CatBoost,Modern classical,surface_roughness_Ra_um,1.735,2.001505573488082,
+67,02-010,3,6,CatBoost,Modern classical,surface_roughness_Ra_um,0.91,0.8914031743159343,
+68,02-010,2,6,CatBoost,Modern classical,surface_roughness_Ra_um,0.904,0.9447677134840174,
+69,02-010,1,6,CatBoost,Modern classical,surface_roughness_Ra_um,0.821,0.9460461765469692,
+16,03-006,3,6,CatBoost,Modern classical,post_process_hardness_HV30,529.0,505.5492903570516,
+17,03-006,2,6,CatBoost,Modern classical,post_process_hardness_HV30,480.0,508.3382958400212,
+18,03-006,1,6,CatBoost,Modern classical,post_process_hardness_HV30,522.0,517.2321472319235,
+43,01-009,3,6,CatBoost,Modern classical,post_process_hardness_HV30,536.0,525.1949846371887,
+44,01-009,2,6,CatBoost,Modern classical,post_process_hardness_HV30,554.0,527.9839901201582,
+45,01-009,1,6,CatBoost,Modern classical,post_process_hardness_HV30,536.0,535.1145278809886,
+67,02-010,3,6,CatBoost,Modern classical,post_process_hardness_HV30,617.0,596.5940203253618,
+68,02-010,2,6,CatBoost,Modern classical,post_process_hardness_HV30,599.0,597.3572991048618,
+69,02-010,1,6,CatBoost,Modern classical,post_process_hardness_HV30,615.0,589.2401002787644,
+19,03-024,3,7,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.241,0.2860968916567541,
+20,03-024,2,7,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.234,0.3071599567886522,
+21,03-024,1,7,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.219,0.368517249725291,
+34,01-006,3,7,GaussianProcess,Modern classical,surface_roughness_Ra_um,3.614,2.037624555051174,
+35,01-006,2,7,GaussianProcess,Modern classical,surface_roughness_Ra_um,3.411,2.1480338481502494,
+36,01-006,1,7,GaussianProcess,Modern classical,surface_roughness_Ra_um,3.341,2.1475101657732676,
+61,02-012,3,7,GaussianProcess,Modern classical,surface_roughness_Ra_um,2.297,2.0284979921729445,
+62,02-012,2,7,GaussianProcess,Modern classical,surface_roughness_Ra_um,2.222,2.121163264220618,
+63,02-012,1,7,GaussianProcess,Modern classical,surface_roughness_Ra_um,2.204,2.102409204647909,
+19,03-024,3,7,GaussianProcess,Modern classical,post_process_hardness_HV30,493.0,479.86440127552646,
+20,03-024,2,7,GaussianProcess,Modern classical,post_process_hardness_HV30,490.0,484.6071962327556,
+21,03-024,1,7,GaussianProcess,Modern classical,post_process_hardness_HV30,488.0,487.1198501641352,
+34,01-006,3,7,GaussianProcess,Modern classical,post_process_hardness_HV30,537.0,539.7934722946403,
+35,01-006,2,7,GaussianProcess,Modern classical,post_process_hardness_HV30,555.0,542.8130810821158,
+36,01-006,1,7,GaussianProcess,Modern classical,post_process_hardness_HV30,544.0,546.2419040197229,
+61,02-012,3,7,GaussianProcess,Modern classical,post_process_hardness_HV30,615.0,600.2967332961516,
+62,02-012,2,7,GaussianProcess,Modern classical,post_process_hardness_HV30,608.0,618.1687273799289,
+63,02-012,1,7,GaussianProcess,Modern classical,post_process_hardness_HV30,580.0,622.2232959595177,
+19,03-024,3,7,XGBoost,Modern classical,surface_roughness_Ra_um,0.241,0.161895290017128,
+20,03-024,2,7,XGBoost,Modern classical,surface_roughness_Ra_um,0.234,0.2092981040477752,
+21,03-024,1,7,XGBoost,Modern classical,surface_roughness_Ra_um,0.219,0.2956562936306,
+34,01-006,3,7,XGBoost,Modern classical,surface_roughness_Ra_um,3.614,1.7171651124954224,
+35,01-006,2,7,XGBoost,Modern classical,surface_roughness_Ra_um,3.411,1.7450079917907717,
+36,01-006,1,7,XGBoost,Modern classical,surface_roughness_Ra_um,3.341,1.710409164428711,
+61,02-012,3,7,XGBoost,Modern classical,surface_roughness_Ra_um,2.297,2.065596103668213,
+62,02-012,2,7,XGBoost,Modern classical,surface_roughness_Ra_um,2.222,2.0963521003723145,
+63,02-012,1,7,XGBoost,Modern classical,surface_roughness_Ra_um,2.204,2.072967529296875,
+19,03-024,3,7,XGBoost,Modern classical,post_process_hardness_HV30,493.0,494.1932373046875,
+20,03-024,2,7,XGBoost,Modern classical,post_process_hardness_HV30,490.0,492.5663757324219,
+21,03-024,1,7,XGBoost,Modern classical,post_process_hardness_HV30,488.0,489.7181701660156,
+34,01-006,3,7,XGBoost,Modern classical,post_process_hardness_HV30,537.0,532.7305908203125,
+35,01-006,2,7,XGBoost,Modern classical,post_process_hardness_HV30,555.0,529.6962280273438,
+36,01-006,1,7,XGBoost,Modern classical,post_process_hardness_HV30,544.0,525.8308715820312,
+61,02-012,3,7,XGBoost,Modern classical,post_process_hardness_HV30,615.0,606.101806640625,
+62,02-012,2,7,XGBoost,Modern classical,post_process_hardness_HV30,608.0,605.7173461914062,
+63,02-012,1,7,XGBoost,Modern classical,post_process_hardness_HV30,580.0,604.0469970703125,
+19,03-024,3,7,LightGBM,Modern classical,surface_roughness_Ra_um,0.241,0.2057349631555737,
+20,03-024,2,7,LightGBM,Modern classical,surface_roughness_Ra_um,0.234,0.2273637365519273,
+21,03-024,1,7,LightGBM,Modern classical,surface_roughness_Ra_um,0.219,0.2243293162141581,
+34,01-006,3,7,LightGBM,Modern classical,surface_roughness_Ra_um,3.614,1.927287236178422,
+35,01-006,2,7,LightGBM,Modern classical,surface_roughness_Ra_um,3.411,1.8497455016220512,
+36,01-006,1,7,LightGBM,Modern classical,surface_roughness_Ra_um,3.341,1.7382042796978234,
+61,02-012,3,7,LightGBM,Modern classical,surface_roughness_Ra_um,2.297,1.887214553713522,
+62,02-012,2,7,LightGBM,Modern classical,surface_roughness_Ra_um,2.222,2.018861183641675,
+63,02-012,1,7,LightGBM,Modern classical,surface_roughness_Ra_um,2.204,1.9073199617174463,
+19,03-024,3,7,LightGBM,Modern classical,post_process_hardness_HV30,493.0,489.9258691349721,
+20,03-024,2,7,LightGBM,Modern classical,post_process_hardness_HV30,490.0,488.5108353222182,
+21,03-024,1,7,LightGBM,Modern classical,post_process_hardness_HV30,488.0,489.523127554929,
+34,01-006,3,7,LightGBM,Modern classical,post_process_hardness_HV30,537.0,533.4722545939741,
+35,01-006,2,7,LightGBM,Modern classical,post_process_hardness_HV30,555.0,532.0238920853591,
+36,01-006,1,7,LightGBM,Modern classical,post_process_hardness_HV30,544.0,535.4223490487365,
+61,02-012,3,7,LightGBM,Modern classical,post_process_hardness_HV30,615.0,606.9185919704378,
+62,02-012,2,7,LightGBM,Modern classical,post_process_hardness_HV30,608.0,607.1572539000598,
+63,02-012,1,7,LightGBM,Modern classical,post_process_hardness_HV30,580.0,610.1814964225466,
+19,03-024,3,7,CatBoost,Modern classical,surface_roughness_Ra_um,0.241,0.2497296170759904,
+20,03-024,2,7,CatBoost,Modern classical,surface_roughness_Ra_um,0.234,0.2850297950319165,
+21,03-024,1,7,CatBoost,Modern classical,surface_roughness_Ra_um,0.219,0.3660322149704076,
+34,01-006,3,7,CatBoost,Modern classical,surface_roughness_Ra_um,3.614,1.6930506243111834,
+35,01-006,2,7,CatBoost,Modern classical,surface_roughness_Ra_um,3.411,1.738416929473236,
+36,01-006,1,7,CatBoost,Modern classical,surface_roughness_Ra_um,3.341,1.7133817517185466,
+61,02-012,3,7,CatBoost,Modern classical,surface_roughness_Ra_um,2.297,1.9870503767274967,
+62,02-012,2,7,CatBoost,Modern classical,surface_roughness_Ra_um,2.222,2.0614365248224047,
+63,02-012,1,7,CatBoost,Modern classical,surface_roughness_Ra_um,2.204,2.02948275161749,
+19,03-024,3,7,CatBoost,Modern classical,post_process_hardness_HV30,493.0,492.2857983572666,
+20,03-024,2,7,CatBoost,Modern classical,post_process_hardness_HV30,490.0,492.36328086747176,
+21,03-024,1,7,CatBoost,Modern classical,post_process_hardness_HV30,488.0,494.3257493908901,
+34,01-006,3,7,CatBoost,Modern classical,post_process_hardness_HV30,537.0,536.465314516938,
+35,01-006,2,7,CatBoost,Modern classical,post_process_hardness_HV30,555.0,530.1612149197751,
+36,01-006,1,7,CatBoost,Modern classical,post_process_hardness_HV30,544.0,527.486753823369,
+61,02-012,3,7,CatBoost,Modern classical,post_process_hardness_HV30,615.0,603.7793546473889,
+62,02-012,2,7,CatBoost,Modern classical,post_process_hardness_HV30,608.0,610.9904462265114,
+63,02-012,1,7,CatBoost,Modern classical,post_process_hardness_HV30,580.0,609.6082576747821,
+1,03-008,3,8,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.147,0.1878058213409283,
+2,03-008,2,8,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.144,0.1578728096180112,
+3,03-008,1,8,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.226,0.1860097943268898,
+37,01-005,3,8,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.267,0.2102141554890622,
+38,01-005,2,8,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.232,0.1916263269648178,
+39,01-005,1,8,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.256,0.2325686761584416,
+70,02-008,3,8,GaussianProcess,Modern classical,surface_roughness_Ra_um,2.039,2.064380199560939,
+71,02-008,2,8,GaussianProcess,Modern classical,surface_roughness_Ra_um,2.078,2.088302059487284,
+72,02-008,1,8,GaussianProcess,Modern classical,surface_roughness_Ra_um,1.998,1.9662102300123083,
+1,03-008,3,8,GaussianProcess,Modern classical,post_process_hardness_HV30,490.0,493.3587643713655,
+2,03-008,2,8,GaussianProcess,Modern classical,post_process_hardness_HV30,498.0,492.76557882239314,
+3,03-008,1,8,GaussianProcess,Modern classical,post_process_hardness_HV30,482.0,489.74328330824153,
+37,01-005,3,8,GaussianProcess,Modern classical,post_process_hardness_HV30,504.0,526.2592318732973,
+38,01-005,2,8,GaussianProcess,Modern classical,post_process_hardness_HV30,518.0,524.3324043778721,
+39,01-005,1,8,GaussianProcess,Modern classical,post_process_hardness_HV30,513.0,517.5043212118238,
+70,02-008,3,8,GaussianProcess,Modern classical,post_process_hardness_HV30,577.0,601.5646212951295,
+71,02-008,2,8,GaussianProcess,Modern classical,post_process_hardness_HV30,639.0,600.1504065326285,
+72,02-008,1,8,GaussianProcess,Modern classical,post_process_hardness_HV30,628.0,588.1951339797073,
+1,03-008,3,8,XGBoost,Modern classical,surface_roughness_Ra_um,0.147,0.1337064653635025,
+2,03-008,2,8,XGBoost,Modern classical,surface_roughness_Ra_um,0.144,0.1268600225448608,
+3,03-008,1,8,XGBoost,Modern classical,surface_roughness_Ra_um,0.226,0.1875896155834198,
+37,01-005,3,8,XGBoost,Modern classical,surface_roughness_Ra_um,0.267,0.2051085084676742,
+38,01-005,2,8,XGBoost,Modern classical,surface_roughness_Ra_um,0.232,0.2317511439323425,
+39,01-005,1,8,XGBoost,Modern classical,surface_roughness_Ra_um,0.256,0.3158604800701141,
+70,02-008,3,8,XGBoost,Modern classical,surface_roughness_Ra_um,2.039,2.146233081817627,
+71,02-008,2,8,XGBoost,Modern classical,surface_roughness_Ra_um,2.078,2.1471288204193115,
+72,02-008,1,8,XGBoost,Modern classical,surface_roughness_Ra_um,1.998,2.099168062210083,
+1,03-008,3,8,XGBoost,Modern classical,post_process_hardness_HV30,490.0,500.4703063964844,
+2,03-008,2,8,XGBoost,Modern classical,post_process_hardness_HV30,498.0,500.1124267578125,
+3,03-008,1,8,XGBoost,Modern classical,post_process_hardness_HV30,482.0,494.0797729492187,
+37,01-005,3,8,XGBoost,Modern classical,post_process_hardness_HV30,504.0,519.1196899414062,
+38,01-005,2,8,XGBoost,Modern classical,post_process_hardness_HV30,518.0,517.5852661132812,
+39,01-005,1,8,XGBoost,Modern classical,post_process_hardness_HV30,513.0,511.9053039550781,
+70,02-008,3,8,XGBoost,Modern classical,post_process_hardness_HV30,577.0,603.7257690429688,
+71,02-008,2,8,XGBoost,Modern classical,post_process_hardness_HV30,639.0,601.4841918945312,
+72,02-008,1,8,XGBoost,Modern classical,post_process_hardness_HV30,628.0,592.5549926757812,
+1,03-008,3,8,LightGBM,Modern classical,surface_roughness_Ra_um,0.147,0.1776170922866468,
+2,03-008,2,8,LightGBM,Modern classical,surface_roughness_Ra_um,0.144,0.1776170922866468,
+3,03-008,1,8,LightGBM,Modern classical,surface_roughness_Ra_um,0.226,0.2359942351931919,
+37,01-005,3,8,LightGBM,Modern classical,surface_roughness_Ra_um,0.267,0.1954275749782817,
+38,01-005,2,8,LightGBM,Modern classical,surface_roughness_Ra_um,0.232,0.245120237274383,
+39,01-005,1,8,LightGBM,Modern classical,surface_roughness_Ra_um,0.256,0.3008151332813323,
+70,02-008,3,8,LightGBM,Modern classical,surface_roughness_Ra_um,2.039,2.1207958840558163,
+71,02-008,2,8,LightGBM,Modern classical,surface_roughness_Ra_um,2.078,2.120104036186346,
+72,02-008,1,8,LightGBM,Modern classical,surface_roughness_Ra_um,1.998,1.9865527188920815,
+1,03-008,3,8,LightGBM,Modern classical,post_process_hardness_HV30,490.0,497.83341957194,
+2,03-008,2,8,LightGBM,Modern classical,post_process_hardness_HV30,498.0,499.64103578007064,
+3,03-008,1,8,LightGBM,Modern classical,post_process_hardness_HV30,482.0,492.5712709110459,
+37,01-005,3,8,LightGBM,Modern classical,post_process_hardness_HV30,504.0,517.3622905158046,
+38,01-005,2,8,LightGBM,Modern classical,post_process_hardness_HV30,518.0,518.9835588681525,
+39,01-005,1,8,LightGBM,Modern classical,post_process_hardness_HV30,513.0,508.4403208477935,
+70,02-008,3,8,LightGBM,Modern classical,post_process_hardness_HV30,577.0,603.8732099886919,
+71,02-008,2,8,LightGBM,Modern classical,post_process_hardness_HV30,639.0,601.8544484767826,
+72,02-008,1,8,LightGBM,Modern classical,post_process_hardness_HV30,628.0,593.8177528710019,
+1,03-008,3,8,CatBoost,Modern classical,surface_roughness_Ra_um,0.147,0.2232434619973284,
+2,03-008,2,8,CatBoost,Modern classical,surface_roughness_Ra_um,0.144,0.2151366861207208,
+3,03-008,1,8,CatBoost,Modern classical,surface_roughness_Ra_um,0.226,0.3140134839240416,
+37,01-005,3,8,CatBoost,Modern classical,surface_roughness_Ra_um,0.267,0.2169129548284328,
+38,01-005,2,8,CatBoost,Modern classical,surface_roughness_Ra_um,0.232,0.2265704942132068,
+39,01-005,1,8,CatBoost,Modern classical,surface_roughness_Ra_um,0.256,0.3748840283605412,
+70,02-008,3,8,CatBoost,Modern classical,surface_roughness_Ra_um,2.039,1.870164753599227,
+71,02-008,2,8,CatBoost,Modern classical,surface_roughness_Ra_um,2.078,1.9185452131446872,
+72,02-008,1,8,CatBoost,Modern classical,surface_roughness_Ra_um,1.998,1.8593768558085793,
+1,03-008,3,8,CatBoost,Modern classical,post_process_hardness_HV30,490.0,497.0909918571555,
+2,03-008,2,8,CatBoost,Modern classical,post_process_hardness_HV30,498.0,496.7679326050812,
+3,03-008,1,8,CatBoost,Modern classical,post_process_hardness_HV30,482.0,493.2314174915183,
+37,01-005,3,8,CatBoost,Modern classical,post_process_hardness_HV30,504.0,518.2398658027043,
+38,01-005,2,8,CatBoost,Modern classical,post_process_hardness_HV30,518.0,518.1199674790979,
+39,01-005,1,8,CatBoost,Modern classical,post_process_hardness_HV30,513.0,511.8031308106845,
+70,02-008,3,8,CatBoost,Modern classical,post_process_hardness_HV30,577.0,600.8417825398575,
+71,02-008,2,8,CatBoost,Modern classical,post_process_hardness_HV30,639.0,599.0845997996113,
+72,02-008,1,8,CatBoost,Modern classical,post_process_hardness_HV30,628.0,593.9460369489419,
+13,03-019,3,9,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.759,0.8352321435974954,
+14,03-019,2,9,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.842,0.8694797742501639,
+15,03-019,1,9,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.946,0.937579550311328,
+52,01-002,3,9,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.785,1.872836646671347,
+53,01-002,2,9,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.85,1.817349148506215,
+54,01-002,1,9,GaussianProcess,Modern classical,surface_roughness_Ra_um,0.892,1.5900760770187836,
+79,02-022,3,9,GaussianProcess,Modern classical,surface_roughness_Ra_um,1.941,1.8245315549992351,
+80,02-022,2,9,GaussianProcess,Modern classical,surface_roughness_Ra_um,1.835,1.7329160297937531,
+81,02-022,1,9,GaussianProcess,Modern classical,surface_roughness_Ra_um,1.805,1.4790231953344997,
+13,03-019,3,9,GaussianProcess,Modern classical,post_process_hardness_HV30,494.0,491.9849067480133,
+14,03-019,2,9,GaussianProcess,Modern classical,post_process_hardness_HV30,497.0,490.4218698387885,
+15,03-019,1,9,GaussianProcess,Modern classical,post_process_hardness_HV30,488.0,482.7688330299324,
+52,01-002,3,9,GaussianProcess,Modern classical,post_process_hardness_HV30,513.0,539.3810873467314,
+53,01-002,2,9,GaussianProcess,Modern classical,post_process_hardness_HV30,508.0,556.5952701770223,
+54,01-002,1,9,GaussianProcess,Modern classical,post_process_hardness_HV30,521.0,556.9789545971047,
+79,02-022,3,9,GaussianProcess,Modern classical,post_process_hardness_HV30,589.0,596.1557006829851,
+80,02-022,2,9,GaussianProcess,Modern classical,post_process_hardness_HV30,589.0,621.4376936257163,
+81,02-022,1,9,GaussianProcess,Modern classical,post_process_hardness_HV30,594.0,606.7429162356559,
+13,03-019,3,9,XGBoost,Modern classical,surface_roughness_Ra_um,0.759,0.8716673254966736,
+14,03-019,2,9,XGBoost,Modern classical,surface_roughness_Ra_um,0.842,0.9261388778686525,
+15,03-019,1,9,XGBoost,Modern classical,surface_roughness_Ra_um,0.946,0.9166165590286256,
+52,01-002,3,9,XGBoost,Modern classical,surface_roughness_Ra_um,0.785,1.7513175010681152,
+53,01-002,2,9,XGBoost,Modern classical,surface_roughness_Ra_um,0.85,1.7409178018569946,
+54,01-002,1,9,XGBoost,Modern classical,surface_roughness_Ra_um,0.892,1.6660964488983154,
+79,02-022,3,9,XGBoost,Modern classical,surface_roughness_Ra_um,1.941,1.5794785022735596,
+80,02-022,2,9,XGBoost,Modern classical,surface_roughness_Ra_um,1.835,1.553699970245361,
+81,02-022,1,9,XGBoost,Modern classical,surface_roughness_Ra_um,1.805,1.4769033193588257,
+13,03-019,3,9,XGBoost,Modern classical,post_process_hardness_HV30,494.0,499.6756591796875,
+14,03-019,2,9,XGBoost,Modern classical,post_process_hardness_HV30,497.0,506.347900390625,
+15,03-019,1,9,XGBoost,Modern classical,post_process_hardness_HV30,488.0,487.2567443847656,
+52,01-002,3,9,XGBoost,Modern classical,post_process_hardness_HV30,513.0,541.218017578125,
+53,01-002,2,9,XGBoost,Modern classical,post_process_hardness_HV30,508.0,541.4402465820312,
+54,01-002,1,9,XGBoost,Modern classical,post_process_hardness_HV30,521.0,534.9041748046875,
+79,02-022,3,9,XGBoost,Modern classical,post_process_hardness_HV30,589.0,594.1940307617188,
+80,02-022,2,9,XGBoost,Modern classical,post_process_hardness_HV30,589.0,608.1298828125,
+81,02-022,1,9,XGBoost,Modern classical,post_process_hardness_HV30,594.0,601.9115600585938,
+13,03-019,3,9,LightGBM,Modern classical,surface_roughness_Ra_um,0.759,0.8854624122723425,
+14,03-019,2,9,LightGBM,Modern classical,surface_roughness_Ra_um,0.842,0.8576620372750897,
+15,03-019,1,9,LightGBM,Modern classical,surface_roughness_Ra_um,0.946,0.8536402541714259,
+52,01-002,3,9,LightGBM,Modern classical,surface_roughness_Ra_um,0.785,2.0427707984091343,
+53,01-002,2,9,LightGBM,Modern classical,surface_roughness_Ra_um,0.85,1.9644677033134992,
+54,01-002,1,9,LightGBM,Modern classical,surface_roughness_Ra_um,0.892,1.9644677033134992,
+79,02-022,3,9,LightGBM,Modern classical,surface_roughness_Ra_um,1.941,2.088164658000739,
+80,02-022,2,9,LightGBM,Modern classical,surface_roughness_Ra_um,1.835,1.927038208817444,
+81,02-022,1,9,LightGBM,Modern classical,surface_roughness_Ra_um,1.805,1.927038208817444,
+13,03-019,3,9,LightGBM,Modern classical,post_process_hardness_HV30,494.0,494.4113559312821,
+14,03-019,2,9,LightGBM,Modern classical,post_process_hardness_HV30,497.0,501.2332145442113,
+15,03-019,1,9,LightGBM,Modern classical,post_process_hardness_HV30,488.0,489.8047440241506,
+52,01-002,3,9,LightGBM,Modern classical,post_process_hardness_HV30,513.0,537.8081886519816,
+53,01-002,2,9,LightGBM,Modern classical,post_process_hardness_HV30,508.0,543.8709237246427,
+54,01-002,1,9,LightGBM,Modern classical,post_process_hardness_HV30,521.0,535.9275812425439,
+79,02-022,3,9,LightGBM,Modern classical,post_process_hardness_HV30,589.0,595.407116984701,
+80,02-022,2,9,LightGBM,Modern classical,post_process_hardness_HV30,589.0,610.1929267443804,
+81,02-022,1,9,LightGBM,Modern classical,post_process_hardness_HV30,594.0,602.6101085529001,
+13,03-019,3,9,CatBoost,Modern classical,surface_roughness_Ra_um,0.759,0.853080801501262,
+14,03-019,2,9,CatBoost,Modern classical,surface_roughness_Ra_um,0.842,0.908324039269896,
+15,03-019,1,9,CatBoost,Modern classical,surface_roughness_Ra_um,0.946,0.904810071348378,
+52,01-002,3,9,CatBoost,Modern classical,surface_roughness_Ra_um,0.785,1.9299643447869064,
+53,01-002,2,9,CatBoost,Modern classical,surface_roughness_Ra_um,0.85,1.940435677764791,
+54,01-002,1,9,CatBoost,Modern classical,surface_roughness_Ra_um,0.892,1.8359573419148465,
+79,02-022,3,9,CatBoost,Modern classical,surface_roughness_Ra_um,1.941,1.866901795286564,
+80,02-022,2,9,CatBoost,Modern classical,surface_roughness_Ra_um,1.835,1.877373128264449,
+81,02-022,1,9,CatBoost,Modern classical,surface_roughness_Ra_um,1.805,1.8027229359562424,
+13,03-019,3,9,CatBoost,Modern classical,post_process_hardness_HV30,494.0,498.0552655994284,
+14,03-019,2,9,CatBoost,Modern classical,post_process_hardness_HV30,497.0,501.03680935393385,
+15,03-019,1,9,CatBoost,Modern classical,post_process_hardness_HV30,488.0,493.3838136570296,
+52,01-002,3,9,CatBoost,Modern classical,post_process_hardness_HV30,513.0,533.729385575182,
+53,01-002,2,9,CatBoost,Modern classical,post_process_hardness_HV30,508.0,534.1295771026809,
+54,01-002,1,9,CatBoost,Modern classical,post_process_hardness_HV30,521.0,537.8427393240312,
+79,02-022,3,9,CatBoost,Modern classical,post_process_hardness_HV30,589.0,601.5752460499557,
+80,02-022,2,9,CatBoost,Modern classical,post_process_hardness_HV30,589.0,604.2175197040557,
+81,02-022,1,9,CatBoost,Modern classical,post_process_hardness_HV30,594.0,605.7682880337609,
+1,03-008,3,8,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,490.0,505.83815511067706,11.627067765216436
+1,03-008,3,8,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.147,0.1928631464640299,0.2292558905319943
+1,03-008,3,8,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,490.0,506.69347127278644,4.601700002960114
+1,03-008,3,8,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.147,0.44375638167063397,0.05015732812301452
+1,03-008,3,8,Residual MLP,Compact deep learning,post_process_hardness_HV30,490.0,509.48240152994794,15.155744948290241
+1,03-008,3,8,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.147,0.2281152407328287,0.0859382056558796
+2,03-008,2,8,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,498.0,502.47083536783856,6.741856166306381
+2,03-008,2,8,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.144,0.14998253186543778,0.18514042540552278
+2,03-008,2,8,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,498.0,500.13323974609375,4.045762824719044
+2,03-008,2,8,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.144,0.37537113825480145,0.03886097796477181
+2,03-008,2,8,Residual MLP,Compact deep learning,post_process_hardness_HV30,498.0,506.14650472005206,15.908277371426301
+2,03-008,2,8,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.144,0.24368588129679358,0.07750147679683721
+3,03-008,1,8,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,482.0,495.40085856119794,5.545986449432248
+3,03-008,1,8,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.226,0.31888171037038165,0.18949425013117535
+3,03-008,1,8,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,482.0,494.9639892578125,7.32252874121692
+3,03-008,1,8,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.226,0.38905811309814453,0.15527982022248057
+3,03-008,1,8,Residual MLP,Compact deep learning,post_process_hardness_HV30,482.0,505.07300821940106,17.242147407182998
+3,03-008,1,8,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.226,0.3902322053909302,0.054358957166324474
+4,03-007,3,5,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,487.0,494.2701721191406,0.7996468586235781
+4,03-007,3,5,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.654,0.8057864705721537,0.4087005010837747
+4,03-007,3,5,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,487.0,496.5106709798177,3.888309521791413
+4,03-007,3,5,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.654,0.8935659925142924,0.02968335258746417
+4,03-007,3,5,Residual MLP,Compact deep learning,post_process_hardness_HV30,487.0,495.7859700520833,4.258658019961644
+4,03-007,3,5,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.654,0.8478073080380758,0.2333644580440013
+5,03-007,2,5,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,505.0,505.02528889973956,4.859961584534154
+5,03-007,2,5,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.746,0.9002002278963724,0.3265885828361162
+5,03-007,2,5,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,505.0,491.4626159667969,6.5330936433402265
+5,03-007,2,5,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.746,0.9822798371315002,0.036104735749382104
+5,03-007,2,5,Residual MLP,Compact deep learning,post_process_hardness_HV30,505.0,485.73486328125,8.712830088971003
+5,03-007,2,5,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.746,0.8923638264338175,0.1598681581544465
+6,03-007,1,5,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,496.0,489.50356038411456,10.709639684194123
+6,03-007,1,5,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.796,0.9091286460558573,0.32454302698314175
+6,03-007,1,5,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,496.0,491.5976155598958,3.266200585599725
+6,03-007,1,5,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.796,1.1103705962498982,0.020391076022233893
+6,03-007,1,5,Residual MLP,Compact deep learning,post_process_hardness_HV30,496.0,481.48191324869794,7.263955778881257
+6,03-007,1,5,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.796,1.0970699588457744,0.12713574327908858
+7,03-022,3,4,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,511.0,516.263427734375,6.295677458392531
+7,03-022,3,4,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,2.119,2.8187729517618814,0.4803245832239416
+7,03-022,3,4,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,511.0,515.1063842773438,0.36366374890747594
+7,03-022,3,4,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,2.119,2.7907911936442056,0.2696035664842357
+7,03-022,3,4,Residual MLP,Compact deep learning,post_process_hardness_HV30,511.0,501.0906270345052,6.759056186918264
+7,03-022,3,4,Residual MLP,Compact deep learning,surface_roughness_Ra_um,2.119,2.874911149342855,0.30532038875560397
+8,03-022,2,4,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,491.0,510.1642761230469,7.338220781105889
+8,03-022,2,4,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,2.315,2.7776498794555664,0.3666211959952026
+8,03-022,2,4,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,491.0,513.2786051432291,3.7626635761904237
+8,03-022,2,4,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,2.315,2.9664815266927085,0.27692817508772294
+8,03-022,2,4,Residual MLP,Compact deep learning,post_process_hardness_HV30,491.0,500.2629089355469,2.8972618354761264
+8,03-022,2,4,Residual MLP,Compact deep learning,surface_roughness_Ra_um,2.315,3.095184326171875,0.4964815193831951
+9,03-022,1,4,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,502.0,513.62841796875,1.4840032613967777
+9,03-022,1,4,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,2.113,2.752593914667765,0.4067308447359136
+9,03-022,1,4,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,502.0,512.9639790852865,6.178558928530751
+9,03-022,1,4,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,2.113,2.8092825412750244,0.3892805618864972
+9,03-022,1,4,Residual MLP,Compact deep learning,post_process_hardness_HV30,502.0,514.1254475911459,0.9551268339575654
+9,03-022,1,4,Residual MLP,Compact deep learning,surface_roughness_Ra_um,2.113,2.682293732961019,0.5475385493165625
+10,03-010,3,1,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,501.0,489.87511189778644,3.5413650262112006
+10,03-010,3,1,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.228,0.41273558139801025,0.10591394593480678
+10,03-010,3,1,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,501.0,493.2565205891927,6.009037190037424
+10,03-010,3,1,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.228,0.3293442328770955,0.07731704270204842
+10,03-010,3,1,Residual MLP,Compact deep learning,post_process_hardness_HV30,501.0,488.8175354003906,4.077824825099889
+10,03-010,3,1,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.228,0.24404615163803098,0.013094602707358599
+11,03-010,2,1,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,496.0,495.9652404785156,4.7723781114256205
+11,03-010,2,1,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.206,0.30386537313461304,0.06282398137005235
+11,03-010,2,1,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,496.0,491.78118896484375,5.32262116714512
+11,03-010,2,1,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.206,0.2871085206667582,0.06586676383572974
+11,03-010,2,1,Residual MLP,Compact deep learning,post_process_hardness_HV30,496.0,490.01873779296875,3.6882741815515456
+11,03-010,2,1,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.206,0.21555960178375244,0.04132767973628995
+12,03-010,1,1,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,493.0,490.1298828125,1.2018135268212038
+12,03-010,1,1,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.519,0.3349107305208842,0.08529632823490436
+12,03-010,1,1,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,493.0,492.9659423828125,4.040298732041038
+12,03-010,1,1,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.519,0.31885351737340284,0.05904534575337233
+12,03-010,1,1,Residual MLP,Compact deep learning,post_process_hardness_HV30,493.0,490.36883544921875,2.9845589990153654
+12,03-010,1,1,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.519,0.27860222260157264,0.03338974737822246
+13,03-019,3,9,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,494.0,497.08118693033856,5.850986513030513
+13,03-019,3,9,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.759,0.7799458106358846,0.12365480237986062
+13,03-019,3,9,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,494.0,497.25828043619794,2.0035234111000864
+13,03-019,3,9,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.759,0.7719197273254395,0.034651961941105175
+13,03-019,3,9,Residual MLP,Compact deep learning,post_process_hardness_HV30,494.0,490.2255350748698,8.562533466546794
+13,03-019,3,9,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.759,0.7918033599853516,0.07952609882479635
+14,03-019,2,9,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,497.0,511.4139099121094,5.886481803122942
+14,03-019,2,9,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.842,0.7818052967389425,0.18224190904309862
+14,03-019,2,9,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,497.0,492.22137451171875,3.559459109982943
+14,03-019,2,9,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.842,0.7705726623535156,0.08108100949676768
+14,03-019,2,9,Residual MLP,Compact deep learning,post_process_hardness_HV30,497.0,490.6302897135417,3.254473123128482
+14,03-019,2,9,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.842,0.8379840056101481,0.11673185117605764
+15,03-019,1,9,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,488.0,495.8200174967448,4.545331649636372
+15,03-019,1,9,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.946,0.8175159692764282,0.14573025768861378
+15,03-019,1,9,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,488.0,491.6231994628906,4.4830447575528405
+15,03-019,1,9,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.946,0.8300662239392599,0.03102934763603872
+15,03-019,1,9,Residual MLP,Compact deep learning,post_process_hardness_HV30,488.0,483.1973164876302,1.0985916067802444
+15,03-019,1,9,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.946,0.9205274780591329,0.03197544434920089
+16,03-006,3,6,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,529.0,498.869140625,0.24972700882749255
+16,03-006,3,6,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,2.454,1.627418835957845,0.22717861760071548
+16,03-006,3,6,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,529.0,504.3941650390625,2.853987522257693
+16,03-006,3,6,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,2.454,1.6662213802337646,0.06638964909240413
+16,03-006,3,6,Residual MLP,Compact deep learning,post_process_hardness_HV30,529.0,501.5232849121094,7.273694199870761
+16,03-006,3,6,Residual MLP,Compact deep learning,surface_roughness_Ra_um,2.454,1.7402754227320354,0.09698010593327747
+17,03-006,2,6,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,480.0,504.0397644042969,1.6386540861494245
+17,03-006,2,6,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,2.325,1.5403826236724854,0.22530978525423145
+17,03-006,2,6,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,480.0,503.20876057942706,0.49799134312623716
+17,03-006,2,6,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,2.325,1.8050425847371419,0.045641173587805346
+17,03-006,2,6,Residual MLP,Compact deep learning,post_process_hardness_HV30,480.0,502.61655680338544,10.901301661228999
+17,03-006,2,6,Residual MLP,Compact deep learning,surface_roughness_Ra_um,2.325,1.7838780879974365,0.05040742344144822
+18,03-006,1,6,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,522.0,498.8324890136719,5.2890615437723705
+18,03-006,1,6,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,2.489,1.5886308352152507,0.2864004366360729
+18,03-006,1,6,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,522.0,503.87554931640625,2.4600718729901665
+18,03-006,1,6,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,2.489,1.6594033241271973,0.03193795683024287
+18,03-006,1,6,Residual MLP,Compact deep learning,post_process_hardness_HV30,522.0,506.6713053385417,2.1748969526407906
+18,03-006,1,6,Residual MLP,Compact deep learning,surface_roughness_Ra_um,2.489,1.6654691696166992,0.023959970559461037
+19,03-024,3,7,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,493.0,487.44671630859375,1.8431083153054055
+19,03-024,3,7,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.241,0.390266756216685,0.08096735503465378
+19,03-024,3,7,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,493.0,492.5821838378906,4.635542959609563
+19,03-024,3,7,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.241,0.3753725190957387,0.1258246633361141
+19,03-024,3,7,Residual MLP,Compact deep learning,post_process_hardness_HV30,493.0,486.71534220377606,2.1742186885948684
+19,03-024,3,7,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.241,0.359941303730011,0.00999783937914968
+20,03-024,2,7,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,490.0,491.23485310872394,1.7416269653486605
+20,03-024,2,7,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.234,0.368438720703125,0.08428719149683638
+20,03-024,2,7,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,490.0,494.0845540364583,3.951787403359302
+20,03-024,2,7,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.234,0.3947475751241048,0.12575105791150762
+20,03-024,2,7,Residual MLP,Compact deep learning,post_process_hardness_HV30,490.0,489.87242635091144,1.59546031567557
+20,03-024,2,7,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.234,0.38110125064849854,0.0419996330140449
+21,03-024,1,7,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,488.0,491.9826354980469,3.4407557452901267
+21,03-024,1,7,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.219,0.4465155800183614,0.04408723616045128
+21,03-024,1,7,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,488.0,496.1800231933594,3.4620542278619655
+21,03-024,1,7,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.219,0.4558512767155965,0.12076843580617029
+21,03-024,1,7,Residual MLP,Compact deep learning,post_process_hardness_HV30,488.0,493.1182149251302,3.4288162054393374
+21,03-024,1,7,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.219,0.456650714079539,0.0721610851321575
+22,03-005,3,3,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,485.0,494.1602783203125,3.6660846169970553
+22,03-005,3,3,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.851,0.7267811497052511,0.0973016726124853
+22,03-005,3,3,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,485.0,503.58069864908856,3.72253398283349
+22,03-005,3,3,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.851,0.8454488118489584,0.1798138937673939
+22,03-005,3,3,Residual MLP,Compact deep learning,post_process_hardness_HV30,485.0,494.5551350911458,6.666600360725338
+22,03-005,3,3,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.851,0.7210447986920675,0.14007732980355966
+23,03-005,2,3,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,501.0,508.2681884765625,4.284531253035509
+23,03-005,2,3,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.887,0.8799188534418741,0.06525513923430994
+23,03-005,2,3,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,501.0,501.1300557454427,3.711950158224131
+23,03-005,2,3,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.887,0.837256133556366,0.1933845729036413
+23,03-005,2,3,Residual MLP,Compact deep learning,post_process_hardness_HV30,501.0,489.54583740234375,7.272412115153147
+23,03-005,2,3,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.887,0.7910558978716532,0.18027316821632544
+24,03-005,1,3,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,501.0,489.12645467122394,5.813498179157758
+24,03-005,1,3,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.848,0.7821827332178751,0.04182322104814834
+24,03-005,1,3,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,501.0,504.36144002278644,2.343419605319255
+24,03-005,1,3,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.848,0.9218306541442871,0.08048582292548558
+24,03-005,1,3,Residual MLP,Compact deep learning,post_process_hardness_HV30,501.0,485.1329040527344,10.79845044271092
+24,03-005,1,3,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.848,0.9527521332105001,0.13474440957084582
+25,03-021,3,2,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,509.0,500.52313232421875,9.40665415061161
+25,03-021,3,2,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,1.543,1.5059050718943279,0.17429173525375
+25,03-021,3,2,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,509.0,506.2427469889323,5.0521346338586595
+25,03-021,3,2,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,1.543,1.3626559575398762,0.086157868630168
+25,03-021,3,2,Residual MLP,Compact deep learning,post_process_hardness_HV30,509.0,503.8295389811198,5.53307460456004
+25,03-021,3,2,Residual MLP,Compact deep learning,surface_roughness_Ra_um,1.543,1.4594073295593262,0.2427407313817318
+26,03-021,2,2,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,520.0,501.61585489908856,9.651977384983468
+26,03-021,2,2,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,1.719,1.3908920288085938,0.16229290472411226
+26,03-021,2,2,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,520.0,506.49082438151044,4.454667812955584
+26,03-021,2,2,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,1.719,1.300306002298991,0.08352307691457303
+26,03-021,2,2,Residual MLP,Compact deep learning,post_process_hardness_HV30,520.0,497.01231892903644,3.843216491994981
+26,03-021,2,2,Residual MLP,Compact deep learning,surface_roughness_Ra_um,1.719,1.4182953039805095,0.13604189704126823
+27,03-021,1,2,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,517.0,497.78676350911456,9.362686412873042
+27,03-021,1,2,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,1.583,1.4455803632736206,0.13831284357853857
+27,03-021,1,2,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,517.0,510.2237040201823,2.40597028707617
+27,03-021,1,2,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,1.583,1.2440929810206096,0.037682726679388524
+27,03-021,1,2,Residual MLP,Compact deep learning,post_process_hardness_HV30,517.0,510.02942911783856,6.347724618861435
+27,03-021,1,2,Residual MLP,Compact deep learning,surface_roughness_Ra_um,1.583,1.3531989653905232,0.07638374608533444
+28,01-008,3,2,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,520.0,518.9433085123698,8.964675511874516
+28,01-008,3,2,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.122,0.0697724421819051,0.07394967942831737
+28,01-008,3,2,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,520.0,525.2567342122396,2.5164852228931185
+28,01-008,3,2,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.122,0.12493753433227534,0.04811912893118596
+28,01-008,3,2,Residual MLP,Compact deep learning,post_process_hardness_HV30,520.0,522.6199951171875,5.505895566466142
+28,01-008,3,2,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.122,0.051216522852579695,0.016749935499134085
+29,01-008,2,2,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,523.0,517.1030883789062,5.172116762673446
+29,01-008,2,2,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.155,0.04756788412729896,0.15084446594471226
+29,01-008,2,2,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,523.0,523.5863647460938,3.2335398829430257
+29,01-008,2,2,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.155,0.11447528998057044,0.052088816523659924
+29,01-008,2,2,Residual MLP,Compact deep learning,post_process_hardness_HV30,523.0,524.3791707356771,5.379066440428882
+29,01-008,2,2,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.155,0.03821186224619544,0.056893698089040504
+30,01-008,1,2,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,519.0,511.0157979329427,4.863358040890211
+30,01-008,1,2,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.219,0.20156051715215048,0.18893426787205003
+30,01-008,1,2,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,519.0,516.3326822916666,3.2360610767322755
+30,01-008,1,2,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.219,0.2195966045061747,0.021056847953233815
+30,01-008,1,2,Residual MLP,Compact deep learning,post_process_hardness_HV30,519.0,511.7064717610677,8.621036653494528
+30,01-008,1,2,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.219,0.12211261192957557,0.11319839308916106
+31,01-007,3,3,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,544.0,507.19139607747394,7.9277953210118515
+31,01-007,3,3,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.817,0.6359440286954244,0.07066282895459575
+31,01-007,3,3,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,544.0,533.5330607096354,10.377188435471343
+31,01-007,3,3,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.817,0.6581118106842041,0.03783538205829552
+31,01-007,3,3,Residual MLP,Compact deep learning,post_process_hardness_HV30,544.0,532.5857340494791,15.610925591734736
+31,01-007,3,3,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.817,0.622531016667684,0.06432511764577344
+32,01-007,2,3,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,554.0,513.8306884765625,5.8169167683980945
+32,01-007,2,3,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.901,0.6674891710281372,0.055284351946827494
+32,01-007,2,3,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,554.0,532.2175089518229,10.66481015538661
+32,01-007,2,3,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.901,0.5695628722508749,0.1381527030964769
+32,01-007,2,3,Residual MLP,Compact deep learning,post_process_hardness_HV30,554.0,542.7557779947916,19.228245420996913
+32,01-007,2,3,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.901,0.6357612411181132,0.16744035553258463
+33,01-007,1,3,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,498.0,501.9050699869792,8.45215983620514
+33,01-007,1,3,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.841,0.7897058526674906,0.35174609247720745
+33,01-007,1,3,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,498.0,525.9920043945312,9.30596817965635
+33,01-007,1,3,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.841,0.831832766532898,0.10588887180081917
+33,01-007,1,3,Residual MLP,Compact deep learning,post_process_hardness_HV30,498.0,527.8779907226562,10.088231776692313
+33,01-007,1,3,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.841,0.8964791297912598,0.4278030232737004
+34,01-006,3,7,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,537.0,532.6888224283854,0.6348900785464234
+34,01-006,3,7,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,3.614,1.6617188453674316,0.015442909160977462
+34,01-006,3,7,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,537.0,551.0788370768229,0.8833009190205331
+34,01-006,3,7,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,3.614,2.040416399637858,0.10420235600570825
+34,01-006,3,7,Residual MLP,Compact deep learning,post_process_hardness_HV30,537.0,550.7031046549479,5.711015088358399
+34,01-006,3,7,Residual MLP,Compact deep learning,surface_roughness_Ra_um,3.614,2.097758134206136,0.16654627420659376
+35,01-006,2,7,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,555.0,521.3963826497396,3.570807724343505
+35,01-006,2,7,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,3.411,1.560982624689738,0.165822503791708
+35,01-006,2,7,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,555.0,553.7475992838541,3.4682343215286493
+35,01-006,2,7,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,3.411,2.218885898590088,0.16645689153437498
+35,01-006,2,7,Residual MLP,Compact deep learning,post_process_hardness_HV30,555.0,550.3450113932291,16.749230077819398
+35,01-006,2,7,Residual MLP,Compact deep learning,surface_roughness_Ra_um,3.411,2.3278213342030845,0.1778036416278603
+36,01-006,1,7,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,544.0,517.167246500651,4.603377750673693
+36,01-006,1,7,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,3.341,1.482675274213155,0.09393801179244422
+36,01-006,1,7,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,544.0,545.5272216796875,4.460118119970023
+36,01-006,1,7,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,3.341,2.1178142627080283,0.20617199097676492
+36,01-006,1,7,Residual MLP,Compact deep learning,post_process_hardness_HV30,544.0,539.0995483398438,13.984174437656364
+36,01-006,1,7,Residual MLP,Compact deep learning,surface_roughness_Ra_um,3.341,2.118673086166382,0.08090581387989013
+37,01-005,3,8,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,504.0,517.9038492838541,9.686058335999993
+37,01-005,3,8,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.267,0.23345643281936643,0.1582839561369347
+37,01-005,3,8,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,504.0,523.075927734375,4.030635899706332
+37,01-005,3,8,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.267,0.20449956258138016,0.0665081868682948
+37,01-005,3,8,Residual MLP,Compact deep learning,post_process_hardness_HV30,504.0,526.9571329752604,17.19733453986279
+37,01-005,3,8,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.267,-0.0018718640009562036,0.12247494261910705
+38,01-005,2,8,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,518.0,512.7634684244791,7.4547109821625135
+38,01-005,2,8,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.232,0.2157804171244303,0.10807953880594251
+38,01-005,2,8,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,518.0,514.7329508463541,1.6369889615927122
+38,01-005,2,8,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.232,0.12521423896153763,0.014776633922847043
+38,01-005,2,8,Residual MLP,Compact deep learning,post_process_hardness_HV30,518.0,523.1811319986979,21.358761948259605
+38,01-005,2,8,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.232,0.058654228846232094,0.09032210824971874
+39,01-005,1,8,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,513.0,501.87530517578125,8.452683494552607
+39,01-005,1,8,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.256,0.3427169919013977,0.1834341918953662
+39,01-005,1,8,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,513.0,511.3592224121094,0.872428669299689
+39,01-005,1,8,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.256,0.2190151214599609,0.11447147435989498
+39,01-005,1,8,Residual MLP,Compact deep learning,post_process_hardness_HV30,513.0,520.9998168945312,17.94409685154669
+39,01-005,1,8,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.256,0.20626497268676758,0.0696705280145714
+40,01-010,3,5,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,515.0,525.4147338867188,11.862263815022647
+40,01-010,3,5,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,1.049,0.8361721833546957,0.27040888638954164
+40,01-010,3,5,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,515.0,524.1904703776041,5.02425282586945
+40,01-010,3,5,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,1.049,0.7075856526692709,0.052382979930298
+40,01-010,3,5,Residual MLP,Compact deep learning,post_process_hardness_HV30,515.0,518.8707478841146,2.929550419673373
+40,01-010,3,5,Residual MLP,Compact deep learning,surface_roughness_Ra_um,1.049,0.7590578198432922,0.09872877140579739
+41,01-010,2,5,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,535.0,525.3850301106771,5.575371329813764
+41,01-010,2,5,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,1.027,0.9173560539881388,0.2793314914567547
+41,01-010,2,5,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,535.0,520.5819905598959,0.5762413898926041
+41,01-010,2,5,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,1.027,0.6405993302663168,0.2249227844464126
+41,01-010,2,5,Residual MLP,Compact deep learning,post_process_hardness_HV30,535.0,518.7804260253906,10.670098837595292
+41,01-010,2,5,Residual MLP,Compact deep learning,surface_roughness_Ra_um,1.027,0.865807294845581,0.03509715836782598
+42,01-010,1,5,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,493.0,514.2203877766927,12.026053323120697
+42,01-010,1,5,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.974,0.837228794892629,0.3439962112496513
+42,01-010,1,5,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,493.0,523.7829386393229,4.500863155283452
+42,01-010,1,5,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.974,0.7948257525761923,0.09934495170221433
+42,01-010,1,5,Residual MLP,Compact deep learning,post_process_hardness_HV30,493.0,519.0466715494791,13.922287059118574
+42,01-010,1,5,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.974,0.9431705474853516,0.10969831426437222
+43,01-009,3,6,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,536.0,515.8352966308594,11.727988938751098
+43,01-009,3,6,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,1.695,1.8317793607711792,0.3693561157351853
+43,01-009,3,6,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,536.0,527.736328125,1.7550759832749925
+43,01-009,3,6,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,1.695,2.102948268254598,0.05086818754307625
+43,01-009,3,6,Residual MLP,Compact deep learning,post_process_hardness_HV30,536.0,518.8376871744791,8.613749901210557
+43,01-009,3,6,Residual MLP,Compact deep learning,surface_roughness_Ra_um,1.695,1.9256455898284912,0.30816141694227134
+44,01-009,2,6,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,554.0,528.8659057617188,13.130930672848764
+44,01-009,2,6,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,1.812,1.7601215839385986,0.33923500595499795
+44,01-009,2,6,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,554.0,536.6908365885416,3.008400049869383
+44,01-009,2,6,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,1.812,2.3499979178110757,0.07457177972629522
+44,01-009,2,6,Residual MLP,Compact deep learning,post_process_hardness_HV30,554.0,522.8625895182291,15.846476535212334
+44,01-009,2,6,Residual MLP,Compact deep learning,surface_roughness_Ra_um,1.812,1.9124678770701091,0.5879206213555568
+45,01-009,1,6,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,536.0,517.0022277832031,11.617714668675077
+45,01-009,1,6,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,1.735,1.8354289929072063,0.44739843270232876
+45,01-009,1,6,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,536.0,534.0312093098959,2.631106708637102
+45,01-009,1,6,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,1.735,1.9672078291575115,0.14919524238840456
+45,01-009,1,6,Residual MLP,Compact deep learning,post_process_hardness_HV30,536.0,524.5936075846354,12.823786869924133
+45,01-009,1,6,Residual MLP,Compact deep learning,surface_roughness_Ra_um,1.735,1.932341734568278,0.22494776001439357
+46,01-012,3,1,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,500.0,509.68902587890625,6.5706920619037135
+46,01-012,3,1,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.261,0.37496548891067505,0.10822126201318348
+46,01-012,3,1,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,500.0,513.9365437825521,5.632402220694226
+46,01-012,3,1,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.261,0.38249023755391437,0.06953529256859123
+46,01-012,3,1,Residual MLP,Compact deep learning,post_process_hardness_HV30,500.0,511.9626770019531,2.718445928569915
+46,01-012,3,1,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.261,0.2732414603233337,0.0950614482192113
+47,01-012,2,1,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,499.0,513.8982950846354,8.120859027664387
+47,01-012,2,1,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.167,0.284174382686615,0.13707783176453645
+47,01-012,2,1,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,499.0,512.3534240722656,7.245083221562115
+47,01-012,2,1,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.167,0.3719572027524312,0.061088096750649
+47,01-012,2,1,Residual MLP,Compact deep learning,post_process_hardness_HV30,499.0,517.1882120768229,9.29591657709783
+47,01-012,2,1,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.167,0.24167964855829874,0.09034714225829903
+48,01-012,1,1,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,507.0,504.59079996744794,4.861676249479752
+48,01-012,1,1,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.171,0.3318733175595601,0.10890183628161655
+48,01-012,1,1,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,507.0,512.5109558105469,9.076499933702959
+48,01-012,1,1,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.171,0.4715381860733032,0.008536050250676845
+48,01-012,1,1,Residual MLP,Compact deep learning,post_process_hardness_HV30,507.0,516.507558186849,7.121247261290464
+48,01-012,1,1,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.171,0.3519463539123535,0.1015734404657205
+49,01-011,3,4,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,511.0,506.7035827636719,4.501274144881199
+49,01-011,3,4,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.971,0.671066145102183,0.13413247094011588
+49,01-011,3,4,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,511.0,514.0995483398438,8.960935395389367
+49,01-011,3,4,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.971,0.840890089670817,0.06528362643509134
+49,01-011,3,4,Residual MLP,Compact deep learning,post_process_hardness_HV30,511.0,515.5010375976562,2.8781812659499257
+49,01-011,3,4,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.971,0.8560115297635397,0.06713372133333523
+50,01-011,2,4,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,538.0,512.1932271321615,5.426157030354595
+50,01-011,2,4,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.993,0.7757667303085327,0.14145490112631057
+50,01-011,2,4,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,538.0,514.8998718261719,8.434850032287162
+50,01-011,2,4,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.993,0.8512818813323975,0.07356573159852146
+50,01-011,2,4,Residual MLP,Compact deep learning,post_process_hardness_HV30,538.0,510.4330749511719,3.7873676099129514
+50,01-011,2,4,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.993,0.7526267568270365,0.06423854224940984
+51,01-011,1,4,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,504.0,504.859130859375,1.9455254133746085
+51,01-011,1,4,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.93,0.7503073811531067,0.12943638766496146
+51,01-011,1,4,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,504.0,514.5933430989584,6.3251885242356
+51,01-011,1,4,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.93,0.844090481599172,0.08248596236598625
+51,01-011,1,4,Residual MLP,Compact deep learning,post_process_hardness_HV30,504.0,506.71657307942706,6.567273856562699
+51,01-011,1,4,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.93,0.7817577322324117,0.03638311707857112
+52,01-002,3,9,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,513.0,524.8821004231771,3.209004037192783
+52,01-002,3,9,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.785,1.8274948994318645,0.05244545981144206
+52,01-002,3,9,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,513.0,535.5873413085938,12.54989998006289
+52,01-002,3,9,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.785,1.7604895035425823,0.11826531274260649
+52,01-002,3,9,Residual MLP,Compact deep learning,post_process_hardness_HV30,513.0,539.405517578125,5.821596130811684
+52,01-002,3,9,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.785,1.9260709683100383,0.25018226059320287
+53,01-002,2,9,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,508.0,532.1190795898438,4.256826582336298
+53,01-002,2,9,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.85,1.8187907536824544,0.022113604204923726
+53,01-002,2,9,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,508.0,543.5921020507812,7.793262711337005
+53,01-002,2,9,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.85,1.6973674694697063,0.18152817846896613
+53,01-002,2,9,Residual MLP,Compact deep learning,post_process_hardness_HV30,508.0,553.1325887044271,5.07788405665971
+53,01-002,2,9,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.85,1.864757498105367,0.22608636929854062
+54,01-002,1,9,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,521.0,526.1691284179688,6.198284413175996
+54,01-002,1,9,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.892,1.8314143816630046,0.06610677121583998
+54,01-002,1,9,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,521.0,544.6212361653646,0.6267199731429964
+54,01-002,1,9,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.892,1.6119730075200398,0.15990375229440654
+54,01-002,1,9,Residual MLP,Compact deep learning,post_process_hardness_HV30,521.0,546.5645141601562,6.945512053483911
+54,01-002,1,9,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.892,1.6898634433746338,0.12530197441132035
+55,02-021,3,1,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,602.0,602.3851318359375,2.588026870883761
+55,02-021,3,1,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.204,0.5008087952931722,0.1897357246284481
+55,02-021,3,1,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,602.0,583.5794677734375,12.334405449832563
+55,02-021,3,1,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.204,0.31144515673319495,0.1008882627044478
+55,02-021,3,1,Residual MLP,Compact deep learning,post_process_hardness_HV30,602.0,586.7329711914062,5.195041077199473
+55,02-021,3,1,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.204,0.3144272168477376,0.0829523976811849
+56,02-021,2,1,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,606.0,597.3876342773438,3.5826431243736234
+56,02-021,2,1,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.141,0.4372151295344035,0.23779243351412874
+56,02-021,2,1,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,606.0,576.1055094401041,9.11572212341702
+56,02-021,2,1,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.141,0.28853197892506915,0.07194132944308076
+56,02-021,2,1,Residual MLP,Compact deep learning,post_process_hardness_HV30,606.0,582.3036499023438,3.926551920177902
+56,02-021,2,1,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.141,0.23835120598475132,0.10988360972527998
+57,02-021,1,1,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,592.0,593.5208129882812,1.9944422696411503
+57,02-021,1,1,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.158,0.43581350644429523,0.1618442868015567
+57,02-021,1,1,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,592.0,563.8989868164062,6.9349215853271815
+57,02-021,1,1,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.158,0.34165602922439575,0.07211033926186866
+57,02-021,1,1,Residual MLP,Compact deep learning,post_process_hardness_HV30,592.0,569.6459554036459,2.054508676773128
+57,02-021,1,1,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.158,0.2520548105239868,0.10236668662634191
+58,02-017,3,2,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,608.0,621.9201456705729,4.118157018526275
+58,02-017,3,2,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.783,0.9819793701171875,0.15991605097064238
+58,02-017,3,2,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,608.0,611.2425537109375,6.4761588234830025
+58,02-017,3,2,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.783,0.8833130796750387,0.12566764603454264
+58,02-017,3,2,Residual MLP,Compact deep learning,post_process_hardness_HV30,608.0,617.1429850260416,7.914873771031942
+58,02-017,3,2,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.783,0.8817326029141744,0.11311227363749542
+59,02-017,2,2,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,599.0,620.19482421875,3.1190951331493153
+59,02-017,2,2,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.952,0.9304752349853516,0.11234596132838329
+59,02-017,2,2,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,599.0,609.7574666341146,3.631139509657489
+59,02-017,2,2,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.952,0.8562909563382467,0.10976107978939809
+59,02-017,2,2,Residual MLP,Compact deep learning,post_process_hardness_HV30,599.0,614.5556844075521,9.206462785979777
+59,02-017,2,2,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.952,0.8995300134023031,0.0977823488609552
+60,02-017,1,2,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,599.0,614.9189656575521,5.639023161184793
+60,02-017,1,2,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.845,1.1060849626859028,0.18931980789922487
+60,02-017,1,2,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,599.0,596.4381510416666,9.205720464530556
+60,02-017,1,2,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.845,0.8342009782791138,0.11467207735732664
+60,02-017,1,2,Residual MLP,Compact deep learning,post_process_hardness_HV30,599.0,603.2614949544271,7.448696672864477
+60,02-017,1,2,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.845,0.9553619623184204,0.07530103838394996
+61,02-012,3,7,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,615.0,597.1576944986979,6.070033151175462
+61,02-012,3,7,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,2.297,1.938200831413269,0.05236665261093153
+61,02-012,3,7,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,615.0,598.6712849934896,3.2982090754437685
+61,02-012,3,7,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,2.297,1.9500929514567058,0.054456975538517145
+61,02-012,3,7,Residual MLP,Compact deep learning,post_process_hardness_HV30,615.0,592.3274129231771,11.145497783971773
+61,02-012,3,7,Residual MLP,Compact deep learning,surface_roughness_Ra_um,2.297,1.908124605814616,0.043647891785376716
+62,02-012,2,7,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,608.0,606.2191772460938,6.449493176220604
+62,02-012,2,7,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,2.222,2.10569699605306,0.1488205850188973
+62,02-012,2,7,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,608.0,610.6661783854166,5.78073842721437
+62,02-012,2,7,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,2.222,2.0498284498850503,0.05771758514968767
+62,02-012,2,7,Residual MLP,Compact deep learning,post_process_hardness_HV30,608.0,612.2901814778646,13.105701816881718
+62,02-012,2,7,Residual MLP,Compact deep learning,surface_roughness_Ra_um,2.222,1.9583330154418945,0.0736666518824755
+63,02-012,1,7,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,580.0,615.6484578450521,0.7913615008233674
+63,02-012,1,7,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,2.204,2.0337412357330322,0.027557419217952267
+63,02-012,1,7,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,580.0,606.4260050455729,4.102227772089331
+63,02-012,1,7,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,2.204,1.959391752878825,0.14973386380726905
+63,02-012,1,7,Residual MLP,Compact deep learning,post_process_hardness_HV30,580.0,602.8906860351562,10.610617597696969
+63,02-012,1,7,Residual MLP,Compact deep learning,surface_roughness_Ra_um,2.204,1.8393748601277669,0.16706334875586717
+64,02-018,3,3,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,595.0,605.8399454752604,5.040319314231237
+64,02-018,3,3,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.17,0.4801525076230367,0.07009233018840431
+64,02-018,3,3,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,595.0,587.3978881835938,14.479457518274351
+64,02-018,3,3,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.17,0.37232816219329834,0.1503238217002072
+64,02-018,3,3,Residual MLP,Compact deep learning,post_process_hardness_HV30,595.0,594.7681681315104,9.979186881870499
+64,02-018,3,3,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.17,0.2360721627871195,0.0475678581516031
+65,02-018,2,3,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,584.0,602.1523640950521,4.041947248813816
+65,02-018,2,3,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.2,0.39004455010096234,0.05216935990969173
+65,02-018,2,3,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,584.0,586.4608764648438,12.5379545213967
+65,02-018,2,3,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.2,0.34264707565307617,0.11505137010556776
+65,02-018,2,3,Residual MLP,Compact deep learning,post_process_hardness_HV30,584.0,595.0089111328125,7.819523420214652
+65,02-018,2,3,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.2,0.22372812032699577,0.004798043580610327
+66,02-018,1,3,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,569.0,601.5338745117188,3.945778990540099
+66,02-018,1,3,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.33,0.4171519676844279,0.09838513212448233
+66,02-018,1,3,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,569.0,580.2054239908854,10.540342464113595
+66,02-018,1,3,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.33,0.41071295738220215,0.07673768356443794
+66,02-018,1,3,Residual MLP,Compact deep learning,post_process_hardness_HV30,569.0,588.4585571289062,4.7558188164487465
+66,02-018,1,3,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.33,0.33395814895629883,0.05206833021924046
+67,02-010,3,6,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,617.0,604.1924438476562,6.476825528446403
+67,02-010,3,6,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.91,0.8826610843340555,0.032343825866062305
+67,02-010,3,6,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,617.0,611.8763427734375,4.74539436359842
+67,02-010,3,6,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.91,0.8884673118591309,0.052160029525062386
+67,02-010,3,6,Residual MLP,Compact deep learning,post_process_hardness_HV30,617.0,612.2779134114584,7.6785808382248435
+67,02-010,3,6,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.91,0.8343477646509806,0.05371496313983822
+68,02-010,2,6,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,599.0,600.6028849283854,8.616073458642463
+68,02-010,2,6,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.904,0.9254227081934611,0.030846664477021907
+68,02-010,2,6,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,599.0,619.2806803385416,14.388780730981681
+68,02-010,2,6,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.904,0.9652860164642334,0.18547401171876401
+68,02-010,2,6,Residual MLP,Compact deep learning,post_process_hardness_HV30,599.0,610.2602132161459,12.419348058199148
+68,02-010,2,6,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.904,0.8411272366841634,0.10213698697537178
+69,02-010,1,6,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,615.0,597.7558797200521,13.34488344980793
+69,02-010,1,6,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.821,0.9101799925168356,0.11554211283127584
+69,02-010,1,6,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,615.0,593.2905069986979,3.359820892069559
+69,02-010,1,6,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.821,1.0146392583847046,0.2551511271471462
+69,02-010,1,6,Residual MLP,Compact deep learning,post_process_hardness_HV30,615.0,591.4153442382812,1.5673920010211222
+69,02-010,1,6,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.821,0.8250460624694824,0.07387620045227268
+70,02-008,3,8,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,577.0,599.4536743164062,9.275463704198636
+70,02-008,3,8,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,2.039,2.1129337151845298,0.11257689854512898
+70,02-008,3,8,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,577.0,600.0956420898438,3.112301131941575
+70,02-008,3,8,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,2.039,1.9907173315684001,0.14708359254305647
+70,02-008,3,8,Residual MLP,Compact deep learning,post_process_hardness_HV30,577.0,595.3870646158854,19.721846476837563
+70,02-008,3,8,Residual MLP,Compact deep learning,surface_roughness_Ra_um,2.039,2.1654435793558755,0.12762309624229726
+71,02-008,2,8,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,639.0,595.1290690104166,5.078050716052453
+71,02-008,2,8,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,2.078,1.9713016351064045,0.10911393582230587
+71,02-008,2,8,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,639.0,602.8848266601562,1.7210328406483686
+71,02-008,2,8,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,2.078,1.9768165349960327,0.1383637863361862
+71,02-008,2,8,Residual MLP,Compact deep learning,post_process_hardness_HV30,639.0,592.8285319010416,23.342484471263084
+71,02-008,2,8,Residual MLP,Compact deep learning,surface_roughness_Ra_um,2.078,2.1329411268234253,0.23349836461709614
+72,02-008,1,8,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,628.0,589.2368367513021,10.30370379625362
+72,02-008,1,8,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,1.998,2.028084913889567,0.15888650090878761
+72,02-008,1,8,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,628.0,589.8583577473959,5.334618580769635
+72,02-008,1,8,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,1.998,1.8203569650650024,0.11654979427237591
+72,02-008,1,8,Residual MLP,Compact deep learning,post_process_hardness_HV30,628.0,573.3642781575521,18.754079691422522
+72,02-008,1,8,Residual MLP,Compact deep learning,surface_roughness_Ra_um,1.998,1.9407275120417278,0.19912243121385298
+73,02-002,3,4,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,599.0,573.9982299804688,6.0339950447459865
+73,02-002,3,4,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.219,0.14148978392283115,0.10286666401088168
+73,02-002,3,4,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,599.0,572.2840779622396,4.796262292426973
+73,02-002,3,4,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.219,0.4912235736846924,0.012918991314910115
+73,02-002,3,4,Residual MLP,Compact deep learning,post_process_hardness_HV30,599.0,581.986083984375,6.815666035026213
+73,02-002,3,4,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.219,0.3745303750038147,0.13142381985932708
+74,02-002,2,4,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,588.0,569.5015258789062,6.219177022666559
+74,02-002,2,4,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.192,0.1620638171831766,0.08177504625744449
+74,02-002,2,4,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,588.0,568.0553995768229,2.696783381320712
+74,02-002,2,4,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.192,0.44656636317571,0.027925138363677226
+74,02-002,2,4,Residual MLP,Compact deep learning,post_process_hardness_HV30,588.0,574.0160725911459,5.8013359874913775
+74,02-002,2,4,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.192,0.29068028926849365,0.10977946656304904
+75,02-002,1,4,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,582.0,556.7534383138021,5.038858051859308
+75,02-002,1,4,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.548,0.1906541983286539,0.04033629098115334
+75,02-002,1,4,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,582.0,555.5939737955729,2.4264376226328532
+75,02-002,1,4,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.548,0.4424197276433309,0.044774654995099694
+75,02-002,1,4,Residual MLP,Compact deep learning,post_process_hardness_HV30,582.0,555.956298828125,7.574422821996359
+75,02-002,1,4,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.548,0.28987254699071247,0.07628048541144959
+76,02-005,3,5,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,611.0,596.8992309570312,8.94185933006339
+76,02-005,3,5,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.907,0.7459148168563843,0.11302597944164357
+76,02-005,3,5,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,611.0,589.4391072591146,7.936875093993993
+76,02-005,3,5,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.907,1.0064174731572468,0.05505374828903791
+76,02-005,3,5,Residual MLP,Compact deep learning,post_process_hardness_HV30,611.0,585.8606770833334,16.54578506974096
+76,02-005,3,5,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.907,0.7985853751500448,0.07470556233043306
+77,02-005,2,5,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,590.0,582.7108968098959,3.871609299495917
+77,02-005,2,5,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.915,0.8092056115468343,0.1834618402354475
+77,02-005,2,5,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,590.0,596.6338297526041,1.8096027415966107
+77,02-005,2,5,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.915,1.019531528155009,0.1065683698838636
+77,02-005,2,5,Residual MLP,Compact deep learning,post_process_hardness_HV30,590.0,599.1080118815104,21.351493529863124
+77,02-005,2,5,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.915,0.84507683912913,0.04652913190812184
+78,02-005,1,5,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,585.0,588.1987915039062,8.270674158248367
+78,02-005,1,5,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,0.862,0.7223407626152039,0.05630286965490887
+78,02-005,1,5,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,585.0,593.6435953776041,6.877211295401574
+78,02-005,1,5,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,0.862,1.0121456583340962,0.12142561965563273
+78,02-005,1,5,Residual MLP,Compact deep learning,post_process_hardness_HV30,585.0,599.4639689127604,5.179469720487308
+78,02-005,1,5,Residual MLP,Compact deep learning,surface_roughness_Ra_um,0.862,0.8158951203028361,0.05968770442905751
+79,02-022,3,9,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,589.0,607.1290893554688,5.583825008377107
+79,02-022,3,9,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,1.941,2.027973691622416,0.0915220156938892
+79,02-022,3,9,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,589.0,583.2454630533854,4.581497033325401
+79,02-022,3,9,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,1.941,1.5897713899612427,0.06298073788423157
+79,02-022,3,9,Residual MLP,Compact deep learning,post_process_hardness_HV30,589.0,588.9837646484375,6.288744311546702
+79,02-022,3,9,Residual MLP,Compact deep learning,surface_roughness_Ra_um,1.941,1.6958722273508708,0.18205108967815045
+80,02-022,2,9,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,589.0,615.839599609375,2.219647260525643
+80,02-022,2,9,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,1.835,1.82593568166097,0.06283438282539253
+80,02-022,2,9,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,589.0,591.1869710286459,2.6400295101989246
+80,02-022,2,9,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,1.835,1.541753848393758,0.1750510791101
+80,02-022,2,9,Residual MLP,Compact deep learning,post_process_hardness_HV30,589.0,602.6905314127604,4.995247844703782
+80,02-022,2,9,Residual MLP,Compact deep learning,surface_roughness_Ra_um,1.835,1.5952703555425007,0.11815785436169995
+81,02-022,1,9,Compact FT-Transformer,Compact deep learning,post_process_hardness_HV30,594.0,612.5830485026041,1.5281412700230153
+81,02-022,1,9,Compact FT-Transformer,Compact deep learning,surface_roughness_Ra_um,1.805,1.954793135325114,0.16626435317488425
+81,02-022,1,9,MultiTask MLP,Compact deep learning,post_process_hardness_HV30,594.0,583.9953206380209,3.952963393348345
+81,02-022,1,9,MultiTask MLP,Compact deep learning,surface_roughness_Ra_um,1.805,1.5158155759175618,0.24921838835997584
+81,02-022,1,9,Residual MLP,Compact deep learning,post_process_hardness_HV30,594.0,578.74267578125,13.761225009493876
+81,02-022,1,9,Residual MLP,Compact deep learning,surface_roughness_Ra_um,1.805,1.6084073384602864,0.15067655315776923
