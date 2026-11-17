@@ -1,0 +1,13 @@
+model,protocol,TN,FP,FN,TP,bacc
+Logistic,row,842,1171,898,1476,
+Logistic,logo,246,1767,1205,1169,
+kNN,row,1273,740,690,1684,
+kNN,logo,687,1326,1137,1237,
+SVC,row,1131,882,757,1617,
+SVC,logo,226,1787,1572,802,
+RF,row,1403,610,443,1931,
+RF,logo,705,1308,1181,1193,
+GBM,row,1478,535,410,1964,
+GBM,logo,807,1206,1124,1250,
+Majority baseline,logo,0,2013,1277,1097,0.23104465037910699
+Majority baseline,grouped,0,2013,0,2374,0.5

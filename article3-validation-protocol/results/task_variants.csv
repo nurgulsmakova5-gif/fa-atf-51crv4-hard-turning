@@ -1,0 +1,36 @@
+task,scheme,model,nrmse
+"D1, Ra",leave-one-level-out (HV_init),Ridge,0.4787587890976585
+"D1, Ra",leave-one-level-out (HV_init),kNN,0.5210220406923805
+"D1, Ra",leave-one-level-out (HV_init),SVR,0.7256215007848303
+"D1, Ra",leave-one-level-out (HV_init),RF,0.6076201755894493
+"D1, Ra",leave-one-level-out (HV_init),GBM,1.0000482214071669
+"D1, Ra",leave-one-level-out (f),Ridge,0.6304854197678535
+"D1, Ra",leave-one-level-out (f),kNN,1.0499861643721178
+"D1, Ra",leave-one-level-out (f),SVR,1.2149470654889665
+"D1, Ra",leave-one-level-out (f),RF,1.1220832265293745
+"D1, Ra",leave-one-level-out (f),GBM,1.1124082702990432
+"D1, Ra",leave-one-level-out (v_c),Ridge,0.5383124886895737
+"D1, Ra",leave-one-level-out (v_c),kNN,0.5284605059011704
+"D1, Ra",leave-one-level-out (v_c),SVR,0.7402548335460816
+"D1, Ra",leave-one-level-out (v_c),RF,0.6198349149691567
+"D1, Ra",leave-one-level-out (v_c),GBM,1.0040565195194258
+"D1, HV30",leave-one-level-out (HV_init),Ridge,1.0471984026530081
+"D1, HV30",leave-one-level-out (HV_init),kNN,1.0956717940750462
+"D1, HV30",leave-one-level-out (HV_init),SVR,1.2469152832869494
+"D1, HV30",leave-one-level-out (HV_init),RF,1.1321046111885504
+"D1, HV30",leave-one-level-out (HV_init),GBM,1.1135897693884778
+"D1, HV30",leave-one-level-out (f),Ridge,0.41307442846780856
+"D1, HV30",leave-one-level-out (f),kNN,0.4614732413889082
+"D1, HV30",leave-one-level-out (f),SVR,0.6294841830750788
+"D1, HV30",leave-one-level-out (f),RF,0.3965102203174579
+"D1, HV30",leave-one-level-out (f),GBM,1.0052815276825933
+"D1, HV30",leave-one-level-out (v_c),Ridge,0.42884546314099453
+"D1, HV30",leave-one-level-out (v_c),kNN,0.4202304097054948
+"D1, HV30",leave-one-level-out (v_c),SVR,0.6749350561967221
+"D1, HV30",leave-one-level-out (v_c),RF,0.35437086018008146
+"D1, HV30",leave-one-level-out (v_c),GBM,1.001073687279276
+"D2, VB",leave-one-condition-out,Ridge,0.6970848076775041
+"D2, VB",leave-one-condition-out,kNN,0.6909101399821703
+"D2, VB",leave-one-condition-out,SVR,0.7173070979909507
+"D2, VB",leave-one-condition-out,RF,0.8206015229062988
+"D2, VB",leave-one-condition-out,GBM,0.8249255310216561
